@@ -23,10 +23,10 @@ jobs:
       - name: Build data.zip
         run: |
           rm -rf package data.zip data.zip.sha256
-          mkdir -p package/www
-          cp -r data package/www/data
+          mkdir -p package
+          cp -r data package/data
           cd package
-          zip -r ../data.zip www
+          zip -r ../data.zip data
           cd ..
           sha256sum data.zip | awk '{print $1}' > data.zip.sha256
 
