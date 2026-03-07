@@ -22,6 +22,12 @@
       "Discard"
     ]
   },
+  "gameAnnouncement": {
+    "0": [
+      "Take a look",
+      "Never mind"
+    ]
+  },     
   "skillOnCooldown": {
     "0": [
       "Skill On Cooldown!"

@@ -22,6 +22,12 @@
       "丢弃"
     ]
   },
+  "gameAnnouncement": {
+    "0": [
+      "去看看",
+      "算了吧"
+    ]
+  },    
   "takePhotoOfImouto": {
     "0": [
       "\\nl< >「——努！\\str[121]！    \\w[60]",
