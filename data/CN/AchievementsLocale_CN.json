@@ -3,22 +3,22 @@
     "SLG": {
       "Category Name": "和妹妹一起的回忆",
       "New Scene Name": "",
-      "Trophy Description": "完成该分类下全部成就后解锁奖杯。"
+      "Trophy Description": "妹妹永远是最重要之人"
     },
     "RPG": {
       "Category Name": "在深渊战斗的回忆",
       "New Scene Name": "",
-      "Trophy Description": "在战斗中证明你的实力。"
+      "Trophy Description": "战斗吧…战斗吧！"
     },
     "Gacha": {
       "Category Name": "各种收集物的回忆",
       "New Scene Name": "",
-      "Trophy Description": "完成该分类下全部成就后解锁奖杯。"
+      "Trophy Description": "听说集齐了所有的物品就能召唤——"
     },
     "Ryouri": {
       "Category Name": "料理的回忆",
       "New Scene Name": "",
-      "Trophy Description": "完成该分类下全部成就后解锁奖杯。"
+      "Trophy Description": "料理是带给人们幸福的东西"
     }
   },
   "achievements": {
@@ -27,10 +27,13 @@
       "Description": "可以和妹妹一起玩游戏了！",
       "Pop Up Desc": "游戏机Get!"
     },
-    "隐藏的访客": {
-      "Name": "隐藏的访客",
-      "Description": "找到一次隐藏房间。",
-      "Pop Up Desc": "发现隐藏区域"
+    "AirKing": {
+      "Name": "击坠王",
+      "Description": "难道你不想和天空做朋友吗！",
+      "Pop Up Desc": [
+        "\\fs[24]「难道你不想和天空",
+        "做朋友吗！」"
+      ]
     }
   }
 }

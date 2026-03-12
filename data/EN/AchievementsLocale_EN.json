@@ -1,36 +1,39 @@
 {
   "categories": {
     "SLG": {
-      "Category Name": "和妹妹一起的回忆",
+      "Category Name": "Memories with \\str[120]",
       "New Scene Name": "",
-      "Trophy Description": "完成该分类下全部成就后解锁奖杯。"
+      "Trophy Description": "\\str[120] will always be the most important person"
     },
     "RPG": {
-      "Category Name": "在深渊战斗的回忆",
+      "Category Name": "Memories of Fighting in the Abyss",
       "New Scene Name": "",
-      "Trophy Description": "在战斗中证明你的实力。"
+      "Trophy Description": "Fight... keep fighting!"
     },
     "Gacha": {
-      "Category Name": "各种收集物的回忆",
+      "Category Name": "Memories of Various Collections",
       "New Scene Name": "",
-      "Trophy Description": "完成该分类下全部成就后解锁奖杯。"
+      "Trophy Description": "It is said that if you collect everything, you can summon—"
     },
     "Ryouri": {
-      "Category Name": "料理的回忆",
+      "Category Name": "Memories of Cooking",
       "New Scene Name": "",
-      "Trophy Description": "完成该分类下全部成就后解锁奖杯。"
+      "Trophy Description": "Cooking is something that brings happiness to people"
     }
   },
   "achievements": {
     "JoyStation V": {
-      "Name": "游戏机Get!",
-      "Description": "可以和妹妹一起玩游戏了！",
-      "Pop Up Desc": "遊戲机Get!"
+      "Name": "Got a Game Console!",
+      "Description": "Now you can play games with \\str[120]!",
+      "Pop Up Desc": "Got a Game Console!"
     },
-    "隐藏的访客": {
-      "Name": "隐藏的访客",
-      "Description": "找到一次隐藏房间。",
-      "Pop Up Desc": "发现隐藏区域"
+    "AirKing": {
+      "Name": "Air King",
+      "Description": "\"Don't you want to be friends with the sky!\"",
+      "Pop Up Desc": [
+        "\\fs[22]\"Don't you want to be ",
+        "friends with the sky!\""
+      ]
     }
   }
 }

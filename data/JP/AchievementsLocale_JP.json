@@ -1,0 +1,39 @@
+{
+  "categories": {
+    "SLG": {
+      "Category Name": "妹との思い出",
+      "New Scene Name": "",
+      "Trophy Description": "妹はいつだって一番大切な存在"
+    },
+    "RPG": {
+      "Category Name": "アビスで戦った思い出",
+      "New Scene Name": "",
+      "Trophy Description": "戦え…戦え！"
+    },
+    "Gacha": {
+      "Category Name": "さまざまな収集物の思い出",
+      "New Scene Name": "",
+      "Trophy Description": "すべてのアイテムを集めると召喚できるらしい——"
+    },
+    "Ryouri": {
+      "Category Name": "料理の思い出",
+      "New Scene Name": "",
+      "Trophy Description": "料理は人に幸せをもたらすもの"
+    }
+  },
+  "achievements": {
+    "JoyStation V": {
+      "Name": "ゲーム機Get!",
+      "Description": "妹と一緒にゲームで遊べるようになった！",
+      "Pop Up Desc": "ゲーム機Get!"
+    },
+    "AirKing": {
+      "Name": "撃墜王",
+      "Description": "空と友達になりたくはないか！",
+      "Pop Up Desc": [
+        "\\fs[24]「空と友達になりたくは",
+        "ないか！」"
+      ]
+    }
+  }
+}
