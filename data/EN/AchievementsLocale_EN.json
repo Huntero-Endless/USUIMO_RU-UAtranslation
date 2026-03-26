@@ -22,6 +22,19 @@
     }
   },
   "achievements": {
+    "WhereIsImouto": {
+      "Name": "Where Is Imouto",
+      "Description": "Must find the beloved girl—",
+      "Pop Up Desc": [
+        "\\fs[24]\"Where is my dear ",
+        "Imouto…?\""
+      ]      
+    },
+    "ItsMyImouto": {
+      "Name": "It's my dear Imouto!",
+      "Description": "The beloved girl is right in front of me",
+      "Pop Up Desc": "\"It's my dear Imouto!\""
+    },     
     "JoyStation V": {
       "Name": "Got a Game Console!",
       "Description": "Now you can play games with \\str[120]!",
@@ -29,11 +42,43 @@
     },
     "AirKing": {
       "Name": "Air King",
-      "Description": "\"Don't you want to be friends with the sky!\"",
+      "Description": "You’ve already fallen so many times…",
       "Pop Up Desc": [
         "\\fs[22]\"Don't you want to be ",
         "friends with the sky!\""
       ]
-    }
+    },
+    "Shichosei": {
+      "Name": "The Death Omen Star",
+      "Description": "Defeated by ASABA with a special move",
+      "Pop Up Desc": [
+        "\\fs[22]\"You Can See It…",
+        "the Death Omen Star!!\""
+      ]
+    },        
+    "UnlimitedBladeWaste": {
+      "Name": "Unlimited Blade Waste",
+      "Description": "Do you have enough weapons in stock?",
+      "Pop Up Desc": [
+        "\\fs[22]\"Do you have enough ",
+        "weapons in stock?\""
+      ]
+    },
+    "YouTooCanBecomeLight": {
+      "Name": "You too can become light!",
+      "Description": "Human beings... can become a light all on their own.",
+      "Pop Up Desc": [
+        "\\fs[22]\"You too can become ",
+        "light!\""
+      ]
+    },     
+    "Milkeddry": {
+      "Name": "Milked Dry...",
+      "Description": "There's... not a single drop left...",
+      "Pop Up Desc": [
+        "\\fs[22]\"There's... ",
+        "not a single drop left...\""
+      ]
+    }    
   }
 }

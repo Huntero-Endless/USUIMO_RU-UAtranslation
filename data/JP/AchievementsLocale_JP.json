@@ -22,18 +22,54 @@
     }
   },
   "achievements": {
+    "WhereIsImouto": {
+      "Name": "妹はどこだ？",
+      "Description": "愛する少女を見つけなければ——",
+      "Pop Up Desc": "妹はどこ……？"
+    },
+    "ItsMyImouto": {
+      "Name": "俺の妹だ！",
+      "Description": "愛する少女は目の前にいる",
+      "Pop Up Desc": "俺の妹だ！"
+    },    
     "JoyStation V": {
-      "Name": "ゲーム機Get!",
+      "Name": "ゲーム機ゲット!",
       "Description": "妹と一緒にゲームで遊べるようになった！",
-      "Pop Up Desc": "ゲーム機Get!"
+      "Pop Up Desc": "ゲーム機ゲット!"
     },
     "AirKing": {
       "Name": "撃墜王",
-      "Description": "空と友達になりたくはないか！",
+      "Description": "もう何度落ちたか分からない…",
       "Pop Up Desc": [
         "\\fs[24]「空と友達になりたくは",
         "ないか！」"
       ]
-    }
+    },
+    "Shichosei": {
+      "Name": "輝く死兆星",
+      "Description": "ASABAの特殊技で敗北する",
+      "Pop Up Desc": [
+        "\\fs[24]「天を見よ！！見えるはずだ",
+        "あの死兆星が！！」"
+      ]
+    },    
+    "UnlimitedBladeWaste": {
+      "Name": "無限の剣冢",
+      "Description": "――武器の貯蔵は充分か？",
+      "Pop Up Desc": "――武器の貯蔵は充分か？"
+    },
+    "YouTooCanBecomeLight": {
+      "Name": "光になれる！",
+      "Description": "人は誰でも光になれる！",
+      "Pop Up Desc": "\\fs[36]光になれる！"
+    },    
+    "Milkeddry": {
+      "Name": "搾り尽くされた……",
+      "Description": "もう……一滴も、残ってない……",
+      "Pop Up Desc": [
+        "\\fs[24]「もう……",
+        "一滴も、残ってない……」"
+      ]
+    }    
   }
 }
