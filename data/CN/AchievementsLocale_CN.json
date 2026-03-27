@@ -40,13 +40,21 @@
     "JoyStation V": {
       "Name": "游戏机Get!",
       "Description": "可以和妹妹一起玩游戏了！",
-      "Pop Up Desc": "游戏机Get!"
+      "Pop Up Desc": [
+        "\\fs[24]虽然是游戏，",
+        "但可不是闹着玩的"
+      ]
     },
     "ImoutoBodyPillow": {
       "Name": "妹妹的靠枕",
       "Description": "可以把妹妹抱在腿上了！",
-      "Pop Up Desc": "抱着妹妹一起玩游戏吧！"
-    }, 
+      "Pop Up Desc": "有妹妹不就好了吗？"
+    },
+    "MyImoutoIsJustThatCute": {
+      "Name": "我的妹妹就是这么可爱！",
+      "Description": "和妹妹的亲密度达到顶点！",
+      "Pop Up Desc": "我的妹妹就是这么可爱！"
+    },               
     "PeopleDieIfTheyAreKilled": {
       "Name": "人被杀就会死？",
       "Description": "在深渊里体力归零……",
@@ -86,6 +94,19 @@
         "在天上闪耀！」"
       ]
     },    
+    "ServantAndMaster": {
+      "Name": "从者和御主",
+      "Description": "同时使役五只从者",
+      "Pop Up Desc": [
+        "\\fs[24]「试问。",
+        "你就是我们的御主吗？」"
+      ]
+    },
+    "BossFirstAppearance": {
+      "Name": "为王的诞生、庆贺吧！",
+      "Description": "第一次和BOSS发生战斗",
+      "Pop Up Desc": "为王的诞生、庆贺吧！"
+    },         
     "UnlimitedBladeWaste": {
       "Name": "无限剑冢",
       "Description": "用坏了超过100把武器",
@@ -103,7 +124,12 @@
         "\\fs[24]没被穿过的胖次是没有",
         "价值的！"
       ]
-    },    
+    },
+    "ErogameWithImouto": {
+      "Name": "无可救药的妹控",
+      "Description": "在妹妹的房间用妹妹的电脑玩对妹妹色色的游戏",
+      "Pop Up Desc": "玩妹妹游戏？"
+    },        
     "Milkeddry": {
       "Name": "被榨干了…",
       "Description": "已经、一滴都不剩了……",
