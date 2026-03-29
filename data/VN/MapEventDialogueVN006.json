@@ -1370,7 +1370,7 @@
             "và đầy cám dỗ của em ấy đã được chĩa thẳng vào dương vật của tôi"
         ],   
         "1.1": [
-            "\\nl< >\"...\\str[121]? Chúng ta tắm xong rồi à?     \\w[60]",
+            "\\nl< >\"...\\str[121]? Chúng ta tắm xong rồi à?     \\w[180]",
             "Sao lại đột ngột thế—\"                                         \\w[45]\\^"
         ],  
         "2": [
@@ -1380,8 +1380,8 @@
             "để dương vật của tôi ấn nhẹ nhàng vào âm hộ ấm áp của em ấy."
         ], 
         "3": [
-            "\\nl< >\"Kyaa—!? \\str[121]!?",
-            "K-khoan đã—!",
+            "\\nl< >\"Kyaa—!? \\str[121]!?         \\w[60]",
+            "K-khoan đã—!                     \\w[120]",
             "Tư thế này kỳ quá... chúng ta không thể làm thế này được~!\""
         ], 
         "4": [
@@ -1391,9 +1391,9 @@
             "đúng không nào?~\""
         ], 
         "5": [
-            "\\nl< >\"Uuuu... xấu hổ quá đi...         \\w[60]",
-            "Là em sai rồi, được chưa? ",
-            "Em không nên trêu anh như thế...             \\w[60]",
+            "\\nl< >\"Uuuu... xấu hổ quá đi...         \\w[90]",
+            "Là em sai rồi, được chưa?                                   \\w[90]",
+            "Em không nên trêu anh như thế...             \\w[90]",
             "Nên làm ơn, thả em ra đi mà~~\""
         ],
         "6": [
@@ -1438,8 +1438,8 @@
             "tôi hoàn toàn không có ý định dừng lại. Ngược lại, càng lúc càng hưng phấn hơn."
         ], 
         "12": [
-            "\\nl< >\"K-không… nó đang di chuyển kìa!? \\str[121]~~!!",
-            "Em sẽ ngoan mà, anh muốn em làm gì cũng được...",
+            "\\nl< >\"K-không… nó đang di chuyển kìa!? \\str[121]~~!!                  \\w[90]",
+            "Em sẽ ngoan mà, anh muốn em làm gì cũng được...   \\w[90]",
             "nên làm ơn thả em ra đi mà, ueeeh♥~~!\""
         ],  
         "13": [
@@ -1491,9 +1491,9 @@
             "tạo nên những gợn sóng dâm đãng trên bề mặt gương."
         ],  
         "22": [
-            "\\nl< >\"C-cái gương!? ",
+            "\\nl< >\"C-cái gương!?                            \\w[90]",
             "Như thế này... k-không được... đừng nhìn vào gương mà...",
-            "Ugh... người trong gương... ",
+            "Ugh... người trong gương...    \\w[90]",
             "không phải là em... mngh♥\""
         ],   
         "23": [
@@ -1515,7 +1515,7 @@
             "mà mình vẫn tiếp tục bắt nạt em ấy thì quả thật có hơi quá đáng thật."
         ],   
         "26": [
-            "\\nl< >\"Mngh... \\str[121], anh lại nói dối nữa rồi...!",
+            "\\nl< >\"Mngh... \\str[121], anh lại nói dối nữa rồi...!   \\w[150]",
             "Cô gái trong gương kia chẳng đáng yêu chút nào cả... uuuu...♥\""
         ],   
         "27": [
@@ -1533,7 +1533,7 @@
             "đó chính là minh chứng cho việc chúng ta yêu nhau nhiều đến mức nào đó.\""
         ], 
         "30": [
-            "\\nl< >\"Mnh-ah♥ Yêu... nhau sao...?",
+            "\\nl< >\"Mnh-ah♥ Yêu... nhau sao...?          \\w[120]",
             "\\str[121]... anh sẽ không ghét em vì trở nên như thế này chứ....?\""
         ],   
         "31": [
@@ -1549,7 +1549,8 @@
         "33": [
             "\\nl< >\"Haah... haah♥ Anh lúc nào cũng nói những lời như vậy...",
             "Nhưng mà... nếu anh đã nói thế...♥",
-            "Vậy thì... em sẽ... mngh... cố gắng thêm một chút... và tin tưởng anh...♥ \""
+            "Vậy thì... em sẽ... mngh... ",
+            "cố gắng thêm một chút... và tin tưởng anh...♥ \""
         ],   
         "34": [
             "Mở lòng mình ra, \\str[120] lại bộc lộ ra vẻ đáng yêu ngây thơ thường ngày.",
@@ -1558,9 +1559,9 @@
             "đôi mắt chứa đầy khát khao sâu đậm và nồng nàn dành cho tôi."
         ],
         "35": [
-            "\\nl< >\"Những chuyện dâm đãng, trêu chọc em... ",
-            "Chỉ cần là với \\str[121], em đều yêu thích hết...♥",
-            "Nên là... hãy ở bên cạnh em như thế này mãi mãi nhé... ",
+            "\\nl< >\"Những chuyện dâm đãng, trêu chọc em...                        \\w[90]",
+            "Chỉ cần là với \\str[121], em đều yêu thích hết...♥     \\w[90]",
+            "Nên là... hãy ở bên cạnh em như thế này mãi mãi nhé...                     \\w[90]",
             "anh không được rời xa em đâu, được chứ?...♥\""
         ], 
         "36": [
@@ -1610,7 +1611,7 @@
             "Mình thật sự phải cần biết kiềm chế hơn mới được!"
         ], 
         "45": [
-            "\\nl< >\"Nhột quá... \\w[60]",
+            "\\nl< >\"Nhột quá...                           \\w[60]",
             "Thật là! Cũng tại anh đột nhiên làm mấy chuyện kỳ quái như vậy đấy!",
             "Lẽ ra giờ này tụi mình tắm xong và ra ngoài rồi mới phải!\""
         ], 

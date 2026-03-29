@@ -65,6 +65,11 @@
                 "thì còn cần thêm gì nữa?"
             ]
         },
+        "GachaIsBadCivilization": {
+            "Name": "Gacha Is a Bad Civilization!",
+            "Description": "Spent too much money on gacha and got scolded by Imouto...",
+            "Pop Up Desc": "\\fs[21]Gacha Is a Bad Civilization!"
+        },
         "PeopleDieIfTheyAreKilled": {
             "Name": "Người ta sẽ chết nếu bị giết?",
             "Description": "HP của bạn giảm về 0 trong Vực Sâu...",

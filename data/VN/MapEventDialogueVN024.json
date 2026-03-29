@@ -185,6 +185,178 @@
 			"Thôi kệ, trước tiên phải đi tắm cái đã..."
 		]
 	},
+	"4": {
+		"0": [
+			"\\nl< >\"..............................",
+			"..............................\""
+		],
+		"1": [
+			"I expected things to be like usual, ",
+			"with \\str[120] running to greet me with a healing smile.",
+			"But as soon as I return, I see her standing in the entryway ",
+			"with her hands on her hips.",
+			"Her delicate little face is masked in undisguised resentment, ",
+			"like a judge waiting for a criminal to be brought to justice."
+		],
+		"2": [
+			"Judging by her motionless stance,",
+			"she has clearly been maintaining this pose ",
+			"and waiting here for me for a long time."
+		],
+		"3": [
+			"That's strange. Have I done anything lately ",
+			"to make \\str[120] angry...?",
+			"I quickly mentally review my recent actions, ",
+			"but I can't find any clues."
+		],
+		"4": [
+			"\\nl< >\"Welcome back... \\str[121].\""
+		],
+		"5": [
+			"Oh no! Even \\str[120]'s voice is ice-cold! \\{",
+			"She is definitely pissed off!?"
+		],
+		"6": [
+			"Instant Surrender",
+			"Play innocent",
+			"Tentatively probe"
+		],
+		"7": [
+			"Countless 'crime scenes' flash through my mind in an instant.",
+			"Was it because I stole and drank her milk the other day?",
+			"Or was it because I pinched her cheeks while she was napping?",
+			"Or maybe she's holding a grudge about me peeking at her in the bathroom!?"
+		],
+		"8": [
+			"The more I think about it, the more I feel like I'm in deep trouble.",
+			"I quickly make the judgment and execute the most appropriate reaction—"
+		],
+		"9": [
+			"\"I'm sorry! I confess everything!\""
+		],
+		"10": [
+			"I lunged forward and performed a textbook Dogeza before my \\str[120].",
+			"In a situation like this, showing sincere remorse by prostrating myself ",
+			"is the easiest way to win her forgiveness..."
+		],
+		"11": [
+			"\"Whether it's the milk or those  pranks...",
+			"Please, just show some mercy with the punishment!!\""
+		],
+		"12": [
+			"\\nl< >\"Eh!? W-wait a minute...",
+			"\\str[121]... what on earth are you talking about?\""
+		],
+		"13": [
+			"My majestic \\str[120] was startled back half ",
+			"a step by my exaggerated posture.",
+			"Even the resentment on her face dissipated by half due ",
+			"to sheer shock."
+		],
+		"14": [
+			"\"—Wait, so you're not angry about those things...?\""
+		],
+		"15": [
+			"\\nl< >\"Of course not—!",
+			"I mean, I am angry, but not because of that!\""
+		],
+		"16": [
+			"\\nl< >\"It's about this...!",
+			"I found these under your bed while ",
+			"I was cleaning the room today!!\""
+		],
+		"16.5": [
+			"\\nl< >\"I noticed before that ",
+			"you were secretly collecting these things...",
+			"But the pile just keeps growing!",
+			"You have some explaining to do!\""
+		],
+		"17": [
+			"\\str[120] stepped aside to reveal a large cardboard box ",
+			"filled with various items.",
+			"Because I was so focused on her, I hadn't noticed ",
+			"the box's existence at all until now."
+		],
+		"18": [
+			"\"Ah, it's just the stuff I got from the Gacha machines...\""
+		],
+		"19": [
+			"\\nl< >\"That's exactly it! The collection just keeps growing!",
+			"\\str[121], have you been spending a bit too much money lately?\""
+		],
+		"20": [
+			"Being questioned like that by \\str[120] made me feel guilty.",
+			"I could only keep my head down while remaining in the Dogeza position."
+		],
+		"21": [
+			"\\nl< >\"Even though it's money you earned yourself,",
+			"you still need to be careful about how you spend it...!",
+			"The money you earn from fighting so hard should be used properly!\""
+		],
+		"22": [
+			"\"Guh...\""
+		],
+		"23": [
+			"Listening to my \\str[120]'s caring lecture,",
+			"I could only bow my head and agree, ",
+			"not daring to offer a single word of rebuttal.",
+			" ",
+			"In this narrow entryway, ",
+			"her small figure seemed incredibly tall and reliable at this moment."
+		],
+		"24": [
+			"\"But... when it comes to Gacha... I can't stop my hands...!\""
+		],
+		"25": [
+			"It's the truth. ",
+			"Every time I start a Gacha machine, ",
+			"the sensation in my fingertips feels like magic.",
+			" ",
+			"That spell called 'The next pull is the one' ",
+			"always makes me lose total control.",
+			"By the time I snap out of it, my wallet is already empty."
+		],
+		"26": [
+			"\\nl< >\"...Phew. I figured you'd say that...",
+			"Since you can't control your own hands, ",
+			"you should just let me keep the money for you!\""
+		],
+		"27": [
+			"\\nl< >\"It's not like I can use this money anyway...",
+			"If there's something you really want to buy, ",
+			"you can just ask me for it!\""
+		],
+		"28": [
+			"Hearing this proposal, I was stunned for a moment, ",
+			"but then a strange warmth welled up in my heart.",
+			"Thinking about it, because of her physical condition, ",
+			"she can never go out, so she's never received an allowance."
+		],
+		"29": [
+			"Maybe doing this doesn't strictly have a practical meaning,",
+			"but that's no reason not to let her feel special."
+		],
+		"30": [
+			"\"Yeah... that would actually be a huge help.\""
+		],
+		"31": [
+			"\\nl< >\"Hehe...",
+			"Since you trust me that much, ",
+			"I'll be sure to keep track of every single cent!\""
+		],
+		"32": [
+			"\\nl< >\"Lastly... ",
+			"you're going to explain exactly what happened with ",
+			"my milk later...\""
+		],
+		"33": [
+			"\"................................\""
+		],
+		"34": [
+			"\\{\\c[2]",
+			"You can now give \\str[120] an allowance!"
+		]
+  	},
 	"5": {
 		"0": [
 			"\"K-không chịu nổi nữa...   \\w[30]",
