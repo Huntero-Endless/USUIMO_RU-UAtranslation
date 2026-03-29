@@ -116,6 +116,11 @@
       "Description": "100本以上の武器を壊した",
       "Pop Up Desc": "――武器の貯蔵は充分か？"
     },
+    "DonotYouEverStop": {
+      "Name": "止まるんじゃねぇぞ！",
+      "Description": "超高速で走り続ける",
+      "Pop Up Desc": "止まるんじゃねぇぞ！"
+    },     
     "YouTooCanBecomeLight": {
       "Name": "光になれる！",
       "Description": "Akiの呪いが発作した",
