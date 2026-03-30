@@ -19,20 +19,158 @@
             "Category Name": "Ký ức nấu ăn",
             "New Scene Name": "",
             "Trophy Description": "Nấu ăn mang lại hạnh phúc cho mọi người"
+        },
+        "Hentai": {
+            "Category Name": "Ký ức biến thái",
+            "New Scene Name": "",
+            "Trophy Description": 
+                "Ngọt ngào và cay đắng~Và mọi thứ đều tuyệt vời~"
         }
     },
     "achievements": {
+        "WhereIsImouto": {
+            "Name": "Em gái đang ở đâu?",
+            "Description": "Phải tìm ra em gái mình yêu quý—",
+            "Pop Up Desc": [
+                "\\fs[21]Em gái của mình đâu rồi...?",
+                ""
+            ]
+        },
+        "ItsMyImouto": {
+            "Name": "Đó là em gái của tôi!",
+            "Description": "Em gái tôi yêu quý đang ở ngay trước mắt",
+            "Pop Up Desc": "Đó là em gái của tôi!"
+        },
         "JoyStation V": {
             "Name": "Đã có máy chơi game!",
             "Description": "Giờ bạn có thể chơi game cùng \\str[120]!",
-            "Pop Up Desc": "Đã có máy chơi game!"
+            "Pop Up Desc": [
+                "\\fs[18]Dù đây chỉ là trò chơi ",
+                "Nhưng không được chơi như thế "
+            ]
+        },
+        "MyImoutoIsJustThatCute": {
+            "Name": "Em gái tôi đáng yêu đến thế đấy!",
+            "Description": "Tình cảm của em gái đã đạt đến đỉnh điểm!",
+            "Pop Up Desc": [
+                "\\fs[22]Em gái của tôi ",
+                "cực kỳ đáng yêu!"
+            ]
+        },        
+        "ImoutoBodyPillow": {
+            "Name": "Gối ôm em gái",
+            "Description": "Giờ có thể để em gái ngồi lên đùi khi chơi game!",
+            "Pop Up Desc": [
+                "\\fs[22]Có em gái rồi ",
+                "thì còn cần thêm gì nữa?"
+            ]
+        },
+        "GachaIsBadCivilization": {
+            "Name": "Gacha là một nền văn minh tồi tệ!",
+            "Description": "Tiêu quá nhiều tiền vào gacha rồi bị em gái mắng...",
+            "Pop Up Desc": "\\fs[17]Gacha là một nền văn minh tồi tệ!"
+        },
+        "CanYouSendMe50K": {
+            "Name": "Cho em 50K dược không~?",
+            "Description": "Đã cho em gái hơn 50.000 tiền tiêu vặt trong một lần!",
+            "Pop Up Desc": "Cho em 50K nha~?"
+        },
+        "PeopleDieIfTheyAreKilled": {
+            "Name": "Con người sẽ chết khi bị giết?",
+            "Description": "HP của bạn giảm về 0 trong Vực Sâu...",
+            "Pop Up Desc": 
+                "\\fs[19]Con người sẽ chết khi bị giết?"
+        },
+        "HoardingHabit": {
+            "Name": "Thói Quen Tích Trữ",
+            "Description": "Đã bỏ một lượng lớn vật phẩm vào Cửa Thiên Tinh",
+            "Pop Up Desc": [
+                "\\fs[22]Tôi mắc một căn bệnh ",
+                "không tích đồ là sẽ chết "
+            ]
+        },
+        "TransportedToIsekai": {
+            "Name": "Chuyển sinh sang thế giới khác?",
+            "Description": "Bị xe van cửa hàng cán không thương tiếc...",
+            "Pop Up Desc": "\\fs[18]Chuyển sinh sang thế giới khác!?"
+        },
+        "YouAreAlreadyDead": {
+            "Name": "Khúc Cầu Hồn",
+            "Description": "Bị Thần Chết tuyên bố đã tử vong",
+            "Pop Up Desc": "Ngươi đã chết rồi"
         },
         "AirKing": {
             "Name": "Vua Bầu Trời",
             "Description": "\"Ngươi không muốn làm bạn với bầu trời sao!\"",
             "Pop Up Desc": [
-                "\\fs[22]\"Ngươi không muốn trở thành ",
+                "\\fs[20]\"Ngươi không muốn trở thành ",
                 "bạn với bầu trời sao!\""
+            ]
+        },
+        "Shichosei": {
+            "Name": "Ngôi Sao Tử Vong",
+            "Description": "Bị ASABA hạ gục bằng tuyệt kỹ",
+            "Pop Up Desc": [
+                "\\fs[22]\"Ngươi thấy rồi chứ…",
+                "Ngôi sao báo tử đó!\""
+            ]
+        },
+        "ServantAndMaster": {
+            "Name": "Servants và Master",
+            "Description": "Điều khiển cùng lúc năm Servant",
+            "Pop Up Desc": [
+                "\\fs[18]\"Ta hỏi ngươi—Ngươi có phải là ",
+                "Master của chúng ta không?\""
+            ]
+        },
+        "BossFirstAppearance": {
+            "Name": "Hãy hoan nghênh sự ra đời của vị vua!",
+            "Description": "Đánh boss lần đầu tiên",
+            "Pop Up Desc": [
+                "\\fs[22]Hãy hoan nghênh ",
+                "Sự ra đời của vị vua!"
+            ]
+        },
+        "UnlimitedBladeWaste": {
+            "Name": "Lăng mộ kiếm vô tận",
+            "Description": "Phá hỏng hơn 100 vũ khí",
+            "Pop Up Desc": [
+                "\\fs[24]\"Ngươi có đủ vũ khí ",
+                "dự trữ để dùng không?\""
+            ]
+        },
+        "DonotYouEverStop": {
+            "Name": "Đừng bao giờ dừng lại!",
+            "Description": "Tiếp tục chạy với tốc độ cực nhanh ",
+            "Pop Up Desc": "Đừng bao giờ dừng lại!"
+        },
+        "YouTooCanBecomeLight": {
+            "Name": "Bạn cũng có thể trở thành ánh sáng!",
+            "Description": "Lời nguyền của Aki bùng phát ",
+            "Pop Up Desc": [
+                "\\fs[24]Bạn cũng có thể ",
+                "Trở thành ánh sáng!"
+            ]
+        },
+        "ObtainWornPanties": {
+            "Name": "Quần lót chưa mặc thì vô giá trị!",
+            "Description": "Nhận được quần lót từ em gái~!",
+            "Pop Up Desc":  [
+                 "\\fs[24]Quần lót chưa mặc ",
+                 "thì vô giá trị!"
+            ]
+        },
+        "ErogameWithImouto": {
+            "Name": "Siscon Vô Phương Cứu Chữa",
+            "Description": "Trong phòng em gái, dùng máy của em gái để làm những chuyện dâm đãng với em gái",
+            "Pop Up Desc": "Chơi game với em gái?"
+        },
+        "Milkeddry": {
+            "Name": "Vắt cực khô...",
+            "Description": "Không... thật sự không còn một giọt nào sót lại nữa...",
+            "Pop Up Desc": [
+                "\\fs[22]\"Không... thật sự không còn",
+                "một giọt nào sót lại nữa...\""
             ]
         }
     }

@@ -140,7 +140,7 @@
         ],
 		"2": [
             "Tôi làm theo lời em ấy nằm xuống, ",
-            "và đầu lập tức một cảm giác mềm mại, đàn hồi.",
+            "và đầu tôi lập tức có một cảm giác mềm mại, đàn hồi.",
             "Nhiệt độ cơ thể em ấy có vẻ cao hơn bình thường. ",
             "Sự ấm áp dễ chịu ấy khiến người ta vô cùng thư giản."
         ],
@@ -154,7 +154,7 @@
 			"Chẳng bao lâu sau, cơn buồn ngủ bắt đầu ập đến."
 		],
         "5": [
-            "\\nl< >\"À đúng rồi! Nhân tiện…",
+            "\\nl< >\"À thật đúng lúc! Nhân tiện…",
 			"Hay là để em ngoáy tai cho \\str[121] nhé?\""
 		],
         "6": [
@@ -162,9 +162,9 @@
 		],
         "7": [
             "Chưa kịp phản ứng, ",
-			"em ấy đã không biết lấy từ đâu ra một cây ráy tai chuẩn bị sẵn.",
+			"không biết em ấy lấy từ đâu ra một cây ráy tai đã chuẩn bị sẵn.",
 			"Nhưng \\str[120] chưa từng làm chuyện này bao giờ mà nhỉ? ",
-			"Tôi bỗng thấy hơi hồi hộp—"
+			"Tôi bỗng thấy có hơi hồi hộp—"
 		],
         "8": [
             "\\nl< >\"Ngoan nào, ngoan nào. ",
@@ -179,13 +179,13 @@
         "10": [
 			"\\nl< >\"Ehehe, em bắt đầu nhé… ",
             "Có thể sẽ hơi nhột một chút, ",
-            "nên ráng chịu một lát nha~\""
+            "nên cố chịu một lát nha~\""
 		],
         "11": [
             "Cây ráy tai mát lạnh cẩn thận tiến vào trong tai, ",
 			"một cảm giác tê dại chạy dọc sống lưng tôi.",
             "May mà động tác của em ấy nhẹ nhàng hơn tôi tưởng.",
-			"Sự căng thẳng ban đầu nhanh chóng nhường chỗ cho cảm giác sảng khoái dễ chịu."
+			"Sự căng thẳng ban đầu nhanh chóng biến thành cảm giác thoải mái dễ chịu."
 		],
         "12": [
             "Âm thanh sột soạt đều đặn cùng với ",
@@ -233,7 +233,7 @@
             "\\nl< >\"…Eh? \\str[121], ",
             "vừa rồi anh dụi vào bụng em đó hả?",
             "Nằm yên nào! ",
-            "Không là em chọt nhầm chỗ nguy hiểm đấy…!\""
+            "Không là em chọt nhầm chỗ đó, nguy hiểm lắm đấy…!\""
 		],
         "21": [
             "\\nl< >\"Ư… ừm, ",
@@ -241,8 +241,8 @@
             "Cơ thể em… chắc không có mùi kỳ lạ đâu nhỉ?\""
 		],
         "22": [
-            "\\nl< >\"Nếu áp mặt gần vậy…",
-            "\\str[121] sẽ nghe rõ nhịp tim em luôn đó… ♥\""			
+            "\\nl< >\"Nếu áp mặt gần như vậy…",
+            "\\str[121] sẽ nghe rõ nhịp tim của em luôn đó… ♥\""			
 		],
         "23": [
             "\\nl< >\"Vùi mặt sâu vậy… ",
@@ -260,8 +260,8 @@
             "…Có chuyện gì xảy ra lúc anh ra ngoài à?\""
 		],			
         "26": [
-            "\\nl< >\"Thỉnh thoảng dựa dẫm vào \\str[120] nhiều hơn cũng được mà, biết không?",
-            "\\str[121] là một đứa trẻ ngoan ♥ Nào, ngoan nào~ ♥\""
+            "\\nl< >\"Thỉnh thoảng dựa dẫm vào \\str[120] nhiều hơn cũng được mà?",
+            "\\str[121] đúng là một đứa trẻ ngoan ♥ Nào, ngoan nào~ ♥\""
 		],			
         "27": [
             "\\}\\nl< >\"…Em yêu \\str[121] nhất đó~       \\w[150]\\{",
@@ -278,8 +278,9 @@
 		],
         "32": [
             "Ý thức tôi dần mơ hồ giữa những âm thanh sột soạt.",
-            "Cảm nhận hơi ấm từ bụng em ấy, ",
-            "có vẻ như tôi đã thật sự ngủ quên trên đùi em ấy mất rồi…"
+            "Cảm nhận hơi ấm từ bụng của em ấy, ",
+            "có vẻ như tôi đã thật sự đang chìm vào giấc ngủ ",
+            "trên đùi em ấy mất rồi…"
 		],
         "33": [
             "\\nl< >\"Eh? Xong rồi sao…?           \\w[120]",
@@ -336,7 +337,7 @@
             "nhưng đến giờ đi ngủ rồi...\""
 		],	
         "45": [
-            "\\nl< >\"Nếu \\str[121] còn muốn nữa thì lần sau nhé~\""
+            "\\nl< >\"Nếu \\str[121] còn muốn nữa thì lần sau gọi em nhé~\""
 		]
     },
     "4": {
@@ -458,6 +459,67 @@
 		"22": [
             "\\nl< >\"Uweh-eh-eh... \\str[121], \\w[150]",
 			"anh hăng quá rồi đó...!?\"    \\w[180]\\^"
+        ]
+    },
+    "6": {
+        "0": [
+            "\\nl< >\"Đồng xu sáng bóng luôn!",
+            "Không sao đâu, tích tiểu thành đại mà! ",
+            "Em sẽ giữ cẩn thận nó cho anh nhé~!\""
+        ],
+        "1": [
+            "\\nl< >\"Tiết kiệm từ những khoản nhỏ là bước đầu của quản lý tài chính!",
+            "Em sẽ cất giữ thật kỹ cho anh nha, \\str[121]! Ehehe~\""
+        ],
+        "2": [
+            "\\nl< >\"Ooh, là tiền giấy!",
+            "Với từng này, ngày mai tụi mình có thể ăn thêm ",
+            "món gì ngon hơn không ta!?\""
+        ],
+        "3": [
+            "\\nl< >\"Anh vất vả rồi, \\str[121]!",
+            "Hehe, nếu mỗi ngày tiết kiệm được một nghìn thì một năm sẽ là...\""
+        ],
+        "4": [
+            "\\nl< >\"Nhiều quá... cảm giác nặng thật đó.",
+            "Chỉ cần cầm thôi cũng thấy thành tựu rồi!\""
+        ],
+        "5": [
+            "\\nl< >\"\\str[121], hôm nay anh giỏi thật đó...!",
+            "Hào phóng như vậy... anh đã hoàn thành nhiệm vụ lớn gì à?\""
+        ],
+        "6": [
+            "\\nl< >\"M-mười nghìn á!? \\str[121]...",
+            "chuyến phiêu lưu hôm nay chắc vất vả lắm đúng không?",
+            "Đừng cố quá sức nhé...?\""
+        ],
+        "7": [
+            "\\nl< >\"\\str[121]!?",
+            "Với từng này... ",
+            "em có thể xin thêm vài hộp sữa được không?\""
+        ],
+        "8": [
+            "\\nl< >\"Đ-độ dày này là sao vậy!?",
+            "\\str[121]... anh không làm gì liều lĩnh ở ngoài đấy chứ\"",
+            ""
+        ],
+        "9": [
+            "\\nl< >\"Đây... đây là sức mạnh của tiền sao...",
+            "em cảm giác như đang bay vậy...\""
+        ],
+        "10": [
+            "\\nl< >\"Một, hai, ba...",
+            "Ueeeh, em đếm không xuể nữa rồi~!",
+            "Đ-để nhiều tiền như vậy cho em giữ... có ổn không vậy?\""
+        ],
+        "11": [
+            "\\nl< >\"Em hơi rối rồi...",
+            "\\str[121]... nhà mình thật ra... có phải là rất giàu không...?\""
+        ],
+        "12": [
+            "Mình đã đưa tiền tiêu vặt cho \\str[120] hôm nay rồi.",
+            "Nếu đưa quá thường xuyên có thể khiến em ấy thấy áp lực.",
+            "Tốt hơn là đợi đến ngày mai..."
         ]
     },
     "7": {
@@ -654,7 +716,7 @@
             "Tôi luống cuống vừa lau khô tóc cho em ấy, ",
             "vừa liên tục xin lỗi dỗ dành."
         ]
-    },		
+    },
     "13": {
         "0": [
             "...\\str[121]?",
@@ -924,7 +986,7 @@
         ],
         "70": [
             "Dù có chút sự cố, ",
-			"nhưng cuối cùng tôi vẫn giúp em ấy sấy tóc xong!"       
+			"nhưng rốt cuộc tôi vẫn giúp em ấy sấy tóc xong!"       
         ]
     },
     "14": {
@@ -1145,7 +1207,7 @@
             "Uống gì đó",
 			"Chơi gì đó",
             "Xem gì đó",
-            "Chiều chuộng anh",
+            "\\fs[20]Chiều chuộng anh trai",
             "Tặng quà"
 		],
         "3": [
@@ -1182,11 +1244,11 @@
 			"\\str[121], anh có muốn xem cùng không?\""
 		],	
         "12": [
-            "Hm? Anime...?",
+            "Hm? Anime à...?",
 			"Đó là chương trình TV mà \\str[120] thích sao?"
 		],	
         "13": [
-            "À, được thôi. Xem cùng nhau nhé."
+            "\"À, được thôi. Xem cùng nhau nhé.\""
 		],	
         "14": [
             "\\nl< >\\{\"Vậy em xuống trước đây—!\""
@@ -1206,7 +1268,7 @@
 			"Có lẽ... mình nên dùng nó luôn xem sao..."
 		],	
         "19": [
-            "\\nl< >\"Đây là...!?          \\w[90]",
+            "\\nl< >\"Đây là...!?          \\w[30]",
 			"\\str[121]! Anh định dùng nó luôn sao~?\""
 		],	
         "20": [
@@ -1268,8 +1330,8 @@
 			"Anh đang làm quá lên rồi đó, \\str[121]!\""
 		],	
         "34": [
-            "Dù mặt em đỏ như quả táo và rõ ràng đang căng thẳng,",
-			"em vẫn chống tay vào hông, ưỡn ngực ra,",
+            "Dù mặt em ấy đỏ như quả táo và rõ ràng đang căng thẳng,",
+			"em ấy vẫn chống tay vào hông, ưỡn ngực ra,",
 			"cố tỏ ra bình tĩnh và tự tin hết sức..."
 		],	
         "35": [
@@ -1300,11 +1362,12 @@
 		],	
         "42": [
             "Em ấy đưa lại tấm 'Phiếu Thưởng' cho tôi...",
-			"Gì cơ!? Em ấy thật sự nghiêm túc á!?"
+			"Gì cơ!? Em ấy thật sự nghiêm túc đó hả!?"
 		],	
         "43": [
-            "\\nl< >\"Thấy chưa \\str[121], nếu chỉ là mấy chuyện nhỏ như vậy,",
-			"thì em hoàn toàn có thể làm cho anh mà chẳng cần 'Phiếu Thưởng' đâu~\""
+            "\\nl< >\"Nếu chỉ là mấy chuyện nhỏ như vậy,",
+			"thì em hoàn toàn có thể làm cho \\str[121]",
+            "mà chẳng cần 'Phiếu Thưởng' đâu~\""
 		],
         "44": [
             "\\nl< >\"Anh có chương trình nào muốn xem không, \\str[121]?",
@@ -1665,7 +1728,7 @@
     },			
     "23": {
         "0": [
-            "\\nl< >\"Không! Em sẽ không bao giờ tắm chung với anh đâu!\""
+            "\\nl< >\"Không! Em tuyệt đối sẽ không tắm chung với anh đâu!\""
 		],
 		"1": [
             "Bị \\str[120] từ chối thẳng thừng.",
@@ -1689,11 +1752,11 @@
             "\\nl< >\"...Được thôi ♥\""
         ],	
         "7": [
-            "\\nl< >\"Hmm... \\w[80]Nếu \\str[121] muốn đến vậy...\\w[90]",
-			"thì cùng nhau đi tắm nhé...\""
+            "\\nl< >\"Hmm... \\w[80]Nếu \\str[121] muốn đến thế...\\w[90]",
+			"thì mình cùng nhau đi tắm vậy...\""
         ],	
         "8": [
-            "\\nl< >\"Không! Em sẽ không bao giờ tắm chung với anh đâu!\""
+            "\\nl< >\"Không! Em tuyệt đối sẽ không tắm chung với anh đâu!\""
         ],
         "9": [
             "Bị \\str[120] từ chối thẳng thừng.",
@@ -1705,7 +1768,7 @@
         ],	
         "11": [
             "\\nl< >\"Trời ạ... \\str[121], anh thật phiền phức...",
-			"Được rồi, em sẽ đi...\""
+			"Được rồi, em sẽ đi cùng...\""
         ],		
         "12": [
             "Cầu xin mãi cuối cùng cũng thuyết phục được \\str[120]...!"
@@ -1759,7 +1822,7 @@
             "Hmm, mình vẫn còn vài việc muốn làm."
 		],
         "4": [
-            "\\nl< >\"Ừ, cũng đến lúc nghỉ ngơi rồi.   \\w[120]",
+            "\\nl< >\"Ừ nhỉ, cũng đến lúc nghỉ ngơi rồi.   \\w[120]",
 			"Ngủ ngon nhé, \\str[121].\""
 		],
         "5": [
@@ -2052,7 +2115,7 @@
             "Vỗ mông em ấy"
 		],
         "22": [
-            "Nhìn cặp mông tròn trịa, căng mọng trong chiếc quần đùi bông mềm,",
+            "Nhìn cặp mông tròn trịa, căng mọng trong chiếc quần short bông mềm,",
 			"tôi không kìm được mà đưa tay vỗ nhẹ một cái."
 		],
         "23": [
@@ -2561,7 +2624,7 @@
 			"Tất cả những lo lắng của mình bỗng trở nên thừa thãi..."
 		],
         "50": [
-            "Cuối cùng thì sau khi uống Elixir Rubrum, ",
+            "Rốt cuộc thì sau khi uống Elixir Rubrum xong, ",
 			"cũng chẳng thấy có gì thay đổi.",
 			"Chẳng lẽ nó thực sự không có tác dụng gì sao?"
 		],
@@ -2657,19 +2720,19 @@
             "về loại quần lót mà em ấy đang mặc."
         ],
         "8": [
-            "\\nl< >\"Thật là... em thật sự không thể từ chối anh được...\""
+            "\\nl< >\"Mm... Thật là hết cách mà...\""
         ],
         "9": [
             "\\nl< >\\}\"Em chẳng mặc gì cả...\""
         ],
         "10": [
-            "\\nl< >\\}\"Là loại sọc xanh...\""
+            "\\nl< >\\}\"Là loại sọc xanh đó...\""
         ],
         "11": [
-            "\\nl< >\\}\"Là loại sọc hồng...\""
+            "\\nl< >\\}\"Là loại sọc hồng đó...\""
         ],
         "12": [
-            "\\nl< >\\}\"Là loại trắng tinh...\""
+            "\\nl< >\\}\"Là loại trắng tinh đó...\""
         ],
         "13": [
             "Em ấy chạy lại gần và ghé sát, thì thầm vào tai tôi.",
@@ -2699,7 +2762,7 @@
             "\\nl< >\"Thật là, \\str[121] anh phiền quá đi!\""
         ],
         "20": [
-            "Cuối cùng tôi lại chọc cho em ấy nổi giận..."
+            "Rốt cuộc tôi lại chọc cho em ấy nổi giận..."
         ]
     }
 }

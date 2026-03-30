@@ -185,6 +185,179 @@
 			"Thôi kệ, trước tiên phải đi tắm cái đã..."
 		]
 	},
+	"4": {
+		"0": [
+			"\\nl< >\"..............................",
+			"..............................\""
+		],
+		"1": [
+			"Tôi cứ nghĩ mọi thứ sẽ như thường lệ, ",
+			"\\str[120] sẽ chạy ra đón tôi với nụ cười chữa lành quen thuộc.",
+			"Nhưng ngay khi vừa về đến nhà, tôi đã thấy em ấy đang đứng ở lối vào ",
+			"với hai tay chống hông.",
+			"Gương mặt nhỏ nhắn, xinh xắn của em ấy hiện rõ vẻ bất mãn, ",
+			"như một vị thẩm phán đang chờ tội nhân bị đưa ra xét xử."
+		],
+		"2": [
+			"Nhìn vào dáng đứng nghiêm túc của em ấy,",
+			"rõ ràng là em ấy đã giữ nguyên tư thế này ",
+			"và đứng chờ tôi từ rất lâu rồi."
+		],
+		"3": [
+			"Lạ thật, gần đây mình có làm gì khiến \\str[120] giận à...? ",
+			"Tôi nhanh chóng lục lại trí nhớ về những hành động gần đây của mình,",
+			"nhưng chẳng tìm ra manh mối nào cả.",
+			""
+		],
+		"4": [
+			"\\nl< >\"Mừng anh trở về... \\str[121].\""
+		],
+		"5": [
+			"Nguy rồi! Ngay cả giọng nói của \\str[120] cũng lạnh như băng! \\{",
+			"Chắc chắn là em ấy đang giận thật rồi!?"
+		],
+		"6": [
+			"\\fs[21]Đầu hàng ngay lập tức",
+			"Giả vờ ngây thơ",
+			"Thử thăm dò"
+		],
+		"7": [
+			"Hàng loạt 'hiện trường phạm tội' thoáng lên trong đầu tôi chỉ trong chớp mắt.",
+			"Là vì hôm trước tôi lén uống sữa của em ấy sao?",
+			"Hay là vì tôi véo má em ấy lúc đang ngủ?",
+			"Hay là em ấy vẫn còn để bụng chuyện tôi nhìn lén trong phòng tắm!?"
+		],
+		"8": [
+			"Càng nghĩ càng thấy tình hình vô cùng nguy hiểm.",
+			"Tôi lập tức đưa ra phán đoán và chọn cách phản ứng hợp lý nhất là—"
+		],
+		"9": [
+			"\"Anh xin lỗi! Anh xin nhận tội hết!\""
+		],
+		"10": [
+			"Tôi lao tới, thực hiện một màn xin lỗi dogeza chuẩn mực trước \\str[120].",
+			"Trong tình huống này, thể hiện sự hối lỗi chân thành bằng cách",
+			"cúi rạp mình xuống là cách dễ dàng nhất để giành được sự tha thứ của em ấy..."
+		],
+		"11": [
+			"\"Dù là chuyện sữa hay mấy trò chọc ghẹo kia...",
+			"Làm ơn xử nhẹ tay thôi nhé!!\""
+		],
+		"12": [
+			"\\nl< >\"Eh!? Đ-đợi chút đã...",
+			"\\str[121]... anh đang nói cái gì vậy?\""
+		],
+		"13": [
+			"\\str[120] oai phong của tôi bị tư thế ",
+			"khoa trương ấy dọa lùi lại nửa bước.",
+			"Ngay cả vẻ giận dữ trên mặt em ấy ",
+			"cũng tan biến đi một nửa vì quá bất ngờ."
+		],
+		"14": [
+			"\"—Khoan đã, vậy không phải em giận vì mấy chuyện đó à...?\""
+		],
+		"15": [
+			"\\nl< >\"Tất nhiên là không rồi—!",
+			"Ý em là, đúng là em đang giận, nhưng không phải vì mấy cái đó!\""
+		],
+		"16": [
+			"\\nl< >\"Là vì cái này đây...!",
+			"Hôm nay em dọn phòng thì phát hiện ra ",
+			"đống này dưới gầm giường của anh!!\""
+		],
+		"16.5": [
+			"\\nl< >\"Trước đó em cũng đã để ý là ",
+			"anh lén sưu tầm mấy thứ này rồi...",
+			"Nhưng càng ngày nó càng nhiều lên!",
+			"Anh phải giải thích cho em rõ ràng đó!\""
+		],
+		"17": [
+			"\\str[120] bước sang một bên, để lộ ra một thùng carton lớn",
+			"bên trong chất đầy đủ loại đồ vật.",
+			"Do tôi mải tập trung vào em ấy,  ",
+			"nên đến tận lúc này mới nhận ra sự tồn tại của cái thùng đó."
+		],
+		"18": [
+			"\"Ah, chỉ là mấy thứ anh quay từ máy Gacha thôi mà...\""
+		],
+		"19": [
+			"\\nl< >\"Chính là cái đó đấy! Bộ sưu tập này cứ tăng lên mãi!",
+			"\\str[121], dạo này anh tiêu tiền hơi nhiều rồi đúng không?\""
+		],
+		"20": [
+			"Bị \\str[120] hỏi như vậy khiến tôi cảm thấy chột dạ.",
+			"Tôi chỉ có thể cúi gằm mặt, vẫn giữ nguyên tư thế dogeza."
+		],
+		"21": [
+			"\\nl< >\"Dù là tiền anh tự kiếm được,",
+			"thì cũng phải tiêu một cách cẩn thận chứ...!",
+			"Số tiền anh vất vả kiếm được phải sử dụng cho đàng hoàng!\""
+		],
+		"22": [
+			"\"Guh...\""
+		],
+		"23": [
+			"Nghe lời trách mắng đầy quan tâm của \\str[120],",
+			"tôi chỉ có thể cúi đầu dạ vâng các kiểu, ",
+			"không dám hé miệng cãi lại dù chỉ một câu nào.",
+			" ",
+			"Trong lối vào chật hẹp ấy, dáng người nhỏ nhắn của em ấy",
+			"lúc này lại trông vô cùng cao lớn và đáng tin cậy."
+		],
+		"24": [
+			"\"Nhưng mà... lỡ dính vào gacha rồi... tay anh không dừng lại được...!\""
+		],
+		"25": [
+			"Đó là sự thật. ",
+			"Mỗi khi bắt đầu quay gacha, cảm giác những đầu ngón tay",
+			"cứ như bị ma thuật nào đó mê hoặc vậy.",
+			" ",
+			"Cái câu thần chú mang tên 'Lần quay tiếp theo chắc chắn sẽ trúng' ",
+			"luôn khiến tôi mất hoàn toàn kiểm soát.",
+			"Đến khi tỉnh táo lại thì ví tiền đã trống rỗng từ lúc nào không hay."
+		],
+		"26": [
+			"\\nl< >\"...Haizz. Em đoán trước là anh sẽ nói vậy mà...",
+			"Nếu anh không tự kiểm soát cái tay được, ",
+			"thì cứ để em giữ tiền giúp cho!\""
+		],
+		"27": [
+			"\\nl< >\"Đằng nào em cũng chẳng thể dùng tới số tiền này...",
+			"Nếu anh có thứ gì thật sự muốn mua thì cứ nói với em là được!\"",
+			" "
+		],
+		"28": [
+			"Nghe lời đề nghị đó, tôi sững người một lúc,",
+			"rồi một cảm giác ấm áp kỳ lạ dâng lên trong lòng.",
+			"Nghĩ lại thì, vì tình trạng cơ thể của em ấy nên gần như không thể ra ngoài,",
+			"do đó cũng chưa từng có khái niệm tiền tiêu vặt."
+		],
+		"29": [
+			"Có lẽ việc này không hẳn có ý nghĩa thực tế gì lớn,",
+			"nhưng cũng chẳng có lý do gì để không cho em ấy cảm thấy mình đặc biệt."
+		],
+		"30": [
+			"\"Cũng được... như vậy thật sự giúp anh rất nhiều lắm.\""
+		],
+		"31": [
+			"\\nl< >\"Hehe...",
+			"Anh tin tưởng em đến vậy, ",
+			"thì em nhất định sẽ quản lý từng đồng một cho thật cẩn thận!\""
+		],
+		"32": [
+			"\\nl< >\"À còn nữa... ",
+			"chuyện về sữa của em, ",
+			"lát nữa anh phải giải thích",
+			"cho rõ ràng đấy...\""
+		],
+		"33": [
+			"\"................................\""
+		],
+		"34": [
+			"\\{\\c[2]",
+			"Giờ bạn đã có thể đưa tiền tiêu vặt cho \\str[120]!"
+		]
+  	},
 	"5": {
 		"0": [
 			"\"K-không chịu nổi nữa...   \\w[30]",
@@ -305,7 +478,7 @@
 			"Đi vào toilet"
 		],
 		"9": [
-			"Ừ, cũng muộn rồi, tôi nên đi chuẩn bị bữa tối."
+			"Ừ, cũng muộn rồi, mình nên đi chuẩn bị bữa tối thôi."
 		],
 		"10": [
 			"\"Em muốn ăn gì cho bữa tối nay?\""
