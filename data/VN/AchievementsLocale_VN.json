@@ -32,21 +32,21 @@
             "Name": "Em gái đang ở đâu?",
             "Description": "Phải tìm ra em gái mình yêu quý—",
             "Pop Up Desc": [
-                "\\fs[22]Em gái của mình",
-                "đang ở đâu…?"
+                "\\fs[21]Em gái của mình đâu rồi...?",
+                ""
             ]
         },
         "ItsMyImouto": {
             "Name": "Đó là em gái của tôi!",
             "Description": "Em gái tôi yêu quý đang ở ngay trước mắt",
-            "Pop Up Desc": "Đó là em gái của tôi!!"
+            "Pop Up Desc": "Đó là em gái của tôi!"
         },
         "JoyStation V": {
             "Name": "Đã có máy chơi game!",
             "Description": "Giờ bạn có thể chơi game cùng \\str[120]!",
             "Pop Up Desc": [
-                "\\fs[16]Đây có thể là một trò chơi ",
-                "Nhưng không thể chơi theo cách đó "
+                "\\fs[18]Dù đây chỉ là trò chơi ",
+                "Nhưng không được chơi như thế "
             ]
         },
         "MyImoutoIsJustThatCute": {
@@ -66,22 +66,20 @@
             ]
         },
         "GachaIsBadCivilization": {
-            "Name": "Gacha Is a Bad Civilization!",
-            "Description": "Spent too much money on gacha and got scolded by Imouto...",
-            "Pop Up Desc": "\\fs[21]Gacha Is a Bad Civilization!"
+            "Name": "Gacha là một nền văn minh tồi tệ!",
+            "Description": "Tiêu quá nhiều tiền vào gacha rồi bị em gái mắng...",
+            "Pop Up Desc": "\\fs[17]Gacha là một nền văn minh tồi tệ!"
         },
         "CanYouSendMe50K": {
-            "Name": "Can You Send Me 50K~?",
-            "Description": "Gave Imouto over 50,000 in allowance at once!",
-            "Pop Up Desc": "Can You Send Me 50K~?"
+            "Name": "Cho em 50K dược không~?",
+            "Description": "Đã cho em gái hơn 50.000 tiền tiêu vặt trong một lần!",
+            "Pop Up Desc": "Cho em 50K nha~?"
         },
         "PeopleDieIfTheyAreKilled": {
-            "Name": "Người ta sẽ chết nếu bị giết?",
+            "Name": "Con người sẽ chết khi bị giết?",
             "Description": "HP của bạn giảm về 0 trong Vực Sâu...",
-            "Pop Up Desc": [
-                "\\fs[20]Người ta sẽ chết nếu bị giết?",
-                ""
-            ]
+            "Pop Up Desc": 
+                "\\fs[19]Con người sẽ chết khi bị giết?"
         },
         "HoardingHabit": {
             "Name": "Thói Quen Tích Trữ",
@@ -142,9 +140,9 @@
             ]
         },
         "DonotYouEverStop": {
-            "Name": "Don't you ever stop!",
-            "Description": "Keep running at super high speed",
-            "Pop Up Desc": "Don't you ever stop!"
+            "Name": "Đừng bao giờ dừng lại!",
+            "Description": "Tiếp tục chạy với tốc độ cực nhanh ",
+            "Pop Up Desc": "Đừng bao giờ dừng lại!"
         },
         "YouTooCanBecomeLight": {
             "Name": "Bạn cũng có thể trở thành ánh sáng!",

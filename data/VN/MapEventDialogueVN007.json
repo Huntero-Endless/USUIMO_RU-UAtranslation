@@ -60,13 +60,13 @@
             "từ màn hình TV chiếu rọi, trông trắng trẻo và nổi bật đến lạ."
         ],
         "8": [
-            "Nhìn xuống thấp hơn",
-            "Buông em ấy ra"
+            "Nhìn xuống ",
+            "Buông em ấy ra "
         ],
         "9": [
             "Ánh mắt tôi lướt qua những ngón tay em ấy— ",
             "đang siết chặt tay cầm chơi game với vẻ rất tập trung—.",
-            "rồi tôi tiếp tục nhìn xuống ",
+            "rồi tôi tiếp tục nhìn xuống. ",
             " ",
             "Cặp đùi dài, trắng mịn của em ấy hơi hở ra do tư thế ngồi, ",
             "khiến tôi có ảo giác rằng chỉ cần vươn tay ra một chút thôi,",
@@ -190,7 +190,7 @@
             "tấm lưng nhỏ nhắn của em ấy vẫn khẽ run lên."
         ],   
         "19": [
-            "\\nl< >\"Ugh... thật tình, \\str[121], anh lại thế nữa rồi...",
+            "\\nl< >\"Ugh... thật tình, \\str[121] lại thế nữa rồi...",
             "Anh thừa biết bây giờ em không rảnh tay mà...!\""
         ],   
         "20": [
@@ -207,7 +207,7 @@
         "0": [
             "Thành công rồi! ",
             "\\str[120] hoàn toàn không hề nhận ra động tác nhỏ của tôi.",
-            "Mặc dù chỗ kín đáo của em ấy đã hoàn toàn trần trụi ",
+            "Mặc dù phía dưới của em ấy đã hoàn toàn banh chân ra, ",
             "nhưng em ấy vẫn dán chặt mắt vào màn hình.",
             "Trong đầu của em ấy hoàn toàn đắm chìm vào thế giới game, ",
             "không biết rằng tiếp theo tôi có thể để mặc tôi tự do hành động."
@@ -218,7 +218,7 @@
             "Khép đùi lại"
         ],
         "2": [
-            "Cởi quần đùi",
+            "Cởi quần short",
             "Cởi quần lót"
         ],
         "3": [
@@ -235,10 +235,10 @@
         "5": [
             "Động tác diễn ra liền mạch như nước chảy. ",
             "Trước khi em ấy kịp phản ứng,",
-            "chiếc quần đùi đã bị cởi ra và bị ném sang một bên."
+            "chiếc quần short đã bị cởi ra và bị ném sang một bên."
         ],
         "6": [
-            "Không còn chiếc quần đùi che chắn, cảnh tượng trước mắt khiến tôi nghẹn thở.",
+            "Không còn chiếc quần short che chắn, cảnh tượng trước mắt khiến tôi nghẹn thở.",
             "Hóa ra hôm nay \\str[120] không mặc gì bên trong cả! ",
             "Chiếc âm hộ nhỏ xinh của em ấy hoàn toàn bị phơi bày ra,",
             "hiện diện rõ ràng ngay trước mắt tôi."
@@ -353,9 +353,10 @@
             "Thôi bỏ đi"
         ],
         "1": [
-            "\\str[120] vẫn hoàn toàn dán mắt vào màn hình, ",
+            "\\str[120] vẫn chăm chú dán mắt vào màn hình, ",
             "không hề có ý định dừng lại.",
-            "Mình có nên làm gì đó để thu hút sự chú ý của em ấy không nhỉ—?"
+            "Mình có nên làm gì đó để thu hút ",
+            "sự chú ý của em ấy không nhỉ—?"
         ], 
         "2": [
             "Ừ, có lẽ bây giờ không nên trêu \\str[120] thì hơn."
@@ -370,7 +371,7 @@
             "\\w[60]"
         ],   
         "5": [
-            "\\nl< >\"Ehh... em đang chơi mà...\"",
+            "\\nl< >\"Ehh... giờ em đang chơi mà...\"",
             "\\w[60]"
         ],   
         "6": [
@@ -413,7 +414,7 @@
             "Vén áo ngực lên",
             "Sửa lại áo ngực",
             "Vuốt ve đùi em ấy",
-            "Dạng đùi em ấy ra",
+            "Dạng chân ra",
             "Ngừng trêu chọc"
         ],
         "1": [
@@ -645,11 +646,11 @@
         "0": [
             "\\nl< >\"Aaaaah—! Thật không thể tin được! ",
             "Tất cả tại \\str[121] cứ nghịch ngợm quậy phá, ",
-            "làm em thua rồi nè!\""
+            "làm em thua rồi đó!\""
         ],
         "1": [
-            "Vì sự quấy rối của tôi vừa rồi, ",
-            "\\str[120] đã mất tập trung đúng vào thời khắc then chốt khi đối đầu với BOSS,",
+            "Vì sự quấy rối của tôi vừa rồi, \\str[120] đã mất tập trung ",
+            "đúng vào thời khắc then chốt khi đối đầu với BOSS,",
             "kết quả là trúng trọn đòn tất sát của đối phương, ",
             "dẫn đến một thất bại đầy tiếc nuối..."
         ], 

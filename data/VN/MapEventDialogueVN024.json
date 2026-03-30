@@ -191,170 +191,171 @@
 			"..............................\""
 		],
 		"1": [
-			"I expected things to be like usual, ",
-			"with \\str[120] running to greet me with a healing smile.",
-			"But as soon as I return, I see her standing in the entryway ",
-			"with her hands on her hips.",
-			"Her delicate little face is masked in undisguised resentment, ",
-			"like a judge waiting for a criminal to be brought to justice."
+			"Tôi cứ nghĩ mọi thứ sẽ như thường lệ, ",
+			"\\str[120] sẽ chạy ra đón tôi với nụ cười chữa lành quen thuộc.",
+			"Nhưng ngay khi vừa về đến nhà, tôi đã thấy em ấy đang đứng ở lối vào ",
+			"với hai tay chống hông.",
+			"Gương mặt nhỏ nhắn, xinh xắn của em ấy hiện rõ vẻ bất mãn, ",
+			"như một vị thẩm phán đang chờ tội nhân bị đưa ra xét xử."
 		],
 		"2": [
-			"Judging by her motionless stance,",
-			"she has clearly been maintaining this pose ",
-			"and waiting here for me for a long time."
+			"Nhìn vào dáng đứng nghiêm túc của em ấy,",
+			"rõ ràng là em ấy đã giữ nguyên tư thế này ",
+			"và đứng chờ tôi từ rất lâu rồi."
 		],
 		"3": [
-			"That's strange. Have I done anything lately ",
-			"to make \\str[120] angry...?",
-			"I quickly mentally review my recent actions, ",
-			"but I can't find any clues."
+			"Lạ thật, gần đây mình có làm gì khiến \\str[120] giận à...? ",
+			"Tôi nhanh chóng lục lại trí nhớ về những hành động gần đây của mình,",
+			"nhưng chẳng tìm ra manh mối nào cả.",
+			""
 		],
 		"4": [
-			"\\nl< >\"Welcome back... \\str[121].\""
+			"\\nl< >\"Mừng anh trở về... \\str[121].\""
 		],
 		"5": [
-			"Oh no! Even \\str[120]'s voice is ice-cold! \\{",
-			"She is definitely pissed off!?"
+			"Nguy rồi! Ngay cả giọng nói của \\str[120] cũng lạnh như băng! \\{",
+			"Chắc chắn là em ấy đang giận thật rồi!?"
 		],
 		"6": [
-			"Instant Surrender",
-			"Play innocent",
-			"Tentatively probe"
+			"\\fs[21]Đầu hàng ngay lập tức",
+			"Giả vờ ngây thơ",
+			"Thử thăm dò"
 		],
 		"7": [
-			"Countless 'crime scenes' flash through my mind in an instant.",
-			"Was it because I stole and drank her milk the other day?",
-			"Or was it because I pinched her cheeks while she was napping?",
-			"Or maybe she's holding a grudge about me peeking at her in the bathroom!?"
+			"Hàng loạt 'hiện trường phạm tội' thoáng lên trong đầu tôi chỉ trong chớp mắt.",
+			"Là vì hôm trước tôi lén uống sữa của em ấy sao?",
+			"Hay là vì tôi véo má em ấy lúc đang ngủ?",
+			"Hay là em ấy vẫn còn để bụng chuyện tôi nhìn lén trong phòng tắm!?"
 		],
 		"8": [
-			"The more I think about it, the more I feel like I'm in deep trouble.",
-			"I quickly make the judgment and execute the most appropriate reaction—"
+			"Càng nghĩ càng thấy tình hình vô cùng nguy hiểm.",
+			"Tôi lập tức đưa ra phán đoán và chọn cách phản ứng hợp lý nhất là—"
 		],
 		"9": [
-			"\"I'm sorry! I confess everything!\""
+			"\"Anh xin lỗi! Anh xin nhận tội hết!\""
 		],
 		"10": [
-			"I lunged forward and performed a textbook Dogeza before my \\str[120].",
-			"In a situation like this, showing sincere remorse by prostrating myself ",
-			"is the easiest way to win her forgiveness..."
+			"Tôi lao tới, thực hiện một màn xin lỗi dogeza chuẩn mực trước \\str[120].",
+			"Trong tình huống này, thể hiện sự hối lỗi chân thành bằng cách",
+			"cúi rạp mình xuống là cách dễ dàng nhất để giành được sự tha thứ của em ấy..."
 		],
 		"11": [
-			"\"Whether it's the milk or those  pranks...",
-			"Please, just show some mercy with the punishment!!\""
+			"\"Dù là chuyện sữa hay mấy trò chọc ghẹo kia...",
+			"Làm ơn xử nhẹ tay thôi nhé!!\""
 		],
 		"12": [
-			"\\nl< >\"Eh!? W-wait a minute...",
-			"\\str[121]... what on earth are you talking about?\""
+			"\\nl< >\"Eh!? Đ-đợi chút đã...",
+			"\\str[121]... anh đang nói cái gì vậy?\""
 		],
 		"13": [
-			"My majestic \\str[120] was startled back half ",
-			"a step by my exaggerated posture.",
-			"Even the resentment on her face dissipated by half due ",
-			"to sheer shock."
+			"\\str[120] oai phong của tôi bị tư thế ",
+			"khoa trương ấy dọa lùi lại nửa bước.",
+			"Ngay cả vẻ giận dữ trên mặt em ấy ",
+			"cũng tan biến đi một nửa vì quá bất ngờ."
 		],
 		"14": [
-			"\"—Wait, so you're not angry about those things...?\""
+			"\"—Khoan đã, vậy không phải em giận vì mấy chuyện đó à...?\""
 		],
 		"15": [
-			"\\nl< >\"Of course not—!",
-			"I mean, I am angry, but not because of that!\""
+			"\\nl< >\"Tất nhiên là không rồi—!",
+			"Ý em là, đúng là em đang giận, nhưng không phải vì mấy cái đó!\""
 		],
 		"16": [
-			"\\nl< >\"It's about this...!",
-			"I found these under your bed while ",
-			"I was cleaning the room today!!\""
+			"\\nl< >\"Là vì cái này đây...!",
+			"Hôm nay em dọn phòng thì phát hiện ra ",
+			"đống này dưới gầm giường của anh!!\""
 		],
 		"16.5": [
-			"\\nl< >\"I noticed before that ",
-			"you were secretly collecting these things...",
-			"But the pile just keeps growing!",
-			"You have some explaining to do!\""
+			"\\nl< >\"Trước đó em cũng đã để ý là ",
+			"anh lén sưu tầm mấy thứ này rồi...",
+			"Nhưng càng ngày nó càng nhiều lên!",
+			"Anh phải giải thích cho em rõ ràng đó!\""
 		],
 		"17": [
-			"\\str[120] stepped aside to reveal a large cardboard box ",
-			"filled with various items.",
-			"Because I was so focused on her, I hadn't noticed ",
-			"the box's existence at all until now."
+			"\\str[120] bước sang một bên, để lộ ra một thùng carton lớn",
+			"bên trong chất đầy đủ loại đồ vật.",
+			"Do tôi mải tập trung vào em ấy,  ",
+			"nên đến tận lúc này mới nhận ra sự tồn tại của cái thùng đó."
 		],
 		"18": [
-			"\"Ah, it's just the stuff I got from the Gacha machines...\""
+			"\"Ah, chỉ là mấy thứ anh quay từ máy Gacha thôi mà...\""
 		],
 		"19": [
-			"\\nl< >\"That's exactly it! The collection just keeps growing!",
-			"\\str[121], have you been spending a bit too much money lately?\""
+			"\\nl< >\"Chính là cái đó đấy! Bộ sưu tập này cứ tăng lên mãi!",
+			"\\str[121], dạo này anh tiêu tiền hơi nhiều rồi đúng không?\""
 		],
 		"20": [
-			"Being questioned like that by \\str[120] made me feel guilty.",
-			"I could only keep my head down while remaining in the Dogeza position."
+			"Bị \\str[120] hỏi như vậy khiến tôi cảm thấy chột dạ.",
+			"Tôi chỉ có thể cúi gằm mặt, vẫn giữ nguyên tư thế dogeza."
 		],
 		"21": [
-			"\\nl< >\"Even though it's money you earned yourself,",
-			"you still need to be careful about how you spend it...!",
-			"The money you earn from fighting so hard should be used properly!\""
+			"\\nl< >\"Dù là tiền anh tự kiếm được,",
+			"thì cũng phải tiêu một cách cẩn thận chứ...!",
+			"Số tiền anh vất vả kiếm được phải sử dụng cho đàng hoàng!\""
 		],
 		"22": [
 			"\"Guh...\""
 		],
 		"23": [
-			"Listening to my \\str[120]'s caring lecture,",
-			"I could only bow my head and agree, ",
-			"not daring to offer a single word of rebuttal.",
+			"Nghe lời trách mắng đầy quan tâm của \\str[120],",
+			"tôi chỉ có thể cúi đầu dạ vâng các kiểu, ",
+			"không dám hé miệng cãi lại dù chỉ một câu nào.",
 			" ",
-			"In this narrow entryway, ",
-			"her small figure seemed incredibly tall and reliable at this moment."
+			"Trong lối vào chật hẹp ấy, dáng người nhỏ nhắn của em ấy",
+			"lúc này lại trông vô cùng cao lớn và đáng tin cậy."
 		],
 		"24": [
-			"\"But... when it comes to Gacha... I can't stop my hands...!\""
+			"\"Nhưng mà... lỡ dính vào gacha rồi... tay anh không dừng lại được...!\""
 		],
 		"25": [
-			"It's the truth. ",
-			"Every time I start a Gacha machine, ",
-			"the sensation in my fingertips feels like magic.",
+			"Đó là sự thật. ",
+			"Mỗi khi bắt đầu quay gacha, cảm giác những đầu ngón tay",
+			"cứ như bị ma thuật nào đó mê hoặc vậy.",
 			" ",
-			"That spell called 'The next pull is the one' ",
-			"always makes me lose total control.",
-			"By the time I snap out of it, my wallet is already empty."
+			"Cái câu thần chú mang tên 'Lần quay tiếp theo chắc chắn sẽ trúng' ",
+			"luôn khiến tôi mất hoàn toàn kiểm soát.",
+			"Đến khi tỉnh táo lại thì ví tiền đã trống rỗng từ lúc nào không hay."
 		],
 		"26": [
-			"\\nl< >\"...Phew. I figured you'd say that...",
-			"Since you can't control your own hands, ",
-			"you should just let me keep the money for you!\""
+			"\\nl< >\"...Haizz. Em đoán trước là anh sẽ nói vậy mà...",
+			"Nếu anh không tự kiểm soát cái tay được, ",
+			"thì cứ để em giữ tiền giúp cho!\""
 		],
 		"27": [
-			"\\nl< >\"It's not like I can use this money anyway...",
-			"If there's something you really want to buy, ",
-			"you can just ask me for it!\""
+			"\\nl< >\"Đằng nào em cũng chẳng thể dùng tới số tiền này...",
+			"Nếu anh có thứ gì thật sự muốn mua thì cứ nói với em là được!\"",
+			" "
 		],
 		"28": [
-			"Hearing this proposal, I was stunned for a moment, ",
-			"but then a strange warmth welled up in my heart.",
-			"Thinking about it, because of her physical condition, ",
-			"she can never go out, so she's never received an allowance."
+			"Nghe lời đề nghị đó, tôi sững người một lúc,",
+			"rồi một cảm giác ấm áp kỳ lạ dâng lên trong lòng.",
+			"Nghĩ lại thì, vì tình trạng cơ thể của em ấy nên gần như không thể ra ngoài,",
+			"do đó cũng chưa từng có khái niệm tiền tiêu vặt."
 		],
 		"29": [
-			"Maybe doing this doesn't strictly have a practical meaning,",
-			"but that's no reason not to let her feel special."
+			"Có lẽ việc này không hẳn có ý nghĩa thực tế gì lớn,",
+			"nhưng cũng chẳng có lý do gì để không cho em ấy cảm thấy mình đặc biệt."
 		],
 		"30": [
-			"\"Yeah... that would actually be a huge help.\""
+			"\"Cũng được... như vậy thật sự giúp anh rất nhiều lắm.\""
 		],
 		"31": [
 			"\\nl< >\"Hehe...",
-			"Since you trust me that much, ",
-			"I'll be sure to keep track of every single cent!\""
+			"Anh tin tưởng em đến vậy, ",
+			"thì em nhất định sẽ quản lý từng đồng một cho thật cẩn thận!\""
 		],
 		"32": [
-			"\\nl< >\"Lastly... ",
-			"you're going to explain exactly what happened with ",
-			"my milk later...\""
+			"\\nl< >\"À còn nữa... ",
+			"chuyện về sữa của em, ",
+			"lát nữa anh phải giải thích",
+			"cho rõ ràng đấy...\""
 		],
 		"33": [
 			"\"................................\""
 		],
 		"34": [
 			"\\{\\c[2]",
-			"You can now give \\str[120] an allowance!"
+			"Giờ bạn đã có thể đưa tiền tiêu vặt cho \\str[120]!"
 		]
   	},
 	"5": {

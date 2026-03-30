@@ -407,7 +407,7 @@
         "28": [
             "\\str[120] vẫn miệt mài xoay hông,",
 			"tôi cảm giác mình sắp không kìm chế được nữa…!",
-			"Cuối cùng, tôi nên để em ấy kết thúc thế nào!?"
+			"Cuối cùng tôi nên để em ấy kết thúc thế nào!?"
 		],
         "29": [
 			"\\nl< >\"Nếu em có thể làm theo ý mình —ừm, đ-được rồi...              \\w[120]",
@@ -1136,7 +1136,7 @@
         ],
         "23.6": [
             "\"Ooooohhhhh...! Anh biết mà... ",
-            "cuối cùng thì em vẫn luôn là người tốt nhất đối với anh...!\""
+            "Rốt cuộc thì em vẫn luôn là người tốt nhất đối với anh...!\""
         ],
         "23.7": [
             "\\str[120] khẽ thở dài rồi tiếp tục công việc của mình.",
@@ -1371,7 +1371,7 @@
         ],   
         "1.1": [
             "\\nl< >\"...\\str[121]? Chúng ta tắm xong rồi à?     \\w[180]",
-            "Sao lại đột ngột thế—\"                                         \\w[45]\\^"
+            "Sao tự nhiên lại đột ngột thế—\"                                         \\w[45]\\^"
         ],  
         "2": [
             "Sau đó, khi em ấy vẫn còn chưa kịp định thần,",
@@ -1629,8 +1629,8 @@
             "chuyển thành biểu cảm giận dỗi đầy ấm ức."
         ],   
         "49": [
-            "\\nl< >\"Cuối cùng... ",
-            "cuối cùng thì cái này có phải là tắm đâu chứ!",
+            "\\nl< >\"Rốt cuộc... ",
+            "rốt cuộc thì cái này có phải là tắm đâu chứ!",
             "Từ đầu đến cuối anh chỉ toàn tìm cách ",
             "bắt nạt em thôi...!\""
         ],
