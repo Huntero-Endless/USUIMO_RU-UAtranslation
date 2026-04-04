@@ -156,7 +156,8 @@
             "chứa đựng linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
         ],
         "ability": [
-            "Tăng sức mạnh và tốc độ tấn công"
+            "Tăng sức mạnh và tốc độ tấn công",
+            "Reduces fall damage by 30%"
         ]
     },
     "13": {
@@ -171,7 +172,8 @@
             "được chứa đựng linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
         ],
         "ability": [
-            "Tăng tốc độ tấn công và di chuyển, giảm thời gian hồi kỹ năng Thiểm Bộ"
+            "Tăng tốc độ tấn công và di chuyển, giảm thời gian hồi kỹ năng Thiểm Bộ",
+            "Reduces fall damage by 30%"
         ]
     },
     "14": {
@@ -186,7 +188,7 @@
         ],
         "ability": [
             "HP tối đa +\\c[29]${$gameActors.actor(1).skillMasteryLevel(35)>0?(($gameActors.actor(1).skillMasteryLevel(35)*($gameActors.actor(1).skillMasteryLevel(35) + 1)/2)*15)/$gameActors.actor(1).skillMasteryLevel(35):15}\\c[0]",
-            "Trang bị nhiều món này sẽ tăng cường hiệu quả"
+            "Equip multiple copies to enhance the effect and gain additional bonuses"
         ]
     },
     "15": {
@@ -736,7 +738,8 @@
             "nó vẫn ban cho người đeo chút khả năng kháng trọng lực"
         ],
         "ability": [
-            "Giảm 66% sát thương khi rơi"
+            "Giảm 80% sát thương khi rơi",
+            "AoE damage from falling increased by 100%"
         ]
     },
     "54": {
@@ -943,6 +946,22 @@
         "ability": [
             "Ngăn chặn mọi hình thức hồi HP khi trang bị",
             "Khi HP về 0, bạn vẫn sẽ duy trì thêm một thời gian trước khi gục ngã"
+        ]
+    },
+    "71": {
+        "name": [
+            "Permafrost Crystal"
+        ],
+        "subtitle": [
+            "\"My heart has gone cold... I guess I'll never feel joy or sorrow ever again...\""
+        ],
+        "description": [
+            "A magical crystal that emits a bone-chilling frost",
+            "Even in the sweltering heat, one can still feel its freezing breath"
+        ],
+        "ability": [
+            "Immune to Burning and Heatstroke states",
+            "Increases shatter damage dealt when breaking an enemy's Frozen state"
         ]
     },
     "73": {
