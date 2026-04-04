@@ -154,7 +154,8 @@
       "with a cat’s spirit. Equipping them boosts your agility!"
     ],
     "ability": [
-      "Increases attack power and attack speed"
+      "Increases attack power and attack speed",
+      "Reduces fall damage by 30%"
     ]
   },
   "13": {
@@ -169,7 +170,8 @@
       "with a cat’s spirit. Equipping them boosts your agility!"
     ],
     "ability": [
-      "Increases attack and movement speed, reduces Senpo cooldown"
+      "Increases attack and movement speed, reduces Senpo cooldown",
+      "Reduces fall damage by 30%"
     ]
   },
   "14": {
@@ -183,7 +185,7 @@
     ],
     "ability": [
       "Max HP +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
-      "Wearing multiple of this gear enhances its effect"
+      "Equip multiple copies to enhance the effect and gain additional bonuses"
     ]
   },
   "15": {
@@ -731,7 +733,8 @@
       "it still grants the wearer a bit of freedom from gravity"
     ],
     "ability": [
-      "Reduces fall damage by 66%"
+      "Reduces fall damage by 80%",
+      "AoE damage from falling increased by 100%"
     ]
   },
   "54": {
