@@ -67,6 +67,16 @@
         "무기의 저장량은 충분한가?"
       ]
     },
+    "TheSwordSaintOfTheSticks": {
+      "Name": "시골의 검성",
+      "Description": "매일 거르지 않은 휘두르기의 성과",
+      "Pop Up Desc": "시골 영감이라 불리던 검성"
+    },
+    "ItWasToMeasureMyCapacity": {
+      "Name": "자신의 '그릇'을 확인하기 위해서다",
+      "Description": "인술을 습득했습니다",
+      "Pop Up Desc": "\"「자신의 『그릇』을 확인하기 위해서다.」\""
+    },
     "DonotYouEverStop": {
       "Name": "너네가 멈추지않는한 그 앞에는 내가있어!",
       "Description": "초고속으로 계속해서 달리기",
