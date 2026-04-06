@@ -157,7 +157,7 @@
         ],
         "ability": [
             "Tăng sức mạnh và tốc độ tấn công",
-            "Reduces fall damage by 30%"
+            "Giảm 30% sát thương khi rơi"
         ]
     },
     "13": {
@@ -173,7 +173,7 @@
         ],
         "ability": [
             "Tăng tốc độ tấn công và di chuyển, giảm thời gian hồi kỹ năng Thiểm Bộ",
-            "Reduces fall damage by 30%"
+            "Giảm 30% sát thương khi rơi"
         ]
     },
     "14": {
@@ -188,7 +188,7 @@
         ],
         "ability": [
             "HP tối đa +\\c[29]${$gameActors.actor(1).skillMasteryLevel(35)>0?(($gameActors.actor(1).skillMasteryLevel(35)*($gameActors.actor(1).skillMasteryLevel(35) + 1)/2)*15)/$gameActors.actor(1).skillMasteryLevel(35):15}\\c[0]",
-            "Equip multiple copies to enhance the effect and gain additional bonuses"
+            "Trang bị nhiều món cùng loại để tăng hiệu quả và nhận thêm hiệu ứng"
         ]
     },
     "15": {
@@ -739,7 +739,7 @@
         ],
         "ability": [
             "Giảm 80% sát thương khi rơi",
-            "AoE damage from falling increased by 100%"
+            "Sát thương diện rộng khi rơi tăng 100%"
         ]
     },
     "54": {
@@ -950,18 +950,18 @@
     },
     "71": {
         "name": [
-            "Permafrost Crystal"
+            "Tinh Thể Băng Vĩnh Cửu"
         ],
         "subtitle": [
-            "\"My heart has gone cold... I guess I'll never feel joy or sorrow ever again...\""
+            "\"Con tim tôi lạnh giá... Chẳng còn cảm nhận được niềm vui hay nỗi buồn nữa...\""
         ],
         "description": [
-            "A magical crystal that emits a bone-chilling frost",
-            "Even in the sweltering heat, one can still feel its freezing breath"
+            "Một tinh thể ma thuật tỏa ra hơi lạnh thấu xương",
+            "Ngay cả giữa cái nóng thiêu đốt, vẫn có thể cảm nhận được hơi thở băng giá"
         ],
         "ability": [
-            "Immune to Burning and Heatstroke states",
-            "Increases shatter damage dealt when breaking an enemy's Frozen state"
+            "Miễn nhiễm trạng thái Thiêu Đốt và Sốc Nhiệt",
+            "Tăng sát thương phá băng khi phá vỡ trạng thái Đóng Băng của kẻ địch"
         ]
     },
     "73": {
