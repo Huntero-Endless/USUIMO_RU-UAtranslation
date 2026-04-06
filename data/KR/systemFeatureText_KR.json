@@ -5,6 +5,9 @@
   "goldHeld": [
     "소지금"
   ],
+    "numberDays": [
+    "일"
+  ], 
   "quantityHeld": [
     "\\fs[18]•보유 수량:\\c[17] ${} \\c[0]\\py[-8]"
   ],
