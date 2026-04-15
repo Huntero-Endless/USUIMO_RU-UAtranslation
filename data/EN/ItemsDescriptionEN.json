@@ -418,6 +418,22 @@
       "Violent shaking may trigger a powerful explosion"
     ]
   },
+  "41": {
+    "name": [
+      "Fehu"
+    ],
+    "subtitle": [
+      "\"Power of Midas\""
+    ],
+    "description": [
+      "A stone engraved with magic runes, designed so even novices with ",
+      "no knowledge of magic can easily activate its effect"
+    ],
+    "ability": [
+      "When thrown, Temporarily turns any target it touches into gold",
+      "Shattering a target in this gold state will generate a vast amount of currency"
+    ]
+  },  
   "42": {
     "name": [
       "Kenaz"
@@ -430,7 +446,7 @@
       "no knowledge of magic can easily activate its effect"
     ],
     "ability": [
-      "Throws and turns the target it touches into a bomb",
+      "When thrown, turns any target it touches into a bomb",
       "Detonates in 5s, with larger targets causing a wider blast"
     ]
   },
