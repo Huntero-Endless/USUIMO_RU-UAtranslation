@@ -520,6 +520,70 @@
             "Mình đã đưa tiền tiêu vặt cho \\str[120] hôm nay rồi.",
             "Nếu đưa quá thường xuyên có thể khiến em ấy thấy áp lực.",
             "Tốt hơn là đợi đến ngày mai..."
+        ],
+        "13": [
+            "\\nl< >\"...Hm? ",
+            "Chẳng phải đây là Phiếu Thưởng mà em đã đưa cho anh sao, \\str[121]?\""
+        ],  
+        "13.5": [
+            "\\nl< >\"Cái này là cho anh dùng đó! ",
+            "Em không nhận lại nó đâu nhé~!\""
+        ],  
+        "14": [
+            "\\nl< >\"..............Tóc trắng?\""
+        ],  
+        "15": [
+            "\\nl< >\"————————!?\""
+        ],  
+        "16": [
+            "\\nl< >\"\\str[121]!!",
+            "Sao anh lại cầm nhiều tóc của em thế!?",
+            "Cái này không vui chút nào đâu nha!!\""
+        ],  
+        "17": [
+            "\\nl< >\"\\str[121]... ",
+            "Em đã biết là thỉnh thoảng anh hay làm mấy chuyện kỳ quặc rồi...",
+            "Nhưng lần này thì đi hơi quá xa rồi đó...\""
+        ],  
+        "18": [
+            "\\nl< >\"...Sữa à? ",
+            "\\str[121]... nếu anh nghĩ chỉ cần dùng thứ này ",
+            "để hối lộ là em sẽ tha thứ cho anh thì—\""
+        ],  
+        "19": [
+            "\\{\\nl< >\"—thì ít nhất cũng phải đưa thêm ",
+            "cho em một hộp nữa!\""
+        ],  
+        "19.5": [
+            "\\nl< >\"Ooh~! Em thật sự có thể uống hết chỗ này một mình sao?",
+            "Tự nhiên cảm thấy xa xỉ đến mức hơi có lỗi thế ta~!\""
+        ], 
+        "20": [
+            "\\nl< >\"C-Cái gì đây...?\""
+        ],   
+        "21": [
+            "\\nl< >\"...Sách từ bên ngoài à? ",
+            "Có nhiều hình minh họa quá~! ",
+            "Cảm ơn anh, \\str[121]! Em mong chờ để đọc nó quá~\""
+        ],  
+        "23": [
+            "\\nl< >\"Cái này toàn là hình nhạy cảm thôi mà! ",
+            "Tại anh hết đó!",
+            "Xem xong cảm giác mắt em sắp hỏng luôn rồi!!\""
+        ],  
+        "24": [
+            "\\nl< >\"...Eh? Em... có muốn xem thêm không ấy à...?\""
+        ],  
+        "25": [
+            "\\nl< >\"Không phải vấn đề đó!! ",
+            "Ngay từ đầu là do anh đưa ",
+            "mấy cuốn doujinshi kiểu này cho em mà!\""
+        ],
+        "26": [
+            "\\nl< >\"N-nhưng mà... vì... ",
+            "\\str[121] thích xem mấy thứ này... ",
+            "nên em nghĩ... có thể dùng làm tham khảo... \\}",
+            "để xem... anh thích kiểu như thế nào...\""
         ]
     },
     "7": {
@@ -1013,7 +1077,7 @@
             "\\str[120] đi tắm, còn tôi thì một mình buồn chán,",
             "thế là tôi bắt đầu thả hồn mơ mộng để giết thời gian.   \\w[40]",
             "Nghĩ lại thì, ngày trước tôi hay tắm cùng em ấy—",
-            "hồi đó em ấy cực kì dễ thương~"
+            "hồi đó em ấy cực kỳ dễ thương~"
         ],
         "7": [
             "Đã nhiều năm trôi qua, chắc chắn em ấy đã thay đổi nhiều,",
