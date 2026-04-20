@@ -959,7 +959,22 @@
       "Immune to Burning and Heatstroke states",
       "Increases shatter damage dealt when breaking an enemy's Frozen state"
     ]
-  },   
+  }, 
+  "72": {
+    "name": [
+      "Phantom Crystal Wings"
+    ],
+    "subtitle": "",
+    "description": [
+      "Spirit wings condensed from pure mana",
+      "Known to spontaneously trigger physical phenomena,",
+      "they are highly valued as high-level alchemical catalysts"
+    ],
+    "ability": [
+      "Reduces fall damage by 40%",
+      "Equipping it boosts casting speed and magic power"
+    ]
+  },    
   "73": {
     "name": [
       "Lava Ring"
@@ -1250,6 +1265,22 @@
     ],
     "ability": []
   },
+  "295": {
+    "name": [
+      "Fairy Queen's Crystal Wings"
+    ],
+    "subtitle": [
+      "\"Deep below, the delver Kyurame beheld the Queen's iridescent rise—\""
+    ],
+    "description": [
+      "Prismatic crystal wings overflowing with an iridescent glow.",
+      "A rare catalyst that only the \"Queen,\" standing at the pinnacle of spirits, may possess"
+    ],
+    "ability": [
+      "Immune to fall damage",
+      "Final damage taken reduced by 60%"
+    ]
+  },    
   "296": {
     "name": [
       "Ruika’s Lucky Mallet"

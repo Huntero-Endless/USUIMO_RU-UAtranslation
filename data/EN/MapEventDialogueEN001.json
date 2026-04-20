@@ -714,6 +714,22 @@
       "you have the scent of carrots, usa…"
     ]
   },
+  "25": {
+    "objectName": [
+      "\\c[115]Fairy Dragon"
+    ],
+    "sentouryoku": [
+      "20"
+    ],
+    "description": [
+      "A very rare magical creature that ",
+      "resembles a dragon hatchling.",
+      "It is a spirit given physical form by absorbing the",
+      "mana residue leaked by the dragon kin.",
+      "Extremely timid, ",
+      "it will flee the moment it senses danger..."
+    ]
+  },
   "28": {
     "objectName": [
       "Giant Sacabambaspis"
