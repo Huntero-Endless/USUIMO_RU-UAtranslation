@@ -402,7 +402,7 @@
             "Khi chạm vào lưỡi sẽ như một cú sốc!"
         ],
         "ability": [
-            "Hiệu ứng chưa được thêm vào"
+            "If eaten after being thrown, the target gains a temporary Sensitivity Up status"
         ]
     },
     "35": {

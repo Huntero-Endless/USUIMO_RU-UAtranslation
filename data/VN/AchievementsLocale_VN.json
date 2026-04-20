@@ -153,6 +153,11 @@
             "Description": "Tiếp tục chạy với tốc độ cực nhanh ",
             "Pop Up Desc": "Đừng bao giờ dừng lại!"
         },
+        "YouAreBeingSummoned": {
+            "Name": "You're Being Summoned, ◉▽◉!",
+            "Description": "Ancient creature discovered!",
+            "Pop Up Desc": "\\fs[18]You're Being Summoned, ◉▽◉!"
+        },
         "YouTooCanBecomeLight": {
             "Name": "Bạn cũng có thể trở thành ánh sáng!",
             "Description": "Lời nguyền của Aki bùng phát ",
