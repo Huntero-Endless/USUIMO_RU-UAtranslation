@@ -63,6 +63,10 @@
     "(Click 'OK' to open the invite link)",
     "(Attach a screenshot of the error)"
   ],
+  "AnnouncementMenu": [
+    "Announcements",
+    "Changelogs"
+  ],    
   "UpdateComplete1": [
     "Game update completed!",
     "The game will restart automatically after closing this window.",
