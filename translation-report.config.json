@@ -41,7 +41,7 @@
     "RU": {
       "label": "Russian",
       "nativeLabel": "Русский",
-      "baseCommit": "088d0ee2076595c3ca765704698e00cc3e6890c2",
+      "baseCommit": "a1b2d5cd9264c0ea191d641dcd2e64a0a5b8fc0d",
       "baseNote": "Last repository revision that updated Russian translation files"
     },
     "TH": {
@@ -59,7 +59,7 @@
     "VN": {
       "label": "Vietnamese",
       "nativeLabel": "Tiếng Việt",
-      "baseCommit": "5d2f4e421bed35a5d123f050b25c1c225c765ce3",
+      "baseCommit": "01a67be53ef4a8571ba157e11a83f40399e49922",
       "baseNote": "Last repository revision that updated Vietnamese translation files"
     }
   }
