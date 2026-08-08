@@ -73,6 +73,11 @@
       "Description": "Had Imouto act out the newlywed three choices!",
       "Pop Up Desc": "Newlywed Three Choice!"
     },
+    "ToBeContinued": {
+      "Name": "To Be Continued",
+      "Description": "Captured a miraculous moment!",
+      "Pop Up Desc": "To Be Continued"
+    },   
     "PeopleDieIfTheyAreKilled": {
       "Name": "People Die If They Are Killed?",
       "Description": "Your HP drops to zero in the Abyss...",

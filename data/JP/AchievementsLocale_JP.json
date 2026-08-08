@@ -67,6 +67,11 @@
       "Description": "妹に新婚三択をやってもらった！",
       "Pop Up Desc": "新婚三択！"
     },
+    "ToBeContinued": {
+      "Name": "To Be Continued",
+      "Description": "奇跡の瞬間を激写！",
+      "Pop Up Desc": "To Be Continued"
+    },   
     "PeopleDieIfTheyAreKilled": {
       "Name": "人は殺されれば死ぬ……か？",
       "Description": "アビスで体力がゼロになる……",

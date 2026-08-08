@@ -70,6 +70,11 @@
       "Description": "让妹妹演绎了一次新婚三问！",
       "Pop Up Desc": "新婚三问！"
     },
+    "ToBeContinued": {
+      "Name": "To Be Continued",
+      "Description": "拍下了奇迹的瞬间！",
+      "Pop Up Desc": "To Be Continued"
+    },    
     "PeopleDieIfTheyAreKilled": {
       "Name": "人被杀就会死？",
       "Description": "在深渊里体力归零……",
