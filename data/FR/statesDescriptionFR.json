@@ -13,7 +13,7 @@
           "Je me sens agité..."
         ],
         "description": [
-          "Excitement Niveau:\\c[2]\\v[25]%\\c[0]"
+          "Niveau d'excitation :\\c[2]\\v[25]%\\c[0]"
         ]
       },
       "1": {
@@ -21,7 +21,7 @@
           "Le corps a besoin de sensations fortes..."
         ],
         "description": [
-          "Excitement Niveau:\\c[10]\\v[25]%\\c[0]"
+          "Niveau d'excitation :\\c[10]\\v[25]%\\c[0]"
         ]
       },
       "2": {
@@ -29,7 +29,7 @@
           "Perdre le contrôle...!"
         ],
         "description": [
-          "Excitement Niveau:\\c[18]\\v[25]%\\c[0]"
+          "Niveau d'excitation :\\c[18]\\v[25]%\\c[0]"
         ]
       }
     }
@@ -40,7 +40,7 @@
       "Wooooooh...!"
     ],
     "description": [
-      "Transformé en une bête folle de désir! Niveau d'excitation ::\\c[18]???%\\c[0]"
+      "Transformé en une bête folle de désir ! Niveau d'excitation :\\c[18]???%\\c[0]"
     ]
   },
   "5": {
@@ -49,7 +49,7 @@
       "Le poison a infecté votre corps"
     ],
     "description": [
-      "Subit plus de dégâts au fil du temps!"
+      "Subit plus de dégâts au fil du temps !"
     ]
   },
   "6": {
@@ -58,43 +58,43 @@
       "Le saignement ne s'arrêtera pas"
     ],
     "description": [
-      "Subit des dégâts en fonction du PV max!"
+      "Subit des dégâts en fonction des PV max !"
     ]
   },
   "7": {
     "name": [],
     "subtitle": [
-      "Regardez, il a été frappé par la foudre!"
+      "Regardez, il a été frappé par la foudre !"
     ],
     "description": [
-      "Complètement paralysé, je ne peux plus bouger du tout!"
+      "Complètement paralysé, je ne peux plus bouger du tout !"
     ]
   },
   "8": {
     "name": [],
     "subtitle": [
-      "Chaud, chaud, chaud, chaud!"
+      "Chaud, chaud, chaud, chaud !"
     ],
     "description": [
-      "Applique une combustion continue à toutes les unités à portée!"
+      "Applique une combustion continue à toutes les unités à portée !"
     ]
   },
   "9": {
     "name": [],
     "subtitle": [
-      "Transforme-toi en glace!"
+      "Transforme-toi en glace !"
     ],
     "description": [
-      "Gelé solidement!"
+      "Gelé solidement !"
     ]
   },
   "11": {
     "name": [],
     "subtitle": [
-      "Étourdi et désorienté!"
+      "Étourdi et désorienté !"
     ],
     "description": [
-      "Impossible d'agir!"
+      "Impossible d'agir !"
     ]
   },
   "13": {
@@ -121,16 +121,16 @@
       "Aux yeux des monstres, tu n'es qu'un petit prématuré pitoyable et laid…"
     ],
     "description": [
-      "Déguisé en monstre – les monstres ne vous attaqueront pas activement!"
+      "Déguisé en monstre – les monstres ne vous attaqueront pas activement !"
     ]
   },
   "16": {
     "name": [],
     "subtitle": [
-      "Tu ne sais même pas jouer à un jeu aussi simple? Quel ZAKO~"
+      "Tu ne sais même pas jouer à un jeu aussi simple ? Quel ZAKO~"
     ],
     "description": [
-      "Certifié ZAKO pour tricherie!"
+      "Certifié ZAKO pour tricherie !"
     ]
   },
   "28": {
@@ -151,7 +151,7 @@
       "1": {
         "description": [
           "Elle joue toujours...",
-          "Dois-je la taquiner un peu?"
+          "Dois-je la taquiner un peu ?"
         ]
       }
     }
@@ -191,13 +191,13 @@
       "0": {
         "description": [
           "\\str[120] a l'air très heureux,",
-          "Quelque chose d'intéressant s'est-il produit?"
+          "Quelque chose d'intéressant s'est-il produit ?"
         ]
       },
       "1": {
         "description": [
           "\\str[120] devient plus mignonne",
-          "Peut-être lui donner une petite tape!"
+          "Peut-être lui donner une petite tape !"
         ]
       },
       "2": {
@@ -209,7 +209,7 @@
       "3": {
         "description": [
           "\\str[120] a l'air un peu triste",
-          "Peut-être essayer de la réconforter?"
+          "Peut-être essayer de la réconforter ?"
         ]
       },
       "4": {
@@ -221,7 +221,7 @@
       "5": {
         "description": [
           "\\str[120] a l'air endormi",
-          "Peut-être qu'il est temps d'aller au lit?"
+          "Peut-être qu'il est temps d'aller au lit ?"
         ]
       }
     }
@@ -269,6 +269,12 @@
         "description": [
           "\\str[120] est presque réveillé",
           "mais ses sens sont encore flous"
+        ]
+      },
+      "6": {
+        "description": [
+          "Sans défense dans son sommeil, perdue dans ",
+          "l'épuisement blissful de la nuit dernière"
         ]
       }
     }
@@ -371,8 +377,62 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "✦\\c[29]Satisfait après avoir mangé,",
-      "\\str[120] se sent heureuse!"
+      "✦\\c[29]Satisfaite après avoir mangé,",
+      "\\str[120] se sent heureuse !"
+    ]
+  },
+  "42": {
+    "name": [],
+    "subtitle": [
+      "\\str[120] regarde la télé"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] se recroqueville comme un chaton, ",
+          "me jetant des coups d'œil en douce."
+        ]
+      },
+      "1": {
+        "description": [
+          "Elle s'est pressée contre moi, ",
+          "comme tenir un coussin chaud."
+        ]
+      }
+    }
+  },
+  "43": {
+    "name": [],
+    "subtitle": [
+      "\\str[120] effrayée"
+    ],
+    "description": [
+      ""
+    ],
+    "variants": {
+      "0": {
+        "description": [
+          "\\str[120] s'est accrochée fermement à moi,",
+          "son corps tremblant légèrement…"
+        ]
+      },
+      "1": {
+        "description": [
+          "Nos corps étaient complètement entrelacés, ",
+          "échangeant de la chaleur l'un avec l'autre…"
+        ]
+      }
+    }
+  },
+  "44": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "✦Pas tellement de la 'Joie'... ",
+      "elle est dans un état de 'HIGH' total maintenant !"
     ]
   },
   "45": {
@@ -393,13 +453,22 @@
       "Cuisiner un plat de viande"
     ]
   },
+  "54": {
+    "name": [],
+    "subtitle": [
+      "\"bruissement... bruissement...\""
+    ],
+    "description": [
+      "Vous êtes étroitement surveillé par un groupe de petites créatures..."
+    ]
+  },
   "55": {
     "name": [],
     "subtitle": [
       "C'est mon domaine, donc aucune bêtise n'est autorisée~♥"
     ],
     "description": [
-      "Attaque interdite! Les monstres à proximité sont terrifiés!"
+      "Attaque interdite ! Les monstres à proximité sont terrifiés !"
     ]
   },
   "57": {
@@ -417,14 +486,14 @@
       "J'ai mangé quelque chose de mauvais..."
     ],
     "description": [
-      "Le mal de ventre ne s'arrête pas!"
+      "Le mal de ventre ne s'arrête pas !"
     ]
   },
   "59": {
     "name": [],
     "subtitle": [],
     "description": [
-      "...Tu avez oublié quelque chose d'important? Peut-être que ça reviendra plus tard."
+      "...Tu as oublié quelque chose d'important ? Peut-être que ça reviendra plus tard."
     ]
   },
   "60": {
@@ -440,7 +509,7 @@
       "Mon cul est en feu..."
     ],
     "description": [
-      "Je ne peux pas courir ou me précipiter à cause de douleurs aux fesses!"
+      "Je ne peux pas courir ou me précipiter à cause de douleurs aux fesses !"
     ]
   },
   "62": {
@@ -463,7 +532,7 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "Senpo en temps de recharge!"
+      "Senpo en temps de recharge !"
     ]
   },
   "65": {
@@ -477,14 +546,14 @@
     "name": [],
     "subtitle": [],
     "description": [
-      "Flottant sur l'eau. Mouvement ralenti, impossible d'attaquer!"
+      "Flottant sur l'eau. Mouvement ralenti, impossible d'attaquer !"
     ]
   },
   "68": {
     "name": [],
     "subtitle": [],
     "description": [
-      "Je chante un sort!"
+      "Je chante un sort !"
     ]
   },
   "71": {
@@ -499,7 +568,7 @@
   "72": {
     "name": [],
     "subtitle": [
-      "Le pouvoir... déferle sur moi!"
+      "Le pouvoir... déferle sur moi !"
     ],
     "description": [
       "Puissance d'attaque\\c[10]+50%\\c[0]"
@@ -511,13 +580,13 @@
       "Je commence à tout comprendre"
     ],
     "description": [
-      "Magie attack power\\c[10]+50%\\c[0]"
+      "Puissance d'attaque magique\\c[10]+50%\\c[0]"
     ]
   },
   "74": {
     "name": [],
     "subtitle": [
-      "Peux-tu suivre... ma VITESSE?!"
+      "Peux-tu suivre... ma VITESSE ?!"
     ],
     "description": [
       "La vitesse de déplacement augmente"
@@ -529,7 +598,16 @@
       "Descente de l'arme divine"
     ],
     "description": [
-      "Arme Gigantifiée, Augmentation des Dégâts!"
+      "Arme Gigantifiée, Augmentation des Dégâts !"
+    ]
+  },
+  "76": {
+    "name": [],
+    "subtitle": [
+      "\"Ohohohohoho~ Ohhhhhh~~~~~\""
+    ],
+    "description": [
+      "Sensibilité augmentée ! Les dégâts subis sont doublés !"
     ]
   },
   "77": {
@@ -547,16 +625,16 @@
       "Coup de chance..."
     ],
     "description": [
-      "Béni par le destin, les bonnes choses ont plus de chances de se produire!"
+      "Béni par le destin, les bonnes choses ont plus de chances de se produire !"
     ]
   },
   "79": {
     "name": [],
     "subtitle": [
-      "Coup de chance..."
+      "Coup de malchance..."
     ],
     "description": [
-      "Béni par le destin, les choses tristes sont plus susceptibles de se produire!"
+      "Béni par le destin, les choses tristes ont plus de chances de se produire !"
     ]
   },
   "80": {
@@ -568,13 +646,22 @@
       ""
     ]
   },
+  "83": {
+    "name": [],
+    "subtitle": [
+      "\"Ce regard dans ses yeux vient de devenir brusquement perçant...!\""
+    ],
+    "description": [
+      "Les attaques physiques gagnent en Pénétration, ignorant une partie de la défense de la cible"
+    ]
+  },
   "85": {
     "name": [],
     "subtitle": [
       "Mais c'est vraiment horrible..."
     ],
     "description": [
-      "Débordant de vitalité — PV max augmenté!"
+      "Débordant de vitalité — PV max augmentés !"
     ]
   },
   "86": {
@@ -583,16 +670,26 @@
       "PROBLÈME DE COMPÉTENCES"
     ],
     "description": [
-      "Tu avez été impitoyablement nargué! Défense et chance fortement diminuées!"
+      "Tu as été impitoyablement nargué ! Défense et chance fortement diminuées !"
     ]
   },
   "90": {
     "name": [],
     "subtitle": [
-      "「Don’t face-check the bush, you fool!?」"
+      "「Ne vérifie pas le buisson de face, espèce d'imbécile !?」"
     ],
     "description": [
-      "Being in the bush feels safe… HP auto-regenerates"
+      "Être dans le buisson donne une sensation de sécurité… PV se régénèrent automatiquement"
+    ]
+  },
+  "93": {
+    "name": [],
+    "subtitle": [
+      "\"Guh...!? T-Tellement lourd...! J'ai l'impression de couler... Je-Je me noie...!!\""
+    ],
+    "description": [
+      "Affligé de ${$gameParty.leader().getStateCounter(93)} piles d'Imbibé d'eau ! ",
+      "La vitesse de déplacement diminue avec chaque pile ! Se noie instantanément à plus de 10 piles !"
     ]
   },
   "98": {
@@ -601,16 +698,16 @@
       "J'ai l'impression que ma sœur est juste à côté de moi..."
     ],
     "description": [
-      "Régénération du PV!"
+      "Régénération des PV !"
     ]
   },
   "99": {
     "name": [],
     "subtitle": [
-      "Nous sommes les gardiens!"
+      "Nous sommes les gardiens !"
     ],
     "description": [
-      "Attaque power +30"
+      "Puissance d'attaque +30"
     ]
   },
   "101": {
@@ -619,13 +716,13 @@
       "\"REGARDE DANS MES YEUX MALÉFIQUES, VOIS CE QU'IL Y A À L'INTÉRIEUR !\""
     ],
     "description": [
-      "Devient brièvement invisible toutes les \\v[221] seconds!"
+      "Devient brièvement invisible toutes les \\v[221] secondes !"
     ]
   },
   "104": {
     "name": [],
     "subtitle": [
-      "Tu rayonnes de gloire!"
+      "Tu rayonnes de gloire !"
     ],
     "description": [
       "Tous les attributs augmentent, invincibilité temporaire"
@@ -646,43 +743,52 @@
       "Je... je ne peux pas le soulever..."
     ],
     "description": [
-      "Pas assez de force pour utiliser pleinement l'arme!"
+      "Pas assez de force pour utiliser pleinement l'arme !"
     ]
   },
   "107": {
     "name": [],
     "subtitle": [
-      "Nous sommes les gardiens!"
+      "Nous sommes les gardiens !"
     ],
     "description": [
-      "Vitesse de déplacement augmentée!"
+      "Vitesse de déplacement augmentée !"
     ]
   },
   "108": {
     "name": [],
     "subtitle": [
-      "Nous sommes les gardiens!"
+      "Nous sommes les gardiens !"
     ],
     "description": [
-      "Attaque et défense augmentées!"
+      "Attaque et défense augmentées !"
     ]
   },
   "109": {
     "name": [],
     "subtitle": [
-      "Nous sommes les gardiens!"
+      "Nous sommes les gardiens !"
     ],
     "description": [
-      "Défense renforcée!"
+      "Défense renforcée !"
     ]
   },
   "110": {
     "name": [],
     "subtitle": [
-      "Nous sommes les gardiens!"
+      "Nous sommes les gardiens !"
     ],
     "description": [
-      "PV max et défense augmentés!"
+      "PV max et défense augmentés !"
+    ]
+  },
+  "111": {
+    "name": [],
+    "subtitle": [
+      "\"Nous sommes les gardiens !\""
+    ],
+    "description": [
+      "Les PV requis pour déclencher les effets de l'ensemble Chevalier ont été ajustés à moins de 75%"
     ]
   },
   "115": {
@@ -691,7 +797,7 @@
       "Le cœur de l'épouvantail immortel, mais la décomposition est le destin"
     ],
     "description": [
-      "Pas de récupération PV!"
+      "Pas de récupération PV !"
     ]
   },
   "116": {
@@ -700,7 +806,7 @@
       "L'avidité sans fin vous a trouvé…"
     ],
     "description": [
-      "Lâchez l'argent que vous détenez lorsque vous subissez des dégâts!"
+      "Lâchez l'argent que vous détenez lorsque vous subissez des dégâts !"
     ]
   },
   "117": {
@@ -710,6 +816,33 @@
     ],
     "description": [
       ""
+    ]
+  },
+  "122": {
+    "name": [],
+    "subtitle": [
+      "\"Heh heh je survivrai, je le jure\""
+    ],
+    "description": [
+      "Restaure automatiquement les PV de façon permanente"
+    ]
+  },
+  "123": {
+    "name": [],
+    "subtitle": [
+      "\"Celui qui poursuit une proie doit être prêt à devenir une proie lui-même.\""
+    ],
+    "description": [
+      "Tout l'équipement de la série Chasseur a été amélioré !"
+    ]
+  },
+  "150": {
+    "name": [],
+    "subtitle": [
+      "\"...Tellement épicé !? Ma bouche est littéralement en feu—!?\""
+    ],
+    "description": [
+      "Le crachat de feu s'arrêtera-t-il jamais si je ne refroidis pas la chaleur... ?"
     ]
   }
 }
