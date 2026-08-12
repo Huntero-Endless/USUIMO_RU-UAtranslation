@@ -37,9 +37,10 @@
       "Je dois rester silencieux pour que \\str[120] ne le remarque pas…"
     ],
     "9": [
-      "Danse!",
+      "Danser!",
       "Méditer",
-      "Continuez à regarder"
+      "Continuer à regarder",
+      "Fantasmer"
     ],
     "10": [
       "Hmm… Je dois être très prudent,",
@@ -69,7 +70,7 @@
     "16": [
       "La tension devient trop intense…",
       "J'ai besoin de trouver quelque chose pour me distraire.",
-      "Alright then—\\w[60]\\{let’s dance!"
+      "Alors—\\w[60]\\{dansons!"
     ],
     "17": [
       "\\{Ici, dans la salle de bain!",
@@ -88,7 +89,7 @@
     "20": [
       "Respiration, battements de cœur, mouvements : tout est parfaitement synchronisé.",
       "Ce n'est plus seulement un entraînement, c'est de l'art.",
-      "Seul un vrai ninja peut performer sur un tel",
+      "Seul un vrai ninja peut performer sur une telle",
       "étape dangereuse!"
     ],
     "21": [
@@ -125,6 +126,738 @@
       "Ouf, cette sensation de battement de cœur…",
       "il y a un étrange sentiment d'accomplissement.",
       "C'est plutôt exaltant, en fait?"
+    ],
+    "29": [
+      "Nngh… Ça arrive…!   \\w[30]",
+      "Essayons d'imaginer—— "
+    ],
+    "30": [
+      "J'ai fermé les yeux et concentré mon attention.",
+      "Mes sens progressivement affûtés ont immédiatement capté la vapeur chaude,",
+      "parfumée au shampooing, qui dérivait de la salle de bain."
+    ],
+    "31": [
+      "\\{Je peux le faire!      \\w[30]\\}",
+      "Avec ça, je devrais pouvoir imaginer ",
+      "la silhouette parfaite de \\str[120]!"
+    ],
+    "32": [
+      "\\{Haaah……….!     \\w[30]\\^"
+    ],
+    "33": [
+      "\\{Je la vois!!"
+    ],
+    "34": [
+      "Ah— elle a disparu."
+    ],
+    "35": [
+      "Est-ce que je manque de matériel pour mes fantasmes...?",
+      "Sa silhouette tentante, si claire il y a quelques instants, ",
+      "a disparu sans laisser de trace."
+    ],
+    "36": [
+      "Ça ne va pas, il manque quelque chose…",
+      "Je ne peux rien imaginer du tout!"
+    ]
+  },
+  "5": {
+    "0": [
+      "\\nl< >\"J'aimerais vraiment boire du lait bientôt—\""
+    ],
+    "1": [
+      "\\nl< >\"Haah~ Ce bain faisait tant de bien...\""
+    ],
+    "2": [
+      "\\nl< >\"...\\str[121]? Pourquoi es-tu ici?\""
+    ],
+    "3": [
+      "\\{Oh zut—!",
+      "Je suis resté ici trop longtemps, \\str[120] a déjà ",
+      "fini son bain et est sortie—!"
+    ],
+    "4": [
+      "\"Euh... v-voici le lait que je t'ai apporté~!\""
+    ],
+    "5": [
+      "Réfléchissant vite, ",
+      "j'ai sorti une bouteille de lait préparée de ma chemise ",
+      "et la lui ai tendue."
+    ],
+    "6": [
+      "\\nl< >\"Oh, je vois. Merci, \\str[121]~",
+      "Ton timing est parfait!\""
+    ],
+    "7": [
+      "\\nl< >\"Euh... ce n'est pas la saveur que je voulais...\""
+    ],
+    "8": [
+      "—Ouf, on dirait que j'ai réussi à ",
+      "m'en sortir avec un bluff après tout...!"
+    ],
+    "9": [
+      "\"Ah... comme il fait plus chaud ces derniers temps, tu sais?",
+      "J'ai vu pas mal d'insectes par ici, ",
+      "alors j'ai pensé venir vérifier l'endroit—\""
+    ],
+    "10": [
+      "\"Regarde, les produits de bain sont presque épuisés, ",
+      "alors je... j'ai pensé venir les réapprovisionner...\""
+    ],
+    "11": [
+      "\"Oh... je passais juste par là en nettoyant. ",
+      "Quelle coïncidence, haha, hahaha—!\""
+    ],
+    "12": [
+      "Avec une sueur froide coulant sur mon visage, ",
+      "j'ai sorti une excuse désespérée."
+    ],
+    "13": [
+      "\\nl< >\"………………………………\""
+    ],
+    "14": [
+      "\\nl< >\"\\str[121]... ",
+      "tu étais là pour mater, n'est-ce pas—\""
+    ],
+    "15": [
+      "Je suis grillé!",
+      "Non seulement elle m'a percé à jour, ",
+      "mais j'ai mis \\str[120] en colère..."
+    ],
+    "16": [
+      "\\nl< >\"Hmph... Hmm...? Vraiment?\""
+    ],
+    "17": [
+      "Même si \\str[120] m'a lancé un regard extrêmement suspicieux, ",
+      "j'ai d'une certaine façon réussi à m'en sortir avec un bluff..."
+    ],
+    "18": [
+      "\\nl< >\"C'est ça— ",
+      "\\str[121], tu travailles vraiment dur.\""
+    ],
+    "19": [
+      "Il semble que \\str[120] n'ait pas du tout soupçonné mon excuse boiteuse. ",
+      "J'ai enfin réussi à m'échapper proprement..."
+    ],
+    "20": [
+      "\\nl< >\"\\str[121]? Qu'est-ce que tu fais là?\"",
+      "\\w[150]\\^"
+    ],
+    "21": [
+      "\\\"Pffft...!\"",
+      "\\w[45]\\^"
+    ],
+    "22": [
+      "La voix confuse de \\str[120] venait de juste à côté de moi.",
+      "O-oh non! Je vais être attrapé par \\str[120]!"
+    ],
+    "23": [
+      "\\nl< >\"Pourquoi \\str[121] est ici, ",
+      "et pourquoi tu tiens ma culotte...\""
+    ],
+    "24": [
+      "Essayer de justifier",
+      "Avouer",
+      "Rester fidèle"
+    ],
+    "25": [
+      "Je suis dans une position très délicate en ce moment.",
+      "Je dois rester calme et gérer ça avec soin..."
+    ],
+    "26": [
+      "\\{Je vais juste devoir essayer de ",
+      "m'en sortir avec un bluff...!"
+    ],
+    "27": [
+      "\\nl< >\"...\\str[121]?\""
+    ],
+    "28": [
+      "\"Ce n'est pas ce que tu penses!",
+      "Je faisais juste... un ",
+      "\\{check-up de santé\\}, c'est tout!\""
+    ],
+    "29": [
+      "\\nl< >\"Euh... un check-up de santé...        \\w[120]",
+      "\\str[121] travaille vraiment dur—               \\w[90]\\^"
+    ],
+    "30": [
+      "\\nl< >\\{\"—Tu as vraiment cru que je dirais ça?\""
+    ],
+    "31": [
+      "\\nl< >\\{\"\\str[121], t'es un idiot! T'es un pervers!\"",
+      "\\w[120]\\^"
+    ],
+    "32": [
+      "\\nl< >\"DEBAUUUUCHÉ——!!\""
+    ],
+    "33": [
+      "Les cris énervés de \\str[120] résonnaient encore dans la salle de bain, ",
+      "mais elle avait déjà tourné les talons et s'était enfuie dans la salle de bain.",
+      "On dirait qu'elle ne veut plus avoir affaire à moi pour l'instant... ",
+      "Je devrai m'excuser correctement auprès d'elle plus tard..."
+    ],
+    "34": [
+      "Dans cette situation... comme je le pensais...",
+      "Je dois tout avouer et ",
+      "implorer le pardon de \\str[120]...!"
+    ],
+    "35": [
+      "\\{\"C'est ma faute! ",
+      "Je suis vraiment, profondément désolé!!\""
+    ],
+    "36": [
+      "\\nl< >\"—Eh?\""
+    ],
+    "37": [
+      "\"Parce que je voulais sentir de près la croissance de ma mignonne \\str[120], ",
+      "alors j'ai juste...!\""
+    ],
+    "38": [
+      "\"Au moment où je m'en suis rendu compte, ",
+      "ma tête était remplie de l'odeur ",
+      "et de la texture de ta culotte—alors j'ai juste...!\""
+    ],
+    "39": [
+      "\\nl< >\"Euh... \\str[121], ça suffit—\"",
+      "\\w[120]\\^"
+    ],
+    "40": [
+      "\"Ça ne suffit pas...!!\""
+    ],
+    "41": [
+      "\\nl< >\"—Kyaa!?\""
+    ],
+    "42": [
+      "\"J'ai fait un truc comme ça à \\str[120]...",
+      "comment peux-je jamais me pardonner!",
+      "Je dois réfléchir là-dessus de toutes mes forces!\""
+    ],
+    "43": [
+      "\\nl< >\"Uwahhh...\""
+    ],
+    "44": [
+      "\"C'est pour ça que je—",
+      "\\w[45]\\^"
+    ],
+    "45": [
+      "\\nl< >\"Ça suffit! J'en ai assez entendu ",
+      "des réflexions de \\str[121] déjà!!\""
+    ],
+    "46": [
+      "\\str[120] s'est enfuie dans la salle de bain comme si elle fuyait... ",
+      "C'est étrange... mon attitude n'était pas assez sincère? ",
+      "Je devrai m'excuser auprès d'elle encore une fois plus tard..."
+    ],
+    "47": [
+      "\\nl< >\"——————\\str[121]?\"",
+      "\\w[90]\\^"
+    ],
+    "48": [
+      "\\nl< >\"...Encore? Tu as fait ça avant aussi, non?\""
+    ],
+    "49": [
+      "\\nl< >\"Pourquoi continues-tu à faire des choses comme ça...?\""
+    ],
+    "50": [
+      "Oh, c'est mauvais...!",
+      "Je peux vraiment sortir une excuse potable cette fois-ci...?"
+    ],
+    "51": [
+      "\"En fait... ",
+      "J'ai été maudit par un Dieu Maléfique de l'Abîme!",
+      "Si je ne relâche pas cette pression périodiquement, ",
+      "je vais littéralement exploser...!\""
+    ],
+    "52": [
+      "\\nl< >\"—Je ne t'ai jamais entendu mentionner un truc comme ça avant.\""
+    ],
+    "53": [
+      "\"Je ne mens pas!",
+      "Regarde! Mon cœur s'emballe...",
+      "et mes mains ont commencé à trembler!\""
+    ],
+    "54": [
+      "\\nl< >\"...Tu mens définitivement.\""
+    ],
+    "55": [
+      "\"...Eh.\""
+    ],
+    "56": [
+      "\\nl< >\"Après tout, tu as l'air parfaitement bien tout ce temps,",
+      "et tu parles avec tellement... d'excitation...\""
+    ],
+    "57": [
+      "\\nl< >\"\\str[121]... ",
+      "tu essaies juste de me faire marcher encore, n'est-ce pas?\""
+    ],
+    "58": [
+      "\"………………………………\""
+    ],
+    "59": [
+      "Depuis quand \\str[120] est-elle devenue si perspicace!?"
+    ],
+    "60": [
+      "\\nl< >\\{\"\\str[121], gros idiot!!\"",
+      "\\w[65]\\^"
+    ],
+    "61": [
+      "\\nl< >\"Tu ne comprends pas du tout mes sentiments!!\""
+    ],
+    "62": [
+      "Eh... pourquoi...? ",
+      "Pourquoi on dirait qu'elle est encore plus énervée que la dernière fois?"
+    ],
+    "63": [
+      "\\nl< >\"Hein? Le shampooing est complètement fini...\"",
+      "\\w[150]\\^"
+    ],
+    "64": [
+      "La voix confuse de \\str[120] venait de l'autre côté. ",
+      "N-non, ça ne va pas! Je dois sortir d'ici, vite!!"
+    ],
+    "65": [
+      "\\nl< >\"\\str[121], le shampooing est—     \\w[90]",
+      "\\str[121]? Tu es déjà sorti?\""
+    ],
+    "66": [
+      "\"...J-J'ai entendu ta voix et je suis accouru!",
+      "Alors, euh, il s'est passé quelque chose...?\""
+    ],
+    "67": [
+      "\\nl< >\"C'est juste que je suis à court de shampooing...      \\w[120]",
+      "Tu pourrais m'en apporter un peu plus?                          \\w[120]",
+      "Attends, \\str[121], tu respires assez fort...",
+      "tu as couru jusqu'ici?\""
+    ],
+    "68": [
+      "\"O-ouais... ahaha... plutôt vite, non?\""
+    ],
+    "69": [
+      "N'osant pas réfléchir plus loin, ",
+      "j'ai rapidement pris une bouteille de recharge de shampooing ",
+      "dans l'armoire et la lui ai tendue."
+    ],
+    "70": [
+      "\\str[120] a fermé la porte et est retournée à son bain. ",
+      "Si je reste ici plus longtemps, je vais forcément être exposé... ",
+      "Je devrais rentrer..."
+    ]
+  },
+  "6": {
+    "0": [
+      "Pas de chat, pas de chat..."
+    ],
+    "1": [
+      "En douce, en douce..."
+    ],
+    "2": [
+      "En s'approchant tranquillement du lavabo—"
+    ],
+    "3": [
+      "En s'approchant prudemment du lavabo—"
+    ],
+    "4": [
+      "Fouiller",
+      "Revenir en arrière"
+    ],
+    "5": [
+      "Les vêtements de \\str[120], qu'elle vient d'enlever, ",
+      "sont soigneusement pliés sur le comptoir."
+    ],
+    "6": [
+      "\"C-c'est...!\""
+    ],
+    "7": [
+      "Ce sont les \\ia[\\v[86]] que \\str[120] vient d'enlever—   \\w[30]",
+      "Je peux même sentir sa chaleur corporelle persistante sur les endroits ",
+      "que mes doigts touchent."
+    ],
+    "8": [
+      "...Après avoir fouillé un moment, ",
+      "j'ai seulement trouvé le camisole et le short de \\str[120].",
+      "Il semble qu'il n'y ait pas de butin spécial ici."
+    ],
+    "9": [
+      "—Je viens de prendre la culotte de \\str[120], ",
+      "il n'est pas nécessaire de chercher autre chose."
+    ],
+    "10": [
+      "Savourer",
+      "Voler",
+      "Remettre"
+    ],
+    "11": [
+      "Je sens cette sombre envie au fond de mon cœur ",
+      "commencer à s'agiter à nouveau..."
+    ],
+    "12": [
+      "Frotter",
+      "Lécher",
+      "Sentir",
+      "Regarder"
+    ],
+    "13": [
+      "\"Glup... ",
+      "Je suis enfin arrivé à ce point...\""
+    ],
+    "14": [
+      "\"Eh bien... il est temps de se lancer—\""
+    ],
+    "15": [
+      "Puisque je suis déjà arrivé si loin...",
+      "Comment pourrais-je ne pas vouloir essayer ça!?"
+    ],
+    "16": [
+      "Cum!",
+      "Plus vite",
+      "Plus lentement",
+      "Arrêter"
+    ],
+    "17": [
+      "J'ai calmement porté la culotte à ma bouche."
+    ],
+    "18": [
+      "J'ai convoqué mon courage et porté la culotte à ma bouche."
+    ],
+    "19": [
+      "peropero———peropero————",
+      "peropero———peropero————"
+    ],
+    "20": [
+      "\"Ça a un goût un peu... salé...\""
+    ],
+    "21": [
+      "\"Haah! ",
+      "Je l'ai accidentellement trop léchée et l'ai mouillée...\""
+    ],
+    "22": [
+      "\"...Ce goût! ",
+      "C'est l'odeur de quelque chose de coquin!\""
+    ],
+    "23": [
+      "J'ai soigneusement savouré la culotte de \\str[120]."
+    ],
+    "24": [
+      "\"Haah... quelle bonne saveur...\""
+    ],
+    "25": [
+      "\"Exhale... Si parfumée...\""
+    ],
+    "26": [
+      "\"Ngh... J'ai l'impression que tout mon corps est ",
+      "enveloppé dans le parfum de \\str[120]...\""
+    ],
+    "27": [
+      "Je me suis bien amusé avec la culotte de \\str[120]."
+    ],
+    "28": [
+      "Alors que le tissu se déploie devant mes yeux,",
+      "la trace humide sur le côté intérieur scintille faiblement sous la lumière—",
+      "C'est...!?"
+    ],
+    "29": [
+      "Même si elle a porté cette culotte toute la journée, ",
+      "parce que \\str[120] est d'habitude si propre, elles ont encore l'air ",
+      "presque neuves—sauf ce faint parfum corporel qui taquine ma raison."
+    ],
+    "30": [
+      "\\{Ngh...                 \\w[30]",
+      "Ça... ça arrive...!    \\w[40]\\^ "
+    ],
+    "31": [
+      "Contre la culotte de \\str[120], ",
+      "j'ai complètement vidé mon accumulation interne...",
+      "Le tissu de coton autrefois sec a été instantanément trempé et souillé ",
+      "par le fluide blanc."
+    ],
+    "32": [
+      "\"Elle... ne le saura pas, non...?\""
+    ],
+    "33": [
+      "J'ai soigneusement rangé la culotte, qui semblait lourde du liquide, ",
+      "à sa place originale et utilisé les plis des autres vêtements ",
+      "pour cacher désespérément les zones souillées."
+    ],
+    "5.1": [
+      "Les vêtements de \\str[120], qu'elle vient d'enlever, ",
+      "sont sur le comptoir. ils ont l'air un peu défaits d'avoir ",
+      "été fouillés."
+    ],
+    "5.2": [
+      "Les vêtements de \\str[120], qu'elle vient d'enlever, ",
+      "sont sur le comptoir. ils ont l'air un peu défaits d'avoir ",
+      "été fouillés.",
+      "",
+      "Le tissu porte encore clairement les traces de ",
+      "le fluide blanc que j'ai laissé dessus plus tôt..."
+    ],
+    "5.3": [
+      "Le bruit de l'eau qui éclabousse de la salle de bain ",
+      "me rappelle que \\str[120] est toujours dedans...",
+      "Je ferais mieux de ne rien faire qui puisse faire du bruit."
+    ],
+    "19.5": [
+      "hasuhasu———hasuhasu————",
+      "hasuhasu———hasuhasu————"
+    ]
+  },
+  "7": {
+    "0": [
+      "Réaliser que la situation était irrécupérable, ",
+      "j'ai baissé la tête avec abattement,",
+      "attendant silencieusement les reproches de \\str[120]."
+    ],
+    "1": [
+      "\\nl< >\"…………………………\""
+    ],
+    "2": [
+      "\\nl< >\"Tant pis. \\str[121] a été comme ça tellement ces derniers temps,",
+      "je commence vraiment à m'y habituer.\""
+    ],
+    "3": [
+      "\"—Eh!?\""
+    ],
+    "4": [
+      "\\nl< >\"Si faire ça rend \\str[121] plus heureux,",
+      "alors je veux aussi être utile...\""
+    ],
+    "5": [
+      "\"V-Vraiment?\""
+    ],
+    "6": [
+      "\"Alors... ",
+      "tu pourrais utiliser ta main pour m'aider comme ça...?\""
+    ],
+    "7": [
+      "\\nl< >\"Faire ça... ",
+      "ça va vraiment rendre \\str[121] heureux...?\""
+    ],
+    "8": [
+      "\\nl< >\"En plus, je... ",
+      "je ne sais pas vraiment comment faire...\""
+    ],
+    "9": [
+      "\"C'est bon, c'est simple! ",
+      "Tends juste la main et attrape-le ici,",
+      "puis caresse-le doucement, c'est tout!\""
+    ],
+    "10": [
+      "\\nl< >\"J-Je vois... eh bien, j'y vais alors...?\""
+    ],
+    "11": [
+      "\\nl< >\"C'est... c'est comme ça?\""
+    ],
+    "12": [
+      "\"Oui, exactement comme ça! Continue!\""
+    ],
+    "13": [
+      "\\nl< >\"\\str[121]... c'est si... si chaud...\""
+    ],
+    "14": [
+      "Le visage de \\str[120] est maintenant rouge comme une tomate, ressemblant à une pomme mûre.",
+      "Ses mouvements sont maladroits et clairement ceux d'une amateur...",
+      "Mais la sensation de chaque caresse met mon bas-ventre en frénésie."
+    ],
+    "15": [
+      "Utiliser les mains nues",
+      "Utiliser la culotte"
+    ],
+    "16": [
+      "Profiter",
+      "Essayer de résister",
+      "L'encourager"
+    ],
+    "17": [
+      "Cette sensation...",
+      "Si ça continue comme ça, je ne vais pas pouvoir tenir longtemps...!"
+    ],
+    "18": [
+      "Réaliser que \\str[120] fait de son mieux pour me servir, ",
+      "le dernier de ma résistance s'évanouit.",
+      "Je ferme les yeux, m'abandonnant à chaque centimètre de ",
+      "sensation de ses doigts."
+    ],
+    "19": [
+      "\\nl< >\"\\str[121], ",
+      "tu as un visage si béat...             \\w[120]",
+      "Tu veux vraiment que je fasse ce genre de chose pour toi à ce point?\""
+    ],
+    "20": [
+      "\\nl< >\"Ta respiration devient si lourde...      \\w[120]",
+      "\\str[121], tu es excité à nouveau?\""
+    ],
+    "21": [
+      "\"...Ngh!\""
+    ],
+    "22": [
+      "J'ai réussi à endurer à peine l'assaut de \\str[120].",
+      "Mais elle semble commencer à être un peu excitée elle-même..."
+    ],
+    "23": [
+      "J'ai concentré tout mon esprit pour résister désespérément ",
+      "aux vagues de plaisir."
+    ],
+    "24": [
+      "J'ai pris quelques respirations profondes, ",
+      "essayant de résister aux vagues constantes de plaisir."
+    ],
+    "25": [
+      "\\nl< >\"...C'est ici? ",
+      "Ça fait du bien si je te touche ici?\""
+    ],
+    "26": [
+      "\\nl< >\"J'ai l'impression... ",
+      "Je commence à comprendre où \\str[121] aime être touché...\""
+    ],
+    "27": [
+      "Mais contre l'offensive taquine de \\str[120], ",
+      "la soi-disant endurance est totalement inutile!",
+      "La chaleur qui coule constamment de ses doigts ",
+      "m'a laissé complètement sans défense...!"
+    ],
+    "28": [
+      "Je n'ai pas pu m'empêcher de tendre la main et de caresser doucement les cheveux de \\str[120].",
+      "J'avais l'impression que je la laisserais tomber si je ne lui donnais pas ",
+      "des éloges pour avoir fait de son mieux..."
+    ],
+    "29": [
+      "\\nl< >\"Toujours à se faufiler chaque fois que je ne regarde pas...      \\w[90]",
+      "Ce n'est pas permis, d'accord?\""
+    ],
+    "30": [
+      "\\nl< >\"Honnêtement, \\str[121]...       \\w[90]",
+      "Je suis en fait assez embarrassée en ce moment...\""
+    ],
+    "31": [
+      "Même si elle me fait encore des reproches, ",
+      "il y a un soupçon de bonheur dans la voix de \\str[120]."
+    ],
+    "32": [
+      "Comme en réponse,",
+      "les mouvements de la main de \\str[120] deviennent de plus en plus intenses..."
+    ],
+    "33": [
+      "\\{J-Je suis à ma limite...!"
+    ],
+    "34": [
+      "\\{—Je ne peux pas le retenir! Je vais éjaculer...!"
+    ],
+    "35": [
+      "\\nl< >\"————Kyaa!?\""
+    ],
+    "36": [
+      "\\nl< >\"Q-Quelque chose est sorti!?\""
+    ],
+    "37": [
+      "Complètement pris au dépourvu,",
+      "\\str[120] a été éclaboussée partout par le cum épais qui jaillissait."
+    ],
+    "38": [
+      "\\nl< >\"Uweh... mes mains sont toutes collantes...!\""
+    ],
+    "39": [
+      "\"C'est bon... ",
+      "c'est simplement la preuve de combien tu m'as fait du bien!\""
+    ],
+    "40": [
+      "Face à ce tournant soudain des événements, elle est tombée dans une stupeur momentanée.",
+      "Mais bientôt un regard d'émerveillement est monté sur son visage, et comme un chaton curieux,",
+      "elle a approché son nez de la tache de fluide blanc."
+    ],
+    "41": [
+      "\\nl< >\"Snif, snif...\" ",
+      "\\w[90]\\^"
+    ],
+    "42": [
+      "\\nl< >\\>\"Snif, snif...       \\<",
+      "Uweh...! Quelle odeur piquante...!\""
+    ],
+    "43": [
+      "\"Ah... idiot! Ne va pas sentir des trucs comme ça!\""
+    ],
+    "44": [
+      "\\nl< >\"N'est-ce pas toute la faute de \\str[121]?    \\w[60]",
+      "Éjaculer tellement d'un coup...!\""
+    ],
+    "45": [
+      "\"Désolé... tu as raison...\""
+    ],
+    "46": [
+      "Après avoir eu \\str[120] qui a fait de telles choses pour moi, ",
+      "je n'avais aucune confiance pour répliquer..."
+    ],
+    "47": [
+      "Mais en la regardant étudier curieusement le cum, ",
+      "je n'ai pas pu m'empêcher de déglutir.",
+      "C'est... si érotique!"
+    ],
+    "48": [
+      "Même si mon esprit divaguait, ",
+      "ma bite, qui venait de ramollir,",
+      "avait l'impression de regagner progressivement sa vitalité."
+    ],
+    "49": [
+      "\\nl< >\"Et? \\str[121], ça t'a fait du bien?\""
+    ],
+    "50": [
+      "\"Ouais... ça faisait incroyable. Je me sens totalement rafraîchi!\""
+    ],
+    "51": [
+      "C'était la vérité honnête. En ce moment, ",
+      "mon esprit est aussi clair que si j'étais entré en Mode Sage!"
+    ],
+    "52": [
+      "\\nl< >\"Alors je retourne finir mon bain.",
+      "\\str[121], ne fais plus de choses stupides comme ça!\""
+    ],
+    "53": [
+      "Même maintenant, je ne me suis pas encore tout à fait remis.",
+      "Je n'arrive pas à croire qu'elle ait vraiment accepté de faire une telle chose."
+    ],
+    "54": [
+      "Ça a commencé comme une simple lubie, je voulais juste ",
+      "la taquiner comme d'habitude et voir son visage devenir rouge, ",
+      "son cœur s'emballer, et tout son être tomber dans la panique..."
+    ],
+    "55": [
+      "Mais \\str[120] ne s'est pas du tout énervée.",
+      "au lieu de cela, pour prendre soin de moi, elle a tacitement autorisé",
+      "ce comportement transgressif qui frôlait la violation."
+    ],
+    "56": [
+      "Même si elle était si timide que des larmes se sont accumulées ",
+      "aux coins de ses yeux, et que son petit visage si pâle ",
+      "était si rouge qu'on aurait dit qu'il était en feu..."
+    ],
+    "57": [
+      "Même si son corps tremblait très légèrement, ",
+      "elle a quand même enduré la honte, se plaignant dans un ",
+      "chuchotement à peine audible, \"\\str[121], honnêtement...\",",
+      "tout en m'embrassant tout entier avec une tendresse incroyable."
+    ],
+    "58": [
+      "Ce souvenir est comme un poison que je ne peux pas chasser de mon esprit.",
+      "Est-ce que notre relation... pourra vraiment revenir comme avant?"
+    ],
+    "59": [
+      "Cette indulgence dangereuse ne fera que me rendre plus avide.",
+      "J'ai envie de plus—"
+    ],
+    "60": [
+      "Envie de la voir dans un état plus vulnérable, plus envoûtant,",
+      "envie de toucher chaque centimètre de cette peau chaude et lisse,",
+      "envie... de posséder son âme aussi."
+    ],
+    "61": [
+      "————Non, je suis déjà allé trop loin aujourd'hui.",
+      "\\str[120] doit être épuisée aussi...",
+      "Je ne devrais pas ajouter plus à son fardeau."
+    ],
+    "62": [
+      "\\{ Bon, ça suffit, rentrons!"
+    ],
+    "63": [
+      "\\nl< >\"\\str[121], tu as éjaculé tellement encore...",
+      "maintenant je dois me laver les cheveux à nouveau...!\""
     ]
   },
   "11": {
@@ -132,7 +865,7 @@
       "Après s'être lavé le visage,",
       "\\str[120] semblait beaucoup plus énergique.",
       "Maintenant nous sommes côte à côte,",
-      "se brosser les dents devant le miroir."
+      "en train de nous brosser les dents devant le miroir."
     ],
     "1": [
       "Partager une routine matinale comme celle-ci avec elle",
@@ -147,7 +880,7 @@
       "\\nl< >Je n'ai... pensé à rien... encore...\" \\w[330]\\^"
     ],
     "4": [
-      "Tu allez de côté... vous vous faites soigner..."
+      "Tu vas de côté... vous vous faites soigner..."
     ],
     "5": [
       "\\nl< >O-nii-cha... t'es... l'élu—!\" \\w[330]\\^"
@@ -160,6 +893,119 @@
     "7": [
       "Nous avons fini de nous brosser les dents tout en discutant",
       "des langues qu'aucun de nous ne pouvait vraiment comprendre."
+    ],
+    "8": [
+      "\\nl< >\"Ah—J'ai oublié de m'attacher les cheveux d'abord!\""
+    ],
+    "9": [
+      "Réaliser qu'elle avait mis sa routine matinale dans le désordre,",
+      "\\str[120] a rapidement craché la mousse dans sa bouche et frénétiquement ",
+      "ramassé les accessoires à cheveux sur le comptoir pour attacher ses cheveux."
+    ],
+    "10": [
+      "Même quand elle est morte de fatigue et à moitié endormie,",
+      "elle a une étrange obsession des détails quand ",
+      "il s'agit de garder ses cheveux propres."
+    ],
+    "11": [
+      "\\nl< >\"Mmm-hmmm~~~~~",
+      "C'est fait~!\""
+    ],
+    "12": [
+      "Au moment où ses deux couettes latérales vivantes ont été attachées,",
+      "\\str[120] a plissé les yeux avec satisfaction, levé les mains haut, ",
+      "et pris une grande étirement sans défense."
+    ],
+    "13": [
+      "En regardant sa petite silhouette et les courbes prononcées accentuées alors qu'elle s'étirait,",
+      "une vague d'intention espiègle incontrôlable a soudainement afflué dans mon cœur, ",
+      "malgré avoir correctement brossé mes dents il y a un instant..."
+    ],
+    "14": [
+      "Palper \\str[120]",
+      "Vaut mieux pas"
+    ],
+    "15": [
+      "Profitant de l'ouverture juste après que \\str[120] ait fini de s'étirer ",
+      "et repris sa brosse à dents—",
+      "Je me suis faufilé tranquillement derrière elle."
+    ],
+    "16": [
+      "\\nl< >\"—Meow-ya!?\""
+    ],
+    "17": [
+      "Mes mains se sont tendues abruptement par derrière, ",
+      "enroulant mes doigts autour de ces gros seins lourds,",
+      "les palpant et les pressant sans aucune hésitation."
+    ],
+    "18": [
+      "\\str[120] n'avait zéro défense contre cette attaque soudaine,",
+      "tremblant violemment de surprise alors qu'un petit cri mignon explosait d'elle."
+    ],
+    "19": [
+      "Profitant du toucher incroyablement tendre dans mes paumes, ",
+      "un sourire espiègle s'est répandu sur mon visage devant le succès retentissant de ma farce.",
+      "Jetant toute modération par la fenêtre, mes doigts ont même commencé à la caresser davantage."
+    ],
+    "20": [
+      "\\nl< >\"Meow-yayayaya—!?\""
+    ],
+    "21": [
+      "\\{\"Phoo-ah—!?\""
+    ],
+    "22": [
+      "Accompagné d'un choc sourd et lourd, ",
+      "une douleur aiguë a frappé mon abdomen et ma vision est devenue noire.",
+      "Je me suis effondré directement sur mes genoux, ",
+      "mon corps entier tremblant de manière incontrôlable."
+    ],
+    "23": [
+      "\"C'est... le Serious Punch... ",
+      "qu'on n'a pas vu depuis un moment...\""
+    ],
+    "24": [
+      "\\nl< >\"\\str[121], sérieusement...",
+      "Ne fais pas des attaques soudaines comme ça~! ",
+      "C'est super effrayant!\""
+    ],
+    "25": [
+      "\"Ah... ahhh...\""
+    ],
+    "26": [
+      "Je me suis levé de manière tremblante comme un faon nouveau-né.",
+      "Peu importe combien de fois je le vis, ",
+      "c'est difficile de comprendre d'où \\str[120] ",
+      "tire cette puissance explosive folle..."
+    ],
+    "27": [
+      "Après quelques folâtreries, ",
+      "nous nous tenons maintenant côte à côte devant le miroir, en nous brossant les dents.",
+      "Bien que \\str[120] fredonne encore confortablement pour elle-même, ",
+      "son état physique est loin d'être aussi détendu qu'il n'y paraît en surface."
+    ],
+    "28": [
+      "En ce moment, elle est en désordre, ",
+      "son corps couvert de mes suçons et marques de morsures.",
+      "Comme prévu... je suis vraiment allé un peu trop loin."
+    ],
+    "29": [
+      "Peut-être par culpabilité et gêne,",
+      "nous avons fini par nous brosser les dents dans un silence étrange."
+    ],
+    "30": [
+      "Cette gêne n'a pas duré longtemps. ",
+      "Après nous être lavé les visages, nous nous tenions côte à côte devant le miroir comme d'habitude.",
+      "\\str[120] brossait sérieusement ses cheveux—l' 'exercice' de la nuit précédente avait ",
+      "laissé l'air un peu en désordre."
+    ],
+    "14.1": [
+      "Après avoir fini de s'étirer, \\str[120] a repris sa brosse à dents ",
+      "et est retournée à se brosser les dents sérieusement."
+    ],
+    "14.2": [
+      "Les sons rythmiques et unifiés \"shoo-shoo\" ont résonné à nouveau dans la salle de bain.",
+      "Bien qu'aucun de nous n'ait dit un autre mot, le reflet dans le miroir ",
+      "capturait une atmosphère exceptionnellement chaleureuse et harmonieuse."
     ]
   },
   "13": {
@@ -266,7 +1112,7 @@
       "Encore un pas et cette coquille de timidité se briserait pour de bon!"
     ],
     "26": [
-      "Coupon \\str[120]",
+      "Faire une coupure à \\str[120]",
       "Faire une promesse",
       "Pot-de-vin en espèces"
     ],
@@ -361,7 +1207,7 @@
       "ce petit accident m'a presque marqué à vie..."
     ],
     "50": [
-      "\\nl< >Très bien! Si nous avons fini, sort maintenant!",
+      "\\nl< >Très bien! Si nous avons fini, sors maintenant!",
       "J'ai besoin de prendre une douche!!"
     ],
     "51": [
@@ -474,11 +1320,11 @@
       "le verre, suscitant toutes sortes d'imagination."
     ],
     "7": [
-      "Continuez à explorer",
+      "Continuer à explorer",
       "Il est temps de revenir"
     ],
     "8": [
-      "All clear, let’s keep exploring!"
+      "Tout est clair, continuons à explorer!"
     ],
     "9": [
       "\\str[120] a fini son bain,",
@@ -503,7 +1349,7 @@
       "...Tu veux toujours continuer à jeter un œil?"
     ],
     "15": [
-      "Continuez à regarder",
+      "Continuer à regarder",
       "Utiliser la porte ninja",
       "Oublie ça"
     ],
@@ -648,7 +1494,7 @@
     ],
     "15": [
       "\\{Je voulais juste veiller sur",
-      "mon adorable \\str[120] adorable dans l'ombre！"
+      "mon adorable \\str[120] adorable dans l'ombre!"
     ],
     "16": [
       "C'est vrai, c'est juste un bilan de santé!"
@@ -667,7 +1513,7 @@
     "20": [
       "C'est extrêmement important!",
       "Si quelque chose n'allait pas avec ton corps",
-      "et je ne l'ai pas remarqué en tant que ton frère……！"
+      "et je ne l'ai pas remarqué en tant que ton frère……!"
     ],
     "21": [
       "\\nl< >Ughhh… Alors qu'est-ce que \\str[121] veut faire, exactement?"
@@ -711,7 +1557,7 @@
     ],
     "32": [
       "En fait, \\str[120]… \\str[121] a cette maladie",
-      "où il mourra s'il ne voit pas de nudité……！"
+      "où il mourra s'il ne voit pas de nudité……!"
     ],
     "33": [
       "C'était juste une excuse aléatoire que j'ai trouvée,",
@@ -770,7 +1616,7 @@
     ],
     "48": [
       "\\nl< >Tu es vraiment un idiot, \\str[121]!",
-      "Sort!"
+      "Sors!"
     ],
     "49": [
       "Gonflant ses joues de frustration,",
@@ -785,7 +1631,7 @@
     ],
     "52": [
       "\\nl< >Pourquoi demanderais-tu quelque chose comme ça!?",
-      "C'est tellement bizarre…！"
+      "C'est tellement bizarre…!"
     ],
     "53": [
       "\\nl< >\\{Mon Dieu, \\str[121], espèce d'idiot!!!"
@@ -793,6 +1639,192 @@
     "54": [
       "\\str[120] m'a mis dehors avec colère.",
       "Peut-être que je suis vraiment allé trop loin cette fois-ci…"
+    ]
+  },
+  "32": {
+    "0": [
+      "Puisque \\str[120] m'a appelé, ",
+      "Je n'y ai pas beaucoup pensé et je suis juste entré directement dans la salle de bain.    \\w[30]\\{",
+      "Bon, c'est elle qui m'a appelé de toute façon."
+    ],
+    "1": [
+      "\"Qu'est-ce qui se passe?\""
+    ],
+    "2": [
+      "\\nl< >\"Euh... le shampooing est épuisé.",
+      "\\str[121], tu pourrais m'apporter une nouvelle bouteille?\""
+    ],
+    "3": [
+      "\\str[120] a timidement passé la tête par la porte de la salle de bain,",
+      "comme un petit animal prudent mais curieux—",
+      "le genre qui te donne envie de la taquiner un peu…",
+      "Que dois-je faire maintenant?"
+    ],
+    "4": [
+      "Appeler \\str[120]",
+      "Apporter le shampooing"
+    ],
+    "5": [
+      "\\nl< >\"Eh... Je suis encore en train de me laver…\""
+    ],
+    "6": [
+      "\\nl< >\"Pff, je t'ai juste appelé parce que ",
+      "Je ne voulais pas mouiller le sol…\""
+    ],
+    "7": [
+      "J'ai rapidement chassé ces pensées bizarres,",
+      "j'ai sorti une bouteille de shampooing de rechange de l'armoire, ",
+      "et l'ai tendue à \\str[120]."
+    ],
+    "8": [
+      "\\nl< >\"Merci, \\str[121]!",
+      "Je retourne à mon bain maintenant—à dans un instant!\""
+    ],
+    "9": [
+      "\\str[120] a fermé la porte et est retournée à son bain.   \\w[30]",
+      "Hmm... devrais-je rester ici un peu plus longtemps?"
+    ],
+    "10": [
+      "Explorer",
+      "Repartir"
+    ],
+    "11": [
+      "Puisque je suis déjà ici, ",
+      "autant regarder un peu plus autour de moi!"
+    ],
+    "12": [
+      "\\str[120] est encore en train de se baigner... mieux vaut repartir."
+    ],
+    "13": [
+      "\\str[120] s'est obedientment approchée de moi.",
+      "Comme elle était encore en train de se baigner, ",
+      "elle n'avait qu'une serviette enroulée lâchement autour d'elle,",
+      "son corps dégageant l'odeur du gel douche mélangée à la vapeur."
+    ],
+    "14": [
+      "Alors... ",
+      "que dois-je faire avec \\str[120] maintenant...?"
+    ],
+    "15": [
+      "Lui donner du Konpeito",
+      "Lui caresser la tête",
+      "Presser les seins",
+      "Discuter un peu"
+    ],
+    "16": [
+      "\"Brave fille, brave fille~ ",
+      "Tiens, prends un bonbon.\""
+    ],
+    "17": [
+      "\\nl< >\"J'en ai déjà eu un—    \\w[70]\\^"
+    ],
+    "18": [
+      "\\nl< >\"Et même si ça a vraiment bon goût,",
+      "ça rend toujours mon corps un peu chaud après…\""
+    ],
+    "19": [
+      "\\nl< >\"Des bonbons, hein... c'est sucré...      \\w[60]",
+      "Mais \\str[121], tu parles comme un grand-père, tu sais?\""
+    ],
+    "20": [
+      "J'ai donné un étrange Konpeito à \\str[120]."
+    ],
+    "21": [
+      "\\nl< >\"J'ai dit arrête de me toucher maintenant!\""
+    ],
+    "22": [
+      "\"    ヾ(・ω・)    ",
+      "Brave fille, brave fille~\""
+    ],
+    "23": [
+      "\\nl< >\"Mmm...    \\w[45]",
+      "Mes cheveux sont encore mouillés,",
+      "alors ne me caresse pas la tête maintenant…\""
+    ],
+    "24": [
+      "J'ai caressé les cheveux humides de \\str[120]—",
+      "ouais, la texture était vraiment horrible…"
+    ],
+    "25": [
+      "\\nl< >\"\\str[121]... tu te souviens même de pourquoi tu es venu ici...?\""
+    ],
+    "26": [
+      "\\nl< >\"Si tu es aussi désespéré, \\str[121], dis-le juste...",
+      "Tu penses toujours à des trucs comme ça de toute façon…\""
+    ],
+    "27": [
+      "\\nl< >\"Donc c'était juste ta main qui a glissé encore...?   \\w[90]\\{",
+      "\\str[121], t'es un pervers!\""
+    ],
+    "28": [
+      "En regardant les courbes de \\str[120] dessinées sous la serviette,",
+      "ma main a bougé toute seule, tendant la main pour presser cette chaleur douce et lourde."
+    ],
+    "29": [
+      "\\nl< >\\{\"—Nyaaah!?\\str[121]!?\""
+    ],
+    "30": [
+      "\"Désolé, ma main a glissé.\""
+    ],
+    "31": [
+      "\\nl< >\"Ce n'est pas le moment de me taquiner...!\""
+    ],
+    "32": [
+      "Mmm... à en juger par la sensation,",
+      "il semble que \\str[120] ait encore un peu grandi."
+    ],
+    "33": [
+      "\\nl< >\"Ça suffit déjà... où est mon shampooing?\""
+    ],
+    "34": [
+      "\"La température de l'eau du bain est-elle bonne?\""
+    ],
+    "35": [
+      "\\nl< >\"Elle est parfaite—vraiment confortable.\""
+    ],
+    "36": [
+      "Discuté tranquillement avec \\str[120] un moment."
+    ],
+    "37": [
+      "Hmm, j'ai perdu assez de temps ici. ",
+      "Mieux vaut arrêter de taquiner \\str[120]",
+      "et juste lui préparer son shampooing."
+    ],
+    "38": [
+      "\\nl< >\"Merci, \\str[121]! ",
+      "Je retourne me laver—à dans un instant~\""
+    ],
+    "39": [
+      "\\str[120] a fermé la porte et est retournée à son bain.    \\w[30]",
+      "Si je reste plus longtemps, ça aura l'air suspect... Je devrais repartir."
+    ],
+    "40": [
+      "\\nl< >\\{\"—Nyaaah!?\"",
+      "\\w[45]\\^"
+    ],
+    "41": [
+      "\\str[120] a soudainement glissé juste devant moi,",
+      "tombant face contre le sol—",
+      "ça avait l'air douloureux juste en la regardant..."
+    ],
+    "42": [
+      "\\{\"Ah! Est-ce que... ",
+      "tu vas bien!?\""
+    ],
+    "43": [
+      "Je me suis rapidement précipité et j'ai aidé \\str[120] à se relever.",
+      "Heureusement, il ne semblait pas que ce soit une chute dure—elle n'était pas blessée."
+    ],
+    "44": [
+      "\\nl< >\"Uuuuh... \\str[121], ça faisait vraiment mal...\""
+    ],
+    "45": [
+      "\\nl< >\"Je pense que je vais avoir une bosse sur la tête...!\""
+    ],
+    "46": [
+      "En regardant \\str[120] tremblant légèrement de douleur,",
+      "Je l'ai doucement réconfortée et aidée à entrer dans le bain ",
+      "pour se laver les cheveux."
     ]
   }
 }

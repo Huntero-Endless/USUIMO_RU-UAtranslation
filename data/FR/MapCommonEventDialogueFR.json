@@ -6,10 +6,10 @@
     "1": [
       "Elle ne semblait rien remarquer d'inhabituel,",
       "et il a repoussé rapidement.",
-      "...Pourrait-il s'agir d'une sorte de ressource renouvelable?"
+      "...Pourrait-il s'agir d'une sorte de ressource renouvelable ?"
     ],
     "2": [
-      "\\nl< >...Qu'est-ce qui ne va pas, \\str[121]?",
+      "\\nl< >...Qu'est-ce qui ne va pas, \\str[121] ?",
       "Tu as l'air vraiment sérieux."
     ],
     "3": [
@@ -21,46 +21,46 @@
     ],
     "5": [
       "\\nl< >...J'ai un peu de démangeaisons à la tête. \\w[30]",
-      "As-tu fait quelque chose, \\str[121]?"
+      "As-tu fait quelque chose, \\str[121] ?"
     ],
     "6": [
-      "Je-je n'ai rien fait… Je le pense!"
+      "Je-je n'ai rien fait… Je le pense !"
     ]
   },
   "cookingSystem": {
     "0": [
-      "\\ii[\\v[\\v[85]]]est prêt. Que dois-je faire?"
+      "\\ii[\\v[\\v[85]]] est prêt. Que dois-je faire ?"
     ],
     "1": [
-      "Échangez-le",
-      "Supprime-le"
+      "Échanger",
+      "Supprimer"
     ],
     "2": [
-      "Je suis toujours en train de choisir les ingrédients!!"
+      "Je suis toujours en train de choisir les ingrédients !!"
     ]
   },
   "inventoryExpansion": {
     "0": [
       "Il semble que l'utilisation de \\ii[312]",
-      "peut augmenter la capacité du sac à dos..."
+      "puisse augmenter la capacité du sac à dos..."
     ],
     "1": [
-      "Développer les emplacements d'armes",
-      "Développer les emplacements d'équipement",
-      "Pas grave"
+      "Étendre les emplacements d'armes",
+      "Étendre les emplacements d'équipement",
+      "Peu importe"
     ],
     "2": [
       "La quantité de \\ii[312]",
-      "semble insuffisant..."
+      "semble insuffisante..."
     ]
   },
   "loadingEasterEgg": {
     "0": [
-      "\\nl< >Le steak de Hambourg est le plat le plus délicieux.\" \\w[180] \\^"
+      "\\nl< >Le steak de Hambourg est le plat le plus délicieux.\\w[180] \\^"
     ],
     "1": [
       "\\nl< >\\str[121] va sûrement revenir",
-      "avec une montagne de viande pour \\str[120]...\" \\w[360] \\^"
+      "avec une montagne de viande pour \\str[120]...\\w[360] \\^"
     ],
     "2": [
       "Ma sœur semble dire quelque chose..."
@@ -68,34 +68,34 @@
     "3": [
       "\\nl< >Mais les poivrons verts sont l'ennemi. \\w[120]",
       "\\str[121], tu dois tous les manger… \\w[120]",
-      "Il faut vaincre l'ennemi vert~!\" \\w[120]\\^"
+      "Il faut vaincre l'ennemi vert~!\\w[120]\\^"
     ],
     "4": [
       "\\nl< >Ah, tu es réveillé… \\w[60]",
-      "\\str[121], as-tu bien dormi?"
+      "\\str[121], as-tu bien dormi ?"
     ],
     "5": [
       "Pas vraiment… Au fait,",
-      "J'ai cru entendre des bruits étranges.",
-      "for a while now…\""
+      "J'ai cru entendre des bruits étranges,",
+      "depuis un moment…\""
     ],
     "6": [
       "\\nl< >Eh hehe, c'était mon \\w[60]",
-      "service de sommeil spécial pour toi, \\str[121]!"
+      "service de sommeil spécial pour toi, \\str[121] !"
     ],
     "7": [
       "\\nl< >Ma sœur est si mignonne... \\w[120]",
       "C'est celle que j'aime le plus au monde... \\w[210]",
-      "Ma sœur est———— \\w[150]\\^"
+      "Ma sœur est—— \\w[150]\\^"
     ],
     "8": [
       "Ma sœur semble dire quelque chose..."
     ],
     "9": [
-      "\\nl< >Ah, \\str[121]! Bonsoir—!"
+      "\\nl< >Ah, \\str[121] ! Bonsoir—!"
     ],
     "10": [
-      "\\nl< >Euh... Tu as entendu tout ce que je viens de dire?"
+      "\\nl< >Euh... Tu as entendu tout ce que je viens de dire ?"
     ],
     "11": [
       "\\nl< >\\str[121], ton visage endormi",
@@ -111,11 +111,11 @@
       "flotte sur l'eau..."
     ],
     "1": [
-      "Ramasse-le",
-      "Laisse-le tranquille"
+      "Ramasser",
+      "Laisser tranquille"
     ],
     "2": [
-      "Quelqu'un a-t-il jeté ça?",
+      "Quelqu'un a-t-il jeté ça ?",
       "Ça a l'air un peu triste, hein…"
     ],
     "3": [
@@ -124,7 +124,7 @@
     ],
     "4": [
       "Si je ramène ça à la maison...",
-      "Ma sœur serait-elle heureuse?"
+      "Ma sœur serait-elle heureuse ?"
     ],
     "5": [
       "Mais ça a l'air un peu sale,",
@@ -133,8 +133,8 @@
   },
   "drowning": {
     "0": [
-      "Ahhh... c'était proche...",
-      "J'ai glissé de la berge et j'ai failli me noyer!"
+      "Ahhh... c'était juste…",
+      "J'ai glissé de la berge et j'ai failli me noyer !"
     ]
   },
   "erohon": {
@@ -146,7 +146,7 @@
   "ninja": {
     "0": [
       "Je n'arrive pas à croire qu'il existe une pièce secrète artificielle dans un endroit comme celui-ci.",
-      "Qui aurait pu la construire…?"
+      "Qui aurait pu la construire… ?"
     ],
     "1": [
       "Ouah…!?",
@@ -154,7 +154,7 @@
     ],
     "2": [
       "Maintenant que j'y pense, j'entends des grondements étranges…",
-      "Était-ce son estomac qui faisait ces bruits…?"
+      "Était-ce son estomac qui faisait ces bruits… ?"
     ],
     "3": [
       "Pouah…",
@@ -162,37 +162,37 @@
     ],
     "4": [
       "…………",
-      "Est-ce qu'elle a tellement faim qu'elle est à peine consciente…?"
+      "Est-ce qu'elle a tellement faim qu'elle est à peine consciente… ?"
     ],
     "5": [
       "Il y a un feu de camp ici, parfait.",
-      "Je vais lui préparer quelque chose à manger!"
+      "Je vais lui préparer quelque chose à manger !"
     ],
     "6": [
       "Dois-je simplement utiliser \\ii[\\v[90]]",
-      "et préparer quelque chose de simple?"
+      "et préparer quelque chose de simple ?"
     ],
     "7": [
-      "Faisons-le!",
-      "…Pas grave."
+      "Faisons-le !",
+      "…Peu importe."
     ],
     "8": [
       "Hmm… Je devrais peut-être échanger",
-      "pour de meilleurs ingrédients…"
+      "contre de meilleurs ingrédients…"
     ],
     "9": [
-      "Hé~ Je t'ai préparé de la nourriture chaude!",
-      "Penses-tu que tu peux manger?"
+      "Hé~ Je t'ai préparé de la nourriture chaude !",
+      "Tu penses pouvoir manger ?"
     ],
     "10": [
-      "Renifle, renifle… renifle, renifle…",
-      "Cette odeur… est-ce de la nourriture?"
+      "Snif, snif… snif, snif…",
+      "Cette odeur… est-ce de la nourriture ?"
     ],
     "11": [
-      "L'odeur de la nourriture!!"
+      "L'odeur de la nourriture !!"
     ],
     "12": [
-      "\\{Très bien, je creuse!!"
+      "\\{Très bien, je creuse !!"
     ],
     "13": [
       "Toi… toi le petit…",
@@ -203,28 +203,28 @@
       "Elle devait vraiment mourir de faim…)"
     ],
     "15": [
-      "Mange, mange… Tu m'as totalement sauvé!",
-      "Je n'ai pas mangé depuis des jours… morveux morveux…"
+      "Mange, mange… Tu m'as totalement sauvé !",
+      "Je n'ai pas mangé depuis des jours… snif snif…"
     ],
     "16": [
       "Je pensais que j'allais me transformer en un fantôme affamé",
-      "hante ce donjon… Grrrr…"
+      "hantant ce donjon… Grrrr…"
     ],
     "17": [
       "Hé… mange juste un peu plus lentement… Au fait,",
-      "pourquoi es-tu seul ici dans un endroit comme celui-ci?"
+      "pourquoi es-tu seul ici dans un endroit comme celui-ci ?"
     ],
     "18": [
-      "Ah! Alors…!",
-      "Je travaillais sérieusement sur ma mission, ok!"
+      "Ah ! Alors… !",
+      "Je travaillais sérieusement sur ma mission, ok !"
     ],
     "19": [
       "Je voulais chercher le trésor caché dans cette zone,",
-      "alors j'ai creusé une pièce secrète dans un endroit isolé!"
+      "alors j'ai creusé une pièce secrète dans un endroit isolé !"
     ],
     "20": [
-      "Mais alors… morpion morpion.",
-      "Après être entré, l'entrée a été bloquée par une pierre tombale!"
+      "Mais alors… snif snif.",
+      "Après être entré, l'entrée a été bloquée par une pierre tombale !"
     ],
     "21": [
       "Ugh, je ne m'attendais vraiment pas à ça,",
@@ -235,8 +235,8 @@
       "Je ne peux pas faire face à l'organisation maintenant…"
     ],
     "23": [
-      "Hein… hein? Mais pourquoi as-tu même",
-      "creuser une pièce secrète en premier lieu…"
+      "Hein… hein ? Mais pourquoi as-tu même",
+      "creusé une pièce secrète en premier lieu…"
     ],
     "24": [
       "Parce que ce trésor n'apparaît pas toujours,",
@@ -244,7 +244,7 @@
     ],
     "25": [
       "De plus, je ne peux laisser personne d'autre être au courant de cela.,",
-      "c'est une mission super secrète directement du boss!"
+      "c'est une mission super secrète directement du boss !"
     ],
     "26": [
       "Si quelqu'un d'autre le découvre…",
@@ -256,22 +256,22 @@
     ],
     "28": [
       "…Attends, quoi?!",
-      "Je viens de divulguer des informations!"
+      "Je viens de divulguer des informations !"
     ],
     "29": [
       "Euh… Je promets que je ne dirai rien…",
       "alors, euh…"
     ],
     "30": [
-      "…Hein!?"
+      "…Hein !?"
     ],
     "31": [
       "Je n'arrive pas à croire que j'ai encore fait une telle erreur…",
       "Ugh… même si tu m'avais sauvé…"
     ],
     "32": [
-      "A-attends une seconde!",
-      "Tu vas me tuer juste pour ça!?"
+      "A-attends une seconde !",
+      "Tu vas me tuer juste pour ça !?"
     ],
     "33": [
       "C'est ça être un ninja…",
@@ -287,15 +287,15 @@
     ],
     "36": [
       "Alors il n'y a qu'une seule réponse :",
-      "Toi aussi, tu dois devenir un ninja!"
+      "Toi aussi, tu dois devenir un ninja !"
     ],
     "37": [
-      "Si vous rejoignez notre groupe,",
-      "il n'y a aucune raison pour que nous nous battions les uns contre les autres!"
+      "Si tu rejoins notre groupe,",
+      "il n'y a aucune raison pour que nous nous battions les uns contre les autres !"
     ],
     "38": [
-      "A-attends une seconde!",
-      "Je n'ai pas vraiment le choix ici, n'est-ce pas!?"
+      "A-attends une seconde !",
+      "Je n'ai pas vraiment le choix ici, n'est-ce pas !?"
     ],
     "39": [
       "C'est bien,",
@@ -303,19 +303,19 @@
     ],
     "40": [
       "C'est bon",
-      "Reste loin de moi!!"
+      "Reste loin de moi !!"
     ],
     "41": [
-      "Tu as vraiment un don pour ce truc de ninja…!",
-      "Tu avez tout appris avec juste un peu de pratique!"
+      "Tu as vraiment un don pour ce truc de ninja… !",
+      "Tu as tout appris avec juste un peu de pratique !"
     ],
     "42": [
       "Maintenant,",
-      "tu es l'un des nôtres aussi!"
+      "tu es l'un des nôtres aussi !"
     ],
     "43": [
-      "Mais je devrai attendre que ma mission soit terminée.",
-      "avant que je puisse te présenter au patron!"
+      "Mais je devrai attendre que ma mission soit terminée",
+      "avant de te présenter au patron !"
     ],
     "44": [
       "À ce point,",
@@ -324,7 +324,7 @@
   },
   "autoUpdateReminder": {
     "0": [
-      "Le processus de mise à jour démarrera automatiquement lorsque vous vous réveillerez le lendemain..",
+      "Le processus de mise à jour démarrera automatiquement lorsque vous vous réveillerez le lendemain.",
       "Veuillez vous assurer que votre connexion Internet est stable tout au long du processus !",
       "\\w[120]"
     ],
@@ -337,26 +337,26 @@
   "maidBunnyBoss": {
     "0": [
       "Il n'y a vraiment rien de spécial devant nous !",
-      "Il n'est donc pas nécessaire d'aller vérifie usa"
+      "Il n'est donc pas nécessaire d'aller vérifier usa"
     ],
     "1": [
       "I-Il n'y a rien ici, vraiment ! N-Ne vous approchez pas !",
       "J-Je te jure qu'il n'y a absolument rien de caché ici usa"
     ],
     "2": [
-      "...Usa?",
+      "...Usa ?",
       "C'est quoi ce bruit bizarre ?"
     ],
     "3": [
-      "...Usa!?",
-      "Comment as tu trouvé cet endroit ?"
+      "...Usa !?",
+      "Comment as-tu trouvé cet endroit ?"
     ],
     "4": [
-      "...Usa!?",
+      "...Usa !?",
       "Un humain...!!"
     ],
     "5": [
-      "Usaaaa, bâtard—                        \\w[45]",
+      "Usaaaa, bâtard—                                \\w[45]",
       "\\{Tu es là pour voler mes carottes ?!       \\w[60]\\^"
     ],
     "6": [
@@ -383,6 +383,16 @@
       "Un fragment spécial obtenu auprès de la Maid Bunny",
       "Si divers fragments peuvent être collectés",
       "cela pourrait aider à améliorer l'état de ${}."
+    ],
+    "description12": [
+      "Un fragment spécial obtenu auprès du Souverain",
+      "Si divers fragments peuvent être collectés",
+      "cela pourrait aider à améliorer l'état de ${}."
+    ],
+    "description50": [
+      "Un fragment spécial obtenu auprès de la Bête rouge",
+      "Si divers fragments peuvent être collectés",
+      "cela pourrait aider à améliorer l'état de ${}."
     ]
   },
   "mecha": {
@@ -391,12 +401,350 @@
       "Il ne répond pas, même lorsqu'on le touche."
     ],
     "1": [
-      "Huh...?",
+      "Hein... ?",
       "Il y a quelque chose ici ?"
     ],
     "2": [
       "Une pièce détachée ?",
       "On dirait qu'il pourrait encore être activé..."
+    ]
+  },
+  "magicCamera": {
+    "record": "Enregistrer une vidéo",
+    "stop": "Arrêter l'enregistrement",
+    "screenshot": "Prendre une capture d'écran",
+    "view": "Voir les fichiers",
+    "starting": "Enregistrement...",
+    "saving": "Sauvegarde...",
+    "screenshotting": "Capture d'écran...",
+    "failed": "Échec !",
+    "duration": "Enregistré {time}"
+  },
+  "gallerySystem": {
+    "startRecall": [
+      "Le journal des souvenirs de cet événement a été déverrouillé.",
+      "Souhaitez-vous revivre ce souvenir ?"
+    ],
+    "recallButton": [
+      "Revivre l'événement",
+      "Laisser tomber"
+    ],
+    "placeholder": "Souvenirs disponibles",
+    "takeBathWithImouto": "Prendre un bain avec \\str[120]",
+    "Polaroid": "Série Polaroid NLCH"
+  },
+  "AnsuzSystem": {
+    "writeNotLoggedIn": "Joueur non connecté ! Échec de l'envoi d'Ansuz !",
+    "uploadFailed": "Impossible de se connecter au serveur ! Échec de l'envoi d'Ansuz !",
+    "writeLimitReached": "Vous avez atteint la limite quotidienne de création d'Ansuz !",
+    "writeRejected": "Données anormales ! Échec de l'envoi d'Ansuz !",
+    "rateNotLoggedIn": "Joueur non connecté ! Évaluation échouée !",
+    "rateFailed": "Impossible de se connecter au serveur ! Évaluation échouée !",
+    "rateLimitReached": "Vous avez atteint la limite quotidienne d'évaluation d'Ansuz !",
+    "rateRejected": "Vous ne pouvez pas évaluer votre propre Ansuz !"
+  },
+  "cheatCodeTutorial": {
+    "0": [
+      "⬆ Maintenez appuyé le cadre de l'avatar pour faire apparaître la fenêtre de saisie des codes de triche.",
+      "Débloquez les fonctionnalités correspondantes en entrant le code de triche correct !"
+    ]
+  },
+  "warehouseIsFull": "Impossible de stocker davantage d'objets !",
+  "cannotUseItem": "Impossible d'utiliser cet objet maintenant !",
+  "bulkSelectButton": "Cliquez pour activer/désactiver la sélection multiple",
+  "usingItem": {
+    "0": [
+      "J'ai sorti \\ii[\\v[90]]  ",
+      "que dois-je faire… ?"
+    ],
+    "1": [
+      "Utiliser",
+      "Laisser tomber",
+      "Jeter"
+    ]
+  },
+  "forceGoHome": [
+    "Il se fait tard... L'abîme la nuit est dangereux,",
+    "Je devrais rentrer à la maison dès que possible... !"
+  ],
+  "gameAnnouncement": {
+    "0": [
+      "Jeter un coup d'œil",
+      "Laisser tomber"
+    ]
+  },
+  "skillOnCooldown": {
+    "0": [
+      "Compétence en temps de recharge !"
+    ]
+  },
+  "takePhotoOfImouto": {
+    "0": [
+      "\\nl< >\"Hngh ! \\str[121] !    \\w[60]",
+      "Tu prends encore des photos en douce !\""
+    ]
+  },
+  "sealingScroll": [
+    "Aucun objet scellé pour le moment",
+    "En cours de scellement :"
+  ],
+  "inventoryOverweight": {
+    "weapon": [
+      "Impossible de porter plus d'armes !"
+    ],
+    "gear": [
+      "Impossible de porter plus d'équipements !"
+    ]
+  },
+  "Abyss": {
+    "0": [
+      " La Tour Éternelle Abandonnée "
+    ]
+  },
+  "ElixirCraft": {
+    "0": [
+      " Fabrication d'élixir "
+    ],
+    "1": [
+      " Élixir Rubrum créé avec succès ! "
+    ]
+  },
+  "gainRedHeart": {
+    "0": [
+      " Éclosion du cœur "
+    ],
+    "1": [
+      " Le cœur de \\str[120] vient de faire un bond ! "
+    ]
+  },
+  "gainWhiteHeart": {
+    "0": [
+      " Amour débordant "
+    ],
+    "1": [
+      " Elle a été remplie à ras bord ! "
+    ]
+  },
+  "gainGoldenHeart": {
+    "0": [
+      " Désir doré "
+    ],
+    "1": [
+      " Perdue dans une mer d'or "
+    ]
+  },
+  "NinjasFate": {
+    "0": [
+      " Le Destin du Ninja "
+    ],
+    "1": [
+      " S'effacer soi-même, et manier la lame pour ses camarades... "
+    ]
+  },
+  "AbyssPillars": {
+    "0": [
+      " ▓▓▓▓ a perçu votre existence "
+    ]
+  },
+  "unlockJackalope": {
+    "0": [
+      " Jackalope "
+    ],
+    "1": [
+      " est apparu dans l'Abîme ! "
+    ]
+  },
+  "unlockMystletainn": {
+    "0": [
+      " Mistilteinn "
+    ],
+    "1": [
+      " est apparu dans l'Abîme ! "
+    ]
+  },
+  "unlockAppleFairy": {
+    "0": [
+      " Fée des pommes "
+    ],
+    "1": [
+      " est apparue dans l'Abîme ! "
+    ]
+  },
+  "unlockStrangeTentacle": {
+    "0": [
+      " Strange Tentacle "
+    ],
+    "1": [
+      " est apparu dans l'Abîme ! "
+    ]
+  },
+  "nekoTruck": {
+    "0": [
+      "Veux-tu acheter \\v[84] ?",
+      "Cela coûte \\c[6]\\v[85]\\c[0] yens !"
+    ],
+    "1": [
+      "Acheter !",
+      "Laisser tomber…",
+      "Le prendre discrètement…"
+    ],
+    "10": "Il n'y a pas de voie assez large !",
+    "11": "Il y a des obstacles sur la voie !",
+    "12": "Le Char a été invoqué avec succès !",
+    "13": "Le Char ne peut pas être invoqué dans cette zone !"
+  },
+  "sela": {
+    "1": [
+      "(On dirait qu'elle ne se réveillera pas avant un moment…",
+      "Je vais repasser plus tard…)"
+    ],
+    "2": [
+      "…Hmm ?",
+      "On est… déjà à la gare ?"
+    ],
+    "3": [
+      "Hein ? Attends—ce n'est pas le wagon du train ?",
+      "Il faisait si chaud il y a encore un instant…"
+    ],
+    "4": [
+      "Un feu de camp… ah…",
+      "C'est donc pour ça qu'il fait si chaud."
+    ],
+    "5": [
+      "Mais… c'est étrange… Il y a encore un instant, ",
+      "je regardais toujours la rivière d'étoiles dehors, par la fenêtre…"
+    ],
+    "6": [
+      "J'ai dû être trop fascinée…",
+      "Et j'ai fini par rater ma gare."
+    ],
+    "7": [
+      "Tu demandes ce qu'est un “train”… ?",
+      "Hé hé… un “train”, hein—"
+    ],
+    "8": [
+      "C'est cette chose qui fait tacatac, tacatac et qui transporte tout le monde,",
+      "brillant alors qu'elle glisse à travers les étoiles comme des diamants dispersés~"
+    ],
+    "9": [
+      "Son sifflement—",
+      "ressemble juste à une baleine qui chante, tu sais ?"
+    ],
+    "10": [
+      "Hé hé, tu ne comprends toujours pas ?",
+      "Alors laisse-moi te montrer un billet, peut-être que ça aidera~"
+    ],
+    "11": [
+      "Le billet du Train Galactique,",
+      "est aussi très—"
+    ],
+    "12": [
+      "Hein ? Hein??",
+      "Le billet… il a disparu…"
+    ],
+    "13": [
+      "Ce billet avec les motifs de lianes noires et",
+      "l'étrange croix au milieu… il a disparu…"
+    ],
+    "14": [
+      "Je suis désolée… Je ne peux pas te montrer la galaxie après tout…",
+      "On dirait que j'ai perdu mon billet…"
+    ],
+    "15": [
+      "Sans lui, je ne pourrai jamais remonter dans le train…",
+      "Ouu… Ouu…"
+    ],
+    "16": [
+      "Que vais-je faire maintenant… ? Je vais juste attendre ici…",
+      "peut-être que le prochain train me trouvera."
+    ],
+    "17": [
+      "Et aussi… je suis désolée…",
+      "le feu ici est vraiment trop chaud…"
+    ],
+    "18": [
+      "Une fois que je m'assieds, la somnolence me submerge…",
+      "comme la marée… qui m'emporte…"
+    ],
+    "19": [
+      "(cette personne…",
+      "s'est vraiment endormie !)"
+    ],
+    "20": [
+      "Il fait vraiment chaud ici.",
+      "Mais… c'est différent de la lumière du soleil."
+    ],
+    "21": [
+      "La lumière du soleil est la chaleur du “dehors.”",
+      "Un feu de camp… est la chaleur du “voyage.”"
+    ],
+    "22": [
+      "…Hmm ?",
+      "Le train vient me chercher ?"
+    ],
+    "23": [
+      "Hein ? Oh,",
+      "c'est toi encore, aventurier !"
+    ],
+    "24": [
+      "Je te parlais il n'y a pas si longtemps…",
+      "mais on dirait qu'un très long moment s'est écoulé depuis…"
+    ],
+    "25": [
+      "“Est-ce que je me souviens où j'ai perdu le billet”… ?",
+      "Hmm… pas vraiment… tout est flou maintenant…"
+    ],
+    "26": [
+      "Il n'est pas lourd comme les pièces de ce monde…",
+      "Il est léger—plus léger qu'une plume de cygne~"
+    ],
+    "27": [
+      "Sa couleur ressemble à un “lac endormi” gelé à l'intérieur,",
+      "et si tu le tiens contre la lumière, tu peux voir de la poussière d'étoiles couler à l'intérieur~"
+    ],
+    "28": [
+      "Il a peut-être…",
+      "tombé n'importe où…"
+    ],
+    "29": [
+      "Peut-être dans un champ plein de sauges bleues,",
+      "ou emporté par un renard sans peur jusqu'à sa tanière,"
+    ],
+    "30": [
+      "ou peut-être… il s'est transformé en première goutte de rosée du matin,",
+      "accrochée au rebord de la fenêtre de quelqu'un."
+    ],
+    "31": [
+      "(C'est… une énigme ?",
+      "Je n'ai aucune idée de ce dont elle parle…)"
+    ],
+    "32": [
+      "Je suis désolée… la seule chose dont je me souviens,",
+      "ce sont ces… images vagues et floues…"
+    ],
+    "33": [
+      "Voici... c'est pour toi...",
+      "J'aimais aussi lire ça dans le train avant..."
+    ],
+    "34": [
+      "Il est rempli de plein de... notes intéressantes...",
+      "Je pense que ça pourrait t'être utile aussi, aventurier..."
+    ],
+    "35": [
+      "(Elle est concentrée sur son dessin...",
+      "Mieux vaut ne pas la déranger…)"
+    ],
+    "36": [
+      "(Je suis un peu curieux...",
+      "Qu'est-ce qu'elle dessine… ?)"
+    ],
+    "37": [
+      "(Attends... ",
+      "qu'est-ce que c'est que ça!?)"
+    ],
+    "38": [
+      "(Je crois que je viens de voir...",
+      "quelque chose que je n'aurais absolument pas dû voir…)"
     ]
   }
 }

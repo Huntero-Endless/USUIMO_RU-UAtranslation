@@ -5,12 +5,22 @@
     ],
     "subtitle": "",
     "description": [
-      "On dit que le héros a également commencé sa",
+      "On dit que le héros a également commencé son",
       "voyage depuis le village de départ avec une épée en bois",
       "C'est devenu un objectif à imiter pour de nombreux aventuriers."
     ],
     "ability": [
       "Inflige des dégâts supplémentaires lorsque l'arme est sur le point de se briser"
+    ],
+    "Alias": [
+      "La meilleure épée en bois du village"
+    ],
+    "AliasSubtitle": [
+      "\"C'est la meilleure épée en bois du village. Elle est à toi.\""
+    ],
+    "AliasDescription": [
+      "Un cadeau reçu pour avoir aidé altruistement les villageois locaux.",
+      "Bien que ce ne soit qu'une épée en bois, elle est incroyablement solide."
     ]
   },
   "2": {
@@ -46,17 +56,18 @@
     ],
     "subtitle": "",
     "description": [
-      "Pas d'arme équipée? Alors, déchaînez une rafale de coups!",
-      "C'est peut-être une solution rapide, mais une poignée de courage peut avoir un impact sérieux.",
-      "Pourquoi utiliser une arme quand tes poings peuvent faire le travail?"
+      "Pas d'arme équipée ? Alors, déchaînez une rafale de coups !",
+      "C'est peut-être une solution rapide, mais une poignée de courage peut avoir ",
+      "un impact sérieux.",
+      "Pourquoi utiliser une arme quand tes poings peuvent faire le travail ?"
     ],
     "ability": [
-      "Les dégâts des coups de poing augmentent avec le PV max!"
+      "Les dégâts des coups de poing augmentent avec les PV max !"
     ]
   },
   "5": {
     "name": [
-      "épée de chevalier"
+      "Épée de chevalier"
     ],
     "subtitle": "",
     "description": [
@@ -78,7 +89,7 @@
       "peut le faire exploser, engloutissant l'utilisateur"
     ],
     "ability": [
-      "Maintenez le bouton droit de la souris enfoncé pour lancer \\c[27]Crimson Lotus Meteor\\c[0]"
+      "Maintenez le bouton droit de la souris enfoncé pour lancer \n\\c[27]Météore du Lotus Cramoisi\\c[0]"
     ]
   },
   "7": {
@@ -91,7 +102,7 @@
       "Gel. Très difficile à contrôler. J'ai l'impression qu'il me gèle la main."
     ],
     "ability": [
-      "Maintenez le bouton droit de la souris enfoncé pour lancer \\c[27]Frozen Spell\\c[0]"
+      "Maintenez le bouton droit de la souris enfoncé pour lancer \\c[27]Sort Gelé\\c[0]"
     ]
   },
   "8": {
@@ -105,12 +116,12 @@
     ],
     "ability": [
       "La vitesse de déplacement augmente lors de l'utilisation de Whirlwind Slash",
-      "Enters a float state immune to falling after spin speed increases"
+      "Entre dans un état de flottement immunisé contre la chute après \nl'augmentation de la vitesse de rotation"
     ]
   },
   "9": {
     "name": [
-      "épée de chevalier"
+      "Épée de chevalier"
     ],
     "subtitle": "",
     "description": [
@@ -132,26 +143,26 @@
       "bien que sa véritable matière reste inconnue"
     ],
     "ability": [
-      "Lorsque le PV tombe en dessous de \\c[29]400\\c[0], le potentiel total de l'arme est limité!"
+      "Lorsque les PV tombent en dessous de \\c[29]400\\c[0], le potentiel \ntotal de l'arme est limité !"
     ]
   },
   "11": {
     "name": [
-      "Heavy Mallet"
+      "Marteau lourd"
     ],
     "subtitle": "",
     "description": [
       "Un marteau en bois volumineux",
-      "Recevoir un coup sur la tête vous laissera certainement étourdi!"
+      "Recevoir un coup sur la tête vous laissera certainement étourdi !"
     ],
     "ability": [
-      "33 % de chances d'infliger un état d'étourdissement lors d'une attaque",
-      "Lorsque le PV tombe en dessous de \\c[29]400\\c[0], le potentiel total de l'arme est limité!"
+      "33 % de chances d'infliger un état d'étourdissement lors d'une attaque",
+      "Lorsque les PV tombent en dessous de \\c[29]400\\c[0], le potentiel \ntotal de l'arme est limité !"
     ]
   },
   "12": {
     "name": [
-      "batte de baseball"
+      "Batte de baseball"
     ],
     "subtitle": "",
     "description": [
@@ -159,7 +170,7 @@
       "mais c'est aussi très bien pour frapper les gens."
     ],
     "ability": [
-      "Augmentation de la durabilité!",
+      "Augmentation de la durabilité !",
       "Les dégâts sont multipliés pour les projectiles repoussés"
     ]
   },
@@ -168,7 +179,7 @@
       "Arête de poisson pourrie"
     ],
     "subtitle": [
-      "Ça sent trop mauvais, jette-le!"
+      "Ça sent trop mauvais, jette-le !"
     ],
     "description": [
       "Restes d'arêtes d'un gros poisson, avec de la viande en décomposition",
@@ -185,12 +196,12 @@
     ],
     "subtitle": "",
     "description": [
-      "A massive crab claw that clamps on tight and won’t let go",
-      "Une fois qu'il s'accroche à quelque chose, bonne chance pour l'enlever"
+      "Une pince de crabe massive qui s'accroche fermement et ne lâche pas",
+      "Une fois qu'elle s'accroche à quelque chose, bonne chance pour l'enlever"
     ],
     "ability": [
-      "Lorsqu'il est lancé, il se fixe sur la cible, infligeant des dégâts constants.",
-      "Ne peut être récupéré que si la cible meurt"
+      "Lorsqu'elle est lancée, elle se fixe sur la cible, infligeant des dégâts constants.",
+      "Ne peut être récupérée que si la cible meurt"
     ]
   },
   "15": {
@@ -198,14 +209,14 @@
       "Lune de givre"
     ],
     "subtitle": [
-      "J'ai léché la lame et ma langue s'est coincée... Si froid, si douloureux!",
-      "\\str[121], ne lèche pas des trucs au hasard!"
+      "J'ai léché la lame et ma langue s'est coincée... Si froid, si douloureux !",
+      "\\str[121], ne lèche pas des trucs au hasard !"
     ],
     "description": [
       "Une épée magique faite de glace, juste à côté, envoie un froid glacial"
     ],
     "ability": [
-      "50 % de chances d'infliger un état de gel lors d'une attaque"
+      "50 % de chances d'infliger un état de gel lors d'une attaque"
     ]
   },
   "16": {
@@ -213,14 +224,14 @@
       "Épée électrique qui fuit"
     ],
     "subtitle": [
-      "Zap... zap...!"
+      "Zap... zap... !"
     ],
     "description": [
       "Une épée maudite remplie d'énergie sauvage, mais elle est toujours défectueuse",
       "Soyez prudent, cela pourrait également choquer l'utilisateur"
     ],
     "ability": [
-      "50 % de chances d'infliger l'état de foudre lors d'une attaque"
+      "50 % de chances d'infliger l'état de foudre lors d'une attaque"
     ]
   },
   "17": {
@@ -235,7 +246,7 @@
       "Il semble particulièrement efficace contre certains monstres"
     ],
     "ability": [
-      "40 % de chances d'infliger un état de brûlure lors d'une attaque"
+      "40 % de chances d'infliger un état de brûlure lors d'une attaque"
     ]
   },
   "18": {
@@ -246,7 +257,7 @@
     "description": [
       "Une grande hache fabriquée à partir des os d'ennemis vaincus. Non",
       "très tranchant, et les orcs préfèrent souvent le lancer plutôt que",
-      "utilisez-le en combat rapproché"
+      "l'utiliser en combat rapproché"
     ],
     "ability": [
       "Inflige des dégâts supplémentaires lorsque l'arme est lancée"
@@ -292,7 +303,7 @@
       "c'est couvert de sang"
     ],
     "ability": [
-      "45 % de chances d'infliger un état de saignement lors d'une attaque"
+      "45 % de chances d'infliger un état de saignement lors d'une attaque"
     ]
   },
   "22": {
@@ -320,7 +331,7 @@
     ],
     "ability": [
       "A une chance de déclencher une rafale de vent lors d'une attaque",
-      "Lorsque le PV tombe en dessous de \\c[29]400\\c[0], le potentiel total de l'arme est limité!"
+      "Lorsque les PV tombent en dessous de \\c[29]400\\c[0], le potentiel total \nde l'arme est limité !"
     ]
   },
   "25": {
@@ -335,7 +346,7 @@
     ],
     "ability": [
       "Jeter un sort près de l'eau renforce sa magie",
-      "Maintenez le bouton droit de la souris enfoncé pour lancer Ripple Thrust."
+      "Maintenez le bouton droit de la souris enfoncé pour lancer Poussée Ondulatoire."
     ]
   },
   "26": {
@@ -366,6 +377,20 @@
       "Les attaques ont 50 % de chances d'infliger le statut Poison"
     ]
   },
+  "29": {
+    "name": [
+      "Bâton Pest Bane"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un bâton spécial modifié par un alchimiste longtemps tourmenté",
+      "par les nuisibles. Il peut instantanément générer un gaz toxique pour tuer",
+      "les petites créatures, et on dit qu'il désodorise et désinfecte également"
+    ],
+    "ability": [
+      "Maintenez le bouton gauche de la souris pour lancer la Magie d'Extermination"
+    ]
+  },
   "30": {
     "name": [
       "Canesada"
@@ -380,12 +405,66 @@
       "Améliore considérablement les effets de toutes les compétences acquises"
     ]
   },
+  "31": {
+    "name": [
+      "Vestige Ruineux"
+    ],
+    "subtitle": [
+      "\"Peu importe... ███... va... trouver... ███...\""
+    ],
+    "description": [
+      "Une épée en pierre brisée trouvée dans un monument détruit... ",
+      "Est-ce un objet funéraire ?",
+      "Des inscriptions tachetées restent sur le côté de la lame, ",
+      "mais le sens est fragmenté et illisible..."
+    ],
+    "ability": [
+      "Inflige des dégâts supplémentaires lorsque l'arme est sur le point de se briser"
+    ]
+  },
+  "32": {
+    "name": [
+      "Bâton d'Yggdrasil"
+    ],
+    "subtitle": [
+      "——Comment un mage devrait-il allouer ses points de compétence ? ",
+      "En attente en ligne, urgent !",
+      "——Mets tous les stats en Endurance et Force.",
+      "Maximise Charge et Whirlwind pour les compétences.",
+      "Pour la magie, prends juste Lumière Sacrée et tu es bon.",
+      "——Merci, frérot."
+    ],
+    "description": [
+      "Un bâton fabriqué à partir des branches d'Yggdrasil",
+      "En raison de son poids énorme, il n'est apprécié que par une poignée de mages de combat"
+    ],
+    "ability": [
+      "50 % de chances d'infliger un état d'étourdissement lors d'une attaque",
+      "Lorsque les PV tombent en dessous de \\c[29]400\\c[0], le potentiel total \nde l'arme est limité !"
+    ]
+  },
+  "34": {
+    "name": [
+      "Rugissement du Souverain"
+    ],
+    "subtitle": "",
+    "description": [
+      "Un bâton particulier raffiné purement à partir d'éléments d'eau. ",
+      "On dit qu'il accorde un contrôle absolu",
+      "sur la pression de l'eau, tout comme un certain seigneur des mers terrifiant—",
+      "Mais attends, et s'il n'y a pas d'eau autour du tout...?!"
+    ],
+    "ability": [
+      "Maintenez le bouton droit de la souris pour lancer Enterrement Torrentiel",
+      "Nécessite une source d'eau à proximité pour lancer"
+    ]
+  },
   "35": {
     "name": [
       "Épée de lumière"
     ],
     "subtitle": [
-      "Hein? Je ne vois rien! Ce n'est pas une poignée d'épée?!"
+      "Hein ? Je ne vois rien ! Ce n'est pas une poignée d'épée ?!"
     ],
     "description": [
       "Bénie par la lumière, la lame courbe la lumière, devenant une épée invisible",
@@ -401,7 +480,8 @@
     ],
     "subtitle": "",
     "description": [
-      "Une épée magique fabriquée par l'homme avec une lame forgée à partir de cristaux de mana",
+      "Une épée magique fabriquée par l'homme avec une lame forgée à partir ",
+      "de cristaux de mana",
       "Chaque coup déclenche une vague d'épée tangible. Pour les épéistes expérimentés,",
       "c'est une arme qui augmente considérablement leur puissance"
     ],
@@ -414,7 +494,7 @@
       "Marteau anti-intimidation"
     ],
     "subtitle": [
-      "PAS D'INTIMIDATION!!"
+      "PAS D'INTIMIDATION !!"
     ],
     "description": [
       "Une arme née pour punir les aventuriers maléfiques.",
@@ -430,7 +510,7 @@
       "Faux à main de Den"
     ],
     "subtitle": [
-      "Souvenez-vous de ceci, Whirlwind Slash s'utilise comme ça!"
+      "Souvenez-vous de ceci, Whirlwind Slash s'utilise comme ça !"
     ],
     "description": [
       "Une faux à manche court portée par un étranger avec une arme redoutable",
@@ -444,7 +524,7 @@
   },
   "51": {
     "name": [
-      "Mixed Flavor Popsicle"
+      "Glace aromatisée mélangée"
     ],
     "subtitle": "",
     "description": [
@@ -454,7 +534,7 @@
     ],
     "ability": [
       "Risque d'être mangé lors d'une attaque...",
-      "Fond et disparaît avec le temps lorsqu'elle est équipé..."
+      "Fond et disparaît avec le temps lorsqu'elle est équipée..."
     ]
   },
   "52": {
@@ -464,12 +544,12 @@
     "subtitle": "",
     "description": [
       "Un appareil de communication acheté dans un magasin suspect",
-      "Criez simplement \" Feu! \" et vous recevrez le soutien d'un tireur d'élite.",
+      "Criez simplement « Feu ! » et vous recevrez le soutien d'un tireur d'élite.",
       "quelque part. Mais tu dois payer la facture de téléphone toi-même."
     ],
     "ability": [
       "Un clic droit coûte 400 yens et invoque un sniper de soutien.",
-      "Right-click to call a long-range snipe, 500 yen per use"
+      "Clic droit pour appeler un tir de sniper à longue distance, 500 yens par utilisation"
     ]
   },
   "53": {
@@ -479,11 +559,11 @@
     "subtitle": "",
     "description": [
       "Une arme comestible fabriquée avec soin par Kanban Musume du NLCH",
-      "Tout en conservant ses performances d'arme, il est également délicieux!"
+      "Tout en conservant ses performances d'arme, il est également délicieux !"
     ],
     "ability": [
       "Il y a un risque qu'il soit mangé lors d'une attaque…",
-      "Melts and disappears over time when equipped..."
+      "Fond et disparaît avec le temps lorsqu'il est équipé..."
     ]
   },
   "54": {
@@ -561,16 +641,16 @@
   },
   "60": {
     "name": [
-      "Banane?"
+      "Banane ?"
     ],
     "subtitle": [
-      "Est-ce vraiment une banane...?"
+      "Est-ce vraiment une banane... ?"
     ],
     "description": [
       "Une banane pelée qui doit être tenue avec précaution"
     ],
     "ability": [
-      "À grande vitesse, il est facile de jeter la banane au loin... Aïe!?"
+      "À grande vitesse, il est facile de jeter la banane au loin... Aïe !?"
     ]
   },
   "61": {
@@ -597,7 +677,7 @@
     ],
     "ability": [
       "Vaincre les ennemis répare automatiquement la durabilité des armes",
-      "L'excès de durabilité confère +1 ATK par 1 % au-dessus du maximum"
+      "L'excès de durabilité confère +1 ATK par 1 % au-dessus du maximum"
     ]
   },
   "63": {
@@ -612,6 +692,22 @@
     ],
     "ability": [
       "Restaure \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] PV au porteur après avoir vaincu un ennemi"
+    ]
+  },
+  "66": {
+    "name": [
+      "Pilier du Rituel"
+    ],
+    "subtitle": [
+      "\"—la plupart des aventuriers appellent simplement ce truc le Tuyau de Cerf.\""
+    ],
+    "description": [
+      "Une arme de Démon de la Luxure, à l'origine une sorte d'instrument rituel",
+      "Son matériau et sa magie intérieure ne peuvent pas être analysés",
+      "Il fonctionne aussi étonnamment bien comme réveil… !"
+    ],
+    "ability": [
+      "Au sommet de chaque heure, gagnez une bénédiction qui booste toutes les stats"
     ]
   },
   "70": {
@@ -648,7 +744,7 @@
       "Lame infestée"
     ],
     "subtitle": [
-      "Ugh, le slime se tortille toujours... C'est dégoûtant!!"
+      "Ugh, le slime se tortille toujours... C'est dégoûtant !!"
     ],
     "description": [
       "Une épée à deux mains infestée de boue résiliente et avide de vie",
@@ -657,6 +753,23 @@
     "ability": [
       "Inflige des dégâts supplémentaires aux ennemis qui saignent",
       "Draine le sang si la cible meurt pendant le saignement"
+    ]
+  },
+  "82": {
+    "name": [
+      "Corne Brisée d'Hercules"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "Une épée forgée à partir de la corne solide d'un scarabée rhinocéros",
+      "Bien qu'autrefois brisée dans une bataille féroce, sa dureté reste authentique",
+      "À cause de cela, elle est devenue extrêmement durable lorsqu'elle a été reforgée"
+    ],
+    "ability": [
+      "Plus les dégâts sont faibles, moins la durabilité est consommée",
+      "Aucune durabilité n'est consommée si les dégâts sont de ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} ou moins"
     ]
   },
   "101": {
@@ -711,7 +824,7 @@
       "et peut geler une large zone avec un tir chargé"
     ],
     "ability": [
-      "Maintenez le clic droit pour charger et relâchez une \\c[27]Icebound Arrow\\c[0]",
+      "Maintenez le clic droit pour charger et relâchez une \\c[27]Flèche Liée par la Glace\\c[0]",
       "La flèche glacée gèle les cibles lorsqu'elle est touchée"
     ]
   },
@@ -726,7 +839,7 @@
       "Attention cependant, il est très conducteur."
     ],
     "ability": [
-      "Maintenez le clic droit pour charger et relâchez un \\c[27]Thunder Arrow\\c[0]"
+      "Maintenez le clic droit pour charger et relâchez une \\c[27]Flèche de Foudre\\c[0]"
     ]
   },
   "106": {
@@ -756,6 +869,34 @@
     "ability": [
       "Maintenez le clic droit pour charger et relâchez une \\c[27]Flèche perçant le sang\\c[0]",
       "Consomme des PV pour renforcer les tirs. Les flèches mortelles drainent le sang."
+    ]
+  },
+  "250": {
+    "name": [
+      "Pioche en Pierre de l'Enfer"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une pioche exotique traitée et forgée à partir de lingots de Pierre de l'Enfer",
+      "Avec sa dureté étonnante et le mana enlacé autour d'elle,",
+      "elle peut briser la plupart des objets du monde d'un seul coup"
+    ],
+    "ability": [
+      "Augmente considérablement les dégâts infligés aux entités destructibles"
+    ]
+  },
+  "251": {
+    "name": [
+      "Pelle en Pierre de l'Enfer"
+    ],
+    "subtitle": "",
+    "description": [
+      "Une pelle exotique traitée et forgée à partir de lingots de Pierre de l'Enfer",
+      "Avec sa dureté étonnante et le mana enlacé autour d'elle,",
+      "même le sol solide sera déchiré de force sous elle"
+    ],
+    "ability": [
+      "Peut traverser le terrain, créant un passage vers les couches inférieures"
     ]
   }
 }
