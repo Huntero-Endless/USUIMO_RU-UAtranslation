@@ -23,8 +23,7 @@
         "Hentai": {
             "Category Name": "Ký ức biến thái",
             "New Scene Name": "",
-            "Trophy Description": 
-                "Ngọt ngào và cay đắng~Và mọi thứ đều tuyệt vời~"
+            "Trophy Description": "Ngọt ngào và cay đắng~Và mọi thứ đều tuyệt vời~"
         }
     },
     "achievements": {
@@ -53,9 +52,7 @@
             "Name": "Em gái tôi đáng yêu đến thế đấy!",
             "Description": "Tình cảm của em gái đã đạt đến đỉnh điểm!",
             "Pop Up Desc": "\\fs[21]Em gái mình dễ thương quá!"
-                
-            
-        },        
+        },
         "ImoutoBodyPillow": {
             "Name": "Gối ôm em gái",
             "Description": "Giờ có thể để em gái ngồi lên đùi khi chơi game!",
@@ -78,12 +75,16 @@
             "Name": "Ba câu hỏi tân hôn!",
             "Description": "Để em gái diễn lại một lần 'ba câu hỏi tân hôn'!",
             "Pop Up Desc": "Ba câu hỏi tân hôn!"
-    },
+        },
+        "ToBeContinued": {
+            "Name": "To Be Continued",
+            "Description": "Đã ghi lại một khoảnh khắc kỳ diệu!",
+            "Pop Up Desc": "To Be Continued"
+        },
         "PeopleDieIfTheyAreKilled": {
             "Name": "Con người sẽ chết khi bị giết?",
             "Description": "HP của bạn giảm về 0 trong Vực Sâu...",
-            "Pop Up Desc": 
-                "\\fs[19]Con người sẽ chết khi bị giết?"
+            "Pop Up Desc": "\\fs[19]Con người sẽ chết khi bị giết?"
         },
         "HoardingHabit": {
             "Name": "Thói Quen Tích Trữ",
@@ -187,9 +188,9 @@
         "ObtainWornPanties": {
             "Name": "Quần lót chưa mặc thì vô giá trị!",
             "Description": "Nhận được quần lót từ em gái~!",
-            "Pop Up Desc":  [
-                 "\\fs[24]Quần lót chưa mặc ",
-                 "thì vô giá trị!"
+            "Pop Up Desc": [
+                "\\fs[24]Quần lót chưa mặc ",
+                "thì vô giá trị!"
             ]
         },
         "ErogameWithImouto": {
