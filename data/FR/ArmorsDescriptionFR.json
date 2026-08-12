@@ -25,7 +25,7 @@
       "mais son utilisation coûteuse a conduit la plupart des alchimistes à l'abandonner..."
     ],
     "ability": [
-      "Consomme aléatoirement une gemme lors d'une attaque pour se charger et \naugmenter les dégâts infligés.",
+      "Consomme aléatoirement une gemme lors d'une attaque pour se charger et augmenter les dégâts infligés.",
       "Plus la gemme est précieuse, plus les dégâts magiques infligés sont importants."
     ]
   },
@@ -40,21 +40,6 @@
     ],
     "ability": [
       ""
-    ]
-  },
-  "4": {
-    "name": [
-      "Chaussures de chasseur"
-    ],
-    "subtitle": "",
-    "description": [
-      "Des bottes fabriquées en cuir épais avec des semelles en bois, ",
-      "doublées d'une couche de fourrure douce pour étouffer chaque pas.",
-      "Un déplacement silencieux est la première étape du chasseur."
-    ],
-    "ability": [
-      "Augmente la vitesse de déplacement lors de la visée à l'arc.",
-      "Accorde l'effet de compétence \\ss[10] lorsqu'elles sont équipées."
     ]
   },
   "5": {
@@ -110,8 +95,8 @@
       "Le porter améliore la compréhension magique"
     ],
     "ability": [
-      "L'équiper augmente la vitesse d'incantation et la puissance magique.",
-      "Les attaques des armes magiques infligent 5 % de dégâts magiques supplémentaires."
+      "L'équiper augmente la vitesse d'incantation et la puissance magique",
+      "Magical weapons’ attacks deal an extra 5% magic damage"
     ]
   },
   "9": {
@@ -120,12 +105,12 @@
     ],
     "subtitle": "",
     "description": [
-      "Un groupe rare imprégné de mana dense, Émettant des ondes magiques palpables. ",
-      "Très recherché par les alchimistes."
+      "Un groupe rare imprégné de mana dense,",
+      "Émettant des ondes magiques palpables. Très recherché par les alchimistes."
     ],
     "ability": [
-      "L'équiper augmente la vitesse d'incantation et la puissance magique.",
-      "Les attaques des armes magiques infligent 10% de dégâts magiques supplémentaires."
+      "L'équiper augmente la vitesse d'incantation et la puissance magique",
+      "Magical weapons’ attacks deal an extra 10% magic damage"
     ]
   },
   "10": {
@@ -153,8 +138,8 @@
       "imprégner les armes de propriétés magiques"
     ],
     "ability": [
-      "Les armes infligent des dégâts magiques supplémentaires.",
-      "Les attaques des armes magiques infligent 30 % de dégâts magiques supplémentaires."
+      "Les armes infligeront des dégâts magiques supplémentaires",
+      "Magical weapons’ attacks deal an extra 30% magic damage"
     ]
   },
   "12": {
@@ -169,8 +154,7 @@
       "avec l'esprit d'un chat. Les équiper augmente votre agilité!"
     ],
     "ability": [
-      "Augmente la puissance d'attaque et la vitesse d'attaque.",
-      "Réduit les dégâts de chute de 30 %."
+      "Augmente la puissance d'attaque et la vitesse d'attaque"
     ]
   },
   "13": {
@@ -185,8 +169,7 @@
       "avec l'esprit d'un chat. Les équiper augmente votre agilité!"
     ],
     "ability": [
-      "Augmente la vitesse d'attaque et de déplacement, réduit le temps de recharge de Senpo.",
-      "Réduit les dégâts de chute de 30 %."
+      "Augmente la vitesse d'attaque et de déplacement, réduit le temps de recharge de Senpo"
     ]
   },
   "14": {
@@ -352,7 +335,7 @@
   },
   "26": {
     "name": [
-      "Plume de phénix"
+      "Plume de Phoenix"
     ],
     "subtitle": [
       ""
@@ -379,23 +362,6 @@
     ],
     "ability": [
       "Réduit les dégâts de saignement subis de \\c[10]30%\\c[0]"
-    ]
-  },
-  "28": {
-    "name": [
-      "Main d'oni"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      "Un bras massif débordant de la force brute du clan des oni.",
-      "Il symbolise un pouvoir si féroce qu'il peut facilement écraser la roche solide.",
-      "Pour les humains, c'est une force bien trop difficile à contrôler."
-    ],
-    "ability": [
-      "Puissance d'attaque physique +100 %. La vitesse d'attaque diminue.",
-      "Les armes ont plus de chances de se briser pendant les attaques."
     ]
   },
   "29": {
@@ -456,7 +422,7 @@
     ],
     "ability": [
       "Vitesse d'attaque augmentée. Coups d'attaque supplémentaires +1.",
-      "Les chances que des attaques supplémentaires déclenchent des effets \nspéciaux sont réduites de moitié"
+      "Les chances que des attaques supplémentaires déclenchent des effets spéciaux sont réduites de moitié"
     ]
   },
   "33": {
@@ -592,8 +558,7 @@
     ],
     "description": [
       "Une volonté qui a tout sacrifié pour les explosions",
-      "Maintenant que tu le supportes, ne vas-tu pas t'efforcer d'obtenir des explosions ",
-      "encore plus grandes?"
+      "Maintenant que tu le supportes, ne vas-tu pas t'efforcer d'obtenir des explosions encore plus grandes?"
     ],
     "ability": [
       "Faible chance de déclencher une explosion lors d'une attaque ou d'un coup",
@@ -651,9 +616,7 @@
     "name": [
       "Poing de fureur"
     ],
-    "subtitle": [
-      "\"Left hand hits hard, right hand hits harder.\""
-    ],
+    "subtitle": "",
     "description": [
       "Un poing magique puissant",
       "Bouillonnant d'une rage inconnue, il reste fermement serré…"
@@ -693,23 +656,6 @@
       "Chaque serviteur lié vous confère un effet de guérison."
     ]
   },
-  "49": {
-    "name": [
-      "Corne rouge"
-    ],
-    "subtitle": [
-      "« Ne t'arrête jamais ! »"
-    ],
-    "description": [
-      "Une corne cramoisie remplie de la magie du jackalope.",
-      "Si la magie pouvait être fournie sans fin, elle pourrait continuer à accélérer ",
-      "jusqu'à devenir une comète traversant le ciel !"
-    ],
-    "ability": [
-      "Lorsqu'elle est complètement chargée, Senpo n'a plus de temps de recharge \net se déplace plus rapidement.",
-      "Une fois la charge épuisée, elle se recharge automatiquement."
-    ]
-  },
   "50": {
     "name": [
       "Frites"
@@ -723,49 +669,18 @@
       "Attire les mouettes qui volent tes frites"
     ]
   },
-  "51": {
-    "name": [
-      "Gants de chasseur"
-    ],
-    "subtitle": "",
-    "description": [
-      "Des gants fabriqués en cuir tanné, ",
-      "avec des extrémités renforcées conçues pour une utilisation prolongée de l'arc.",
-      "Les anciens chasseurs pensent qu'une bonne paire de gants donne ses propres yeux aux flèches."
-    ],
-    "ability": [
-      "Les flèches tirées gagnent 2 pénétrations supplémentaires.",
-      "Les tirs ont une faible chance de lancer plusieurs flèches simultanément."
-    ]
-  },
-  "52": {
-    "name": [
-      "Cadeau du rôdeur des ombres"
-    ],
-    "subtitle": "",
-    "description": [
-      "On dit qu'il s'agit d'un symbole venu des profondeurs où rampent les ombres.",
-      "Le tenir donne l'impression que quelque chose ",
-      "se tortille doucement derrière vous—"
-    ],
-    "ability": [
-      "La vitesse de déplacement augmente.",
-      "Attire l'attention de ▓▓▓▓▓▓▓."
-    ]
-  },
   "53": {
     "name": [
       "Bague en os du pendu"
     ],
     "subtitle": "",
     "description": [
-      "Une bague fabriquée à partir des os du Pendu décédé.",
+      "Une bague fabriquée à partir des os du Pendu décédé",
       "Bien que la majeure partie de sa puissance soit perdue,",
-      "elle donne toujours au porteur une certaine liberté vis-à-vis de la gravité."
+      "cela donne toujours au porteur un peu de liberté par rapport à la gravité"
     ],
     "ability": [
-      "Réduit les dégâts de chute de 50 %",
-      "Augmente de 100 % les dégâts de zone infligés par les chutes."
+      "Réduit les dégâts de chute de 50 %"
     ]
   },
   "54": {
@@ -774,9 +689,9 @@
     ],
     "subtitle": "",
     "description": [
-      "Relique d'un saint qui n'a pas encore été remplie, elle bénit son détenteur d'une",
-      "chance immense. La source de cette bénédiction demeure inconnue,",
-      "tandis qu'elle attend tranquillement le jour où elle sera achevée."
+      "Relique d'un saint qui n'a pas encore été remplie, elle bénit le détenteur avec",
+      "une chance immense. La source de cette bénédiction demeure inconnue,",
+      "alors qu'il attend tranquillement le jour où il sera achevé"
     ],
     "ability": [
       "Augmente considérablement la chance. Double les gains."
@@ -787,14 +702,14 @@
       "Gants d'incendiaire"
     ],
     "subtitle": [
-      "Ha, quel feu d'artifice immonde."
+      "Hah, quel feu d'artifice immonde."
     ],
     "description": [
-      "Des gants épais et résistants à la chaleur qui sentent la poudre à canon."
+      "Des gants épais et résistants à la chaleur qui sentent la poudre à canon"
     ],
     "ability": [
-      "Augmente de 30 % le rayon d'explosion des bombes déclenchées automatiquement.",
-      "Les bombes ont une chance de déclencher des explosions en chaîne."
+      "+30 % de rayon d'explosion pour les bombes auto-déclenchées",
+      "Les bombes ont une chance de déclencher des explosions en chaîne"
     ]
   },
   "56": {
@@ -805,12 +720,12 @@
       "Bon enfant, bon enfant..."
     ],
     "description": [
-      "L'une des tenues de la religieuse, soyeuse au toucher et inoubliable.",
-      "Un rayonnement sacré circule à travers ses fibres, offrant du réconfort."
+      "L'une des tenues de la religieuse, soyeuse au toucher, inoubliable",
+      "Un rayonnement sacré circule à travers ses fibres, offrant du réconfort"
     ],
     "ability": [
-      "Entre de force en mode Sage.",
-      "Gagne de l'affinité supplémentaire en tapotant la tête de \\str[120]."
+      "Entre de force en mode Sage",
+      "Gagnez plus d'affinité en tapotant la tête de \\str[120]"
     ]
   },
   "57": {
@@ -821,14 +736,14 @@
       ""
     ],
     "description": [
-      "ASABA, rongé par le chagrin d'avoir perdu la fraise,",
-      "libère son art ultime. Une fois pris pour cible,",
-      "vous êtes englouti par une tempête inévitable de combos... Mais la tristesse persiste :",
-      "brûlé par les émotions du destin, vous héritez vous aussi de cette technique interdite !"
+      "ASABA, rongé par le chagrin d'avoir perdu la fraise, ",
+      "libère son art ultime. Une fois pris pour cible, ",
+      " vous êtes englouti par une tempête inévitable de combos... Mais la tristesse persiste :",
+      " brûlé par les émotions du destin, vous héritez vous aussi de cette technique interdite ! "
     ],
     "ability": [
-      "Déclenchez un coup spécial avec la commande appropriée.",
-      "Moins vos PV sont élevés, plus le coup spécial est puissant."
+      "Déclenchez un coup spécial avec la bonne commande ",
+      "Plus vos HP sont faible, plus le coup spécial est puissant."
     ]
   },
   "59": {
@@ -840,12 +755,12 @@
     ],
     "description": [
       "La précieuse relique du magicien déchu.",
-      "Un pendentif fabriqué à partir d'une petite quantité de fragments de pierre philosophale,",
-      "imprégné d'un pouvoir alchimique faible mais éternel."
+      "Un pendentif fabriqué à partir d'une petite quantité de fragments de philosophe",
+      "imprégné d'un pouvoir alchimique faible mais éternel"
     ],
     "ability": [
-      "Augmente l'attaque magique en fonction du nombre de fragments \nde pierre philosophale détenus.",
-      "Réduit de \\c[6]24 %\\c[0] la durabilité de l'arme utilisée lors du lancement de sorts."
+      "Augmente l'attaque magique en fonction du nombre de fragments du philosophe tenus",
+      "Réduit la durabilité de l'arme utilisée lors du lancement de magie de \\c[6]24%\\c[0]"
     ]
   },
   "60": {
@@ -855,11 +770,11 @@
     "subtitle": "",
     "description": [
       "Un diadème maudit, corrompu par la magie noire,",
-      "hanté par une rancune tenace qui ronge la chair."
+      "hanté par une rancune tenace qui ronge la chair"
     ],
     "ability": [
       "Puissance d'attaque magique +100 %",
-      "PV max -50 %"
+      "Max HP -50%"
     ]
   },
   "61": {
@@ -869,11 +784,11 @@
     "subtitle": "",
     "description": [
       "Une cape maudite souillée par la magie noire,",
-      "hantée par un esprit vengeur assoiffé de représailles."
+      "hanté par un esprit vengeur assoiffé de représailles"
     ],
     "ability": [
       "Les images rémanentes créées par Senpo persistent plus longtemps.",
-      "Les objets touchés sont figés sur place."
+      "Les objets touchent sont figés sur place."
     ]
   },
   "62": {
@@ -882,11 +797,11 @@
     ],
     "subtitle": "",
     "description": [
-      "Des gants maudits souillés par la magie noire,",
-      "imprégnés d'un esprit vengeur désireux d'attaquer."
+      "Gants maudits souillés par la magie noire,",
+      "imprégné d'un esprit vengeur désireux d'attaquer"
     ],
     "ability": [
-      "Les projectiles poursuivent les ennemis proches."
+      "Les projectiles suivent les ennemis proches"
     ]
   },
   "63": {
@@ -895,27 +810,27 @@
     ],
     "subtitle": "",
     "description": [
-      "Des chaussures maudites souillées par la magie noire,",
-      "imprégnées d'un esprit vengeur qui confère une agilité fantomatique."
+      "Chaussures maudites souillées par la magie noire,",
+      "imprégné d'un esprit vengeur qui confère une agilité fantomatique"
     ],
     "ability": [
-      "Augmente la vitesse de déplacement et confère l'état de vide lors de l'utilisation de Senpo."
+      "Augmente la vitesse de déplacement, confère l'état de vide lors de l'utilisation de Senpo"
     ]
   },
   "65": {
     "name": [
-      "Bandeau de la détermination"
+      "Bandeau Détermination"
     ],
     "subtitle": [
-      "Mais pour qui je me prends ?!"
+      "Mais pour qui je suis?!"
     ],
     "description": [
-      "Un bandeau qui suscite la passion lorsqu'il est porté.",
-      "Aucun effet réel, mais son esprit inflexible est inégalé."
+      "Un bandeau qui suscite la passion lorsqu'il est porté",
+      "Aucun effet réel, mais son esprit inflexible est inégalé"
     ],
     "ability": [
-      "Réduit les risques d'état anormal.",
-      "Possède une faible chance de résister aux dégâts mortels."
+      "réduit les risques d'état anormal",
+      "A une petite chance de résister aux dégâts mortels"
     ]
   },
   "67": {
@@ -924,12 +839,12 @@
     ],
     "subtitle": "",
     "description": [
-      "Des brassards bandés portés par les artistes martiaux pendant les combats.",
-      "Ils protègent les articulations tout en améliorant la précision des mouvements."
+      "Brassards bandés portés par les artistes martiaux pendant les combats",
+      "Ils protègent les articulations tout en améliorant la précision des mouvements"
     ],
     "ability": [
-      "Réduit de 12 % la consommation de durabilité de l'arme.",
-      "Augmente la vitesse d'attaque et les dégâts des attaques à mains nues."
+      "-12% de consommation de durabilité de l'arme",
+      "Augmentation de la vitesse d'attaque et augmentation des dégâts combinés à mains nues"
     ]
   },
   "68": {
@@ -938,27 +853,27 @@
     ],
     "subtitle": "",
     "description": [
-      "Des chaussures généralement portées par les artistes martiaux qui ont",
-      "maîtrisé leur art et rayonnent d'une aura puissante."
+      "Chaussures généralement portées par les artistes martiaux qui ont",
+      "maîtrisaient leur art, rayonnant d'une aura puissante"
     ],
     "ability": [
-      "Augmente la vitesse de déplacement. Améliore Senpo."
+      "Vitesse de déplacement augmentée. Senpo amélioré"
     ]
   },
   "69": {
     "name": [
-      "Briseur de visages"
+      "Briseur de visage"
     ],
     "subtitle": [
       "Merde... J'ai juste envie de frapper quelqu'un au visage...!"
     ],
     "description": [
-      "Des gants de boxe abandonnés par un boxeur légendaire.",
+      "Gants de boxe abandonnés par un boxeur légendaire.",
       "On peut encore sentir la force écrasante qui pèse sur eux."
     ],
     "ability": [
-      "Impossible d'utiliser des armes lorsqu'ils sont équipés.",
-      "Les attaques de poing peuvent infliger des dégâts supplémentaires en fonction des PV de la cible."
+      "Impossible d'utiliser des armes lorsqu'elles sont équipées",
+      "Les attaques de poing peuvent infliger des dégâts supplémentaires en fonction du PV de la cible."
     ]
   },
   "70": {
@@ -967,43 +882,12 @@
     ],
     "subtitle": "",
     "description": [
-      "Le corps creux d'un épouvantail.",
-      "Pas de chaleur, pas de battement de cœur, mais il peut vivre à votre place."
+      "Un corps creux d'épouvantail",
+      "Pas de chaleur, pas de battement de cœur, mais il peut vivre à votre place"
     ],
     "ability": [
-      "Empêche toute forme de récupération de PV lorsqu'il est équipé.",
-      "À 0 PV, vous restez actif un peu plus longtemps avant de tomber."
-    ]
-  },
-  "71": {
-    "name": [
-      "Cristal de permafrost"
-    ],
-    "subtitle": [
-      "« Mon cœur est devenu froid... Je suppose que je ne ressentirai plus jamais ni joie ni tristesse... »"
-    ],
-    "description": [
-      "Un cristal magique qui émet un froid glacial.",
-      "Même sous une chaleur accablante, on peut sentir son souffle gelé."
-    ],
-    "ability": [
-      "Immunise contre les états Brûlure et Coup de chaleur.",
-      "Augmente les dégâts d'éclatement infligés lors de la rupture de l'état Gel d'un ennemi."
-    ]
-  },
-  "72": {
-    "name": [
-      "Ailes de cristal fantomatiques"
-    ],
-    "subtitle": "",
-    "description": [
-      "Des ailes spirituelles condensées à partir de mana pur.",
-      "Connues pour déclencher spontanément des phénomènes physiques,",
-      "elles sont très prisées comme catalyseurs alchimiques de haut niveau."
-    ],
-    "ability": [
-      "Réduit les dégâts de chute de 40 %.",
-      "Augmente la vitesse d'incantation et la puissance magique lorsqu'elles sont équipées."
+      "Empêche toute forme de récupération PV lorsqu'il est équipé",
+      "À 0 PV, vous restez actif un peu plus longtemps avant de tomber"
     ]
   },
   "73": {
@@ -1012,12 +896,12 @@
     ],
     "subtitle": "",
     "description": [
-      "Un anneau forgé à partir de roches où coule du magma brûlant.",
-      "Le porter soulage la douleur causée par le gel et les flammes."
+      "Un anneau forgé à partir de roches où coule du magma brûlant",
+      "Le porter soulage la douleur du gel et des flammes"
     ],
     "ability": [
-      "Réduit considérablement les risques de gel.",
-      "Réduit les risques de brûlure."
+      "Réduit considérablement les risques de gel",
+      "Réduit les risques de brûlure"
     ]
   },
   "74": {
@@ -1025,92 +909,15 @@
       "Volumen Salamandrae"
     ],
     "subtitle": [
-      "« Oui, elles aiment les piments... »"
+      "\"Oui, ils aiment les piments...\""
     ],
     "description": [
       "Un grimoire relié avec des écailles de salamandre. Bien qu'il ressemble à",
-      "une encyclopédie, ses archives sur les salamandres vivant dans les volcans",
-      "permettent de mieux comprendre le feu lorsqu'il est étudié."
+      "une encyclopédie, ses archives sur les salamandres vivant dans les volcans ",
+      "permettre une meilleure compréhension du feu lorsqu'il est étudié."
     ],
     "ability": [
-      "Renforce les dégâts et la magie élémentaire de feu."
-    ]
-  },
-  "75": {
-    "name": [
-      "Globe oculaire de démon"
-    ],
-    "subtitle": "",
-    "description": [
-      "Un globe oculaire prélevé sur un démon. Il continue de vous observer.",
-      "Les démons doués pour manipuler les esprits possèdent souvent la capacité",
-      "de voir à travers les choses. Peut-être cela vous permet-il de remarquer des détails",
-      "qui seraient autrement passés inaperçus..."
-    ],
-    "ability": [
-      "Révèle les objets et les chemins cachés lorsqu'il est équipé."
-    ]
-  },
-  "76": {
-    "name": [
-      "Regard du Souverain"
-    ],
-    "subtitle": [
-      "« Il vous observe— »"
-    ],
-    "description": [
-      "Un anneau maudit incrusté du globe oculaire du Souverain.",
-      "Son pouvoir résiduel s'en échappe constamment, donnant à son porteur l'illusion permanente",
-      "d'être observé froidement par une entité inconnue."
-    ],
-    "ability": [
-      "Augmente la vitesse d'attaque et de déplacement dans les zones inondées ou aquatiques.",
-      "Augmente les chances de détecter les monstres, mais peut également les terrifier."
-    ]
-  },
-  "77": {
-    "name": [
-      "La prière d'une jeune fille"
-    ],
-    "subtitle": [
-      "« Du poisson... tant de poissons... des tas de saumons... »"
-    ],
-    "description": [
-      "Une prière offerte par une archidémone obsédée par le saumon.",
-      "Dire qu'elle peut déformer la réalité serait peut-être exagéré...",
-      "mais elle attend sincèrement et patiemment que des offrandes arrivent."
-    ],
-    "ability": [
-      "Augmente les chances d'obtenir \\ii[142] et \\ii[143]."
-    ]
-  },
-  "78": {
-    "name": [
-      "Manteau de protection bénie"
-    ],
-    "subtitle": "",
-    "description": [
-      "Un manteau que le Grand Sage aurait porté dans sa jeunesse, lorsqu'il était aventurier.",
-      "La bénédiction des esprits reçue à cette époque réside encore dans ses plis."
-    ],
-    "ability": [
-      "Attaquer ou incanter avec un bâton active la bénédiction des esprits.",
-      "Sous l'effet de la bénédiction, la vitesse d'attaque, la vitesse de déplacement et la \ndéfense magique augmentent."
-    ]
-  },
-  "79": {
-    "name": [
-      "Tablette démoniaque"
-    ],
-    "subtitle": "",
-    "description": [
-      "Un fragment provenant d'un portail démoniaque détruit.",
-      "Création d'un démon après tout, il conserve encore un pouvoir obscur malgré sa petite taille.",
-      "...Mais franchement, cette chose va-t-elle vraiment provoquer la vengeance démoniaque ?"
-    ],
-    "ability": [
-      "Libère une onde de choc pour repousser les ennemis environnants lorsque vous subissez des dégâts.",
-      "Libère une onde de soin qui soigne les ennemis environnants lorsque vous êtes soigné."
+      "Renforce les dégâts et la magie élémentaire du feu."
     ]
   },
   "80": {
@@ -1222,9 +1029,8 @@
       "Il porte encore l'odeur de \\str[120]..."
     ],
     "description": [
-      "Culotte reçue de \\str[120] à la suite d'un malentendu.",
-      "Je ne m'en suis jamais séparé, mais au fond,",
-      "un faible sentiment de joie persiste silencieusement..."
+      "Culotte reçue de \\str[120] suite à un malentendu",
+      "Je ne suis jamais revenu, mais au fond, il y a du bonheur"
     ],
     "ability": [
       "Inspiré de \\str[120]. Lorsque PV < 50 %, récupération automatique."
@@ -1341,71 +1147,6 @@
       ""
     ],
     "ability": []
-  },
-  "295": {
-    "name": [
-      "Ailes de cristal de la reine des fées"
-    ],
-    "subtitle": [
-      "« Dans les profondeurs, le fouilleur Kyurame contempla l'ascension irisée de la Reine— »"
-    ],
-    "description": [
-      "Des ailes de cristal prismatiques débordant d'un éclat irisé.",
-      "Un catalyseur rare que seule la « Reine », au sommet de la hiérarchie des esprits, \npeut posséder."
-    ],
-    "ability": [
-      "Immunise contre les dégâts de chute.",
-      "Réduit de 60 % les dégâts finaux subis."
-    ]
-  },
-  "296": {
-    "name": [
-      "Maillet porte-bonheur de Ruika"
-    ],
-    "subtitle": [
-      "« La domestique en chef Ruika l'utilise toujours pour taper sur les lapins désobéissants. »"
-    ],
-    "description": [
-      "Un trésor secret des Maid Bunnies, qui serait la raison pour laquelle elles ont conquis le",
-      "marché si rapidement. D'un simple mouvement, il exauce les souhaits de son porteur—",
-      "Les aventuriers le voient souvent réparer les machines détruites par les fauteurs de troubles."
-    ],
-    "ability": [
-      "Augmente les chances d'obtenir de l'argent et des objets."
-    ]
-  },
-  "297": {
-    "name": [
-      "Trousse de premiers soins de Mio"
-    ],
-    "subtitle": [
-      "« Oh mon Dieu ! Je suis encore tombée dans le trou !? »"
-    ],
-    "description": [
-      "À l'origine, un outil utilisé par l'administrateur pour tester le système de soins,",
-      "mais il a oublié de le supprimer par la suite. Cela reste toutefois inutile",
-      "contre les mécanismes de mort instantanée."
-    ],
-    "ability": [
-      "Restaure 100 % des PV par seconde lorsqu'elle est équipée."
-    ]
-  },
-  "298": {
-    "name": [
-      "Le doigt d'or de Shiroin"
-    ],
-    "subtitle": [
-      "« Tu sais que cette chose va ruiner le jeu, n'est-ce pas ? »",
-      "« Je sais. »",
-      "« Et tu veux quand même l'équiper ? »",
-      "« Bien sûr. »"
-    ],
-    "description": [
-      "Une relique qui transforme tout ce qu'elle touche en or — le rêve ultime des \nGardiens de lame."
-    ],
-    "ability": [
-      "Les armes ne se brisent plus à cause des attaques."
-    ]
   },
   "299": {
     "name": [

@@ -6,16 +6,28 @@
     "subtitle": "",
     "description": [
       "Voucher issued by NLCH, used to redeem delicious tea snacks",
-      "But… where’s NLCH’s shop anyway?"
+      "But… where's NLCH's shop anyway?"
     ],
     "ability": [
       "Can be fed to gacha machine without damage to trigger a pull",
       "Always gives an 11-pull with at least one gold ball"
+    ],
+    "relatedTags": {
+      "keyItem": true,
+      "nonConsumableItem": true,
+      "relatedDropPool": [189],
+      "firstAppearanceVersion": 0.77
+    },
+    "obtainSource": [
+      "When the gacha machine explodes as its durability is about to run out, ",
+      "any remaining value that has not yet been converted into capsules ",
+      "will be converted into the drop rate for this item. ",
+      "The higher the remaining value, the higher the drop rate"
     ]
   },
   "2": {
     "name": [
-      "Adventurer’s Handbook"
+      "Adventurer's Handbook"
     ],
     "beIndependent": true,
     "subtitle": [
@@ -25,7 +37,7 @@
       "It began as a casual journal by an adventurer named RORO ",
       "Over time, more people who found it fun joined and added notes",
       "and thus this curious guidebook—covering everything from",
-      "‘How to Enter the Dungeon’ to ‘What to Eat for Dinner’—was born"
+      "‘How to Enter the Dungeon' to ‘What to Eat for Dinner'—was born"
     ],
     "ability": [
       "Lets you browse the in-game guide"
@@ -50,7 +62,7 @@
     "beIndependent": true,
     "description": [
       "Just a coin worth 10 Yen",
-      "But… it can’t buy anything at all!"
+      "But… it can't buy anything at all!"
     ],
     "ability": ""
   },
@@ -75,7 +87,7 @@
     "description": [
       "Just a coin worth 100 Yen",
       "With a bit of luck, it might be enough to buy ",
-      "\\str[120]’s favorite strawberry milk"
+      "\\str[120]'s favorite strawberry milk"
     ],
     "ability": ""
   },
@@ -88,7 +100,7 @@
     "description": [
       "Just a coin worth 500 Yen",
       "If it goes into the gacha… maybe—just maybe—",
-      "it’ll hit a legendary Item pull…!"
+      "it'll hit a legendary Item pull…!"
     ],
     "ability": ""
   },
@@ -113,7 +125,7 @@
     "beIndependent": true,
     "description": [
       "Just a 5000 Yen banknote",
-      "Anyone who sees it can’t help but feel moved—",
+      "Anyone who sees it can't help but feel moved—",
       "is this the power of money…?"
     ],
     "ability": ""
@@ -139,7 +151,7 @@
     "description": [
       "A thick stack of 5000 Yen banknotes",
       "As the maid Bunnys rapidly expand trade",
-      "monsters have also begun snatching adventurers’ wallets",
+      "monsters have also begun snatching adventurers' wallets",
       "just to experience this thing called 'shopping' "
     ],
     "ability": ""
@@ -181,7 +193,7 @@
     "subtitle": "",
     "description": [
       "Said to be an Eastern artifact, exquisitely crafted yet lost in the Abyss... ",
-      "It freezes scenes into images, but it’s easily affected by magic, ",
+      "It freezes scenes into images, but it's easily affected by magic, ",
       "sometimes capturing strange things"
     ],
     "ability": [
@@ -200,7 +212,7 @@
     ],
     "description": [
       "A strange entertainment device recreated by alchemists from ",
-      "ancient text fragments. It’s well known among adventurers.",
+      "ancient text fragments. It's well known among adventurers.",
       "but its complex manufacturing process keeps it extremely rare."
     ],
     "ability": [
@@ -226,11 +238,11 @@
   },
   "17": {
     "name": [
-      "\\str[120]’s Ahoge"
+      "\\str[120]'s Ahoge"
     ],
     "subtitle": "",
     "description": [
-      "An ahoge quietly plucked from \\str[120]’s head,",
+      "An ahoge quietly plucked from \\str[120]'s head,",
       "seemingly without her noticing… Even separated from its owner,",
       "it stubbornly stands upright thanks to its inexplicable elasticity."
     ],
@@ -652,7 +664,7 @@
       "The Lovers"
     ],
     "subtitle": [
-      "\"The Witch’s Lingering Scent\""
+      "\"The Witch's Lingering Scent\""
     ],
     "description": [
       "A magic card imbued with spells",
@@ -734,7 +746,7 @@
       "Designed so even novices can easily activate its effects"
     ],
     "ability": [
-      "When used, the Death Devil’s power manifests here"
+      "When used, the Death Devil's power manifests here"
     ]
   },
   "60": {
@@ -823,7 +835,7 @@
       "An alchemical bomb infused with frenzied fire elements",
       "Due to its highly unstable nature, it will detonate immediately",
       "just by holding it",
-      "It’ll explode instantly in hot environments!"
+      "It'll explode instantly in hot environments!"
     ],
     "ability": ""
   },
@@ -1237,7 +1249,7 @@
       "\"Mmm… strawberries… my strawberries…\""
     ],
     "description": [
-      "ASABA’s most treasured, high-quality strawberry that it can’t bear",
+      "ASABA's most treasured, high-quality strawberry that it can't bear",
       "to eat. But even after desperately guarding it until the very end",
       "it still ends up as nothing more than a trophy—"
     ],
@@ -1573,12 +1585,12 @@
     ],
     "beIndependent": true,
     "subtitle": [
-      "\"Onee-chan... I feel like... I can’t live without you anymore...\""
+      "\"Onee-chan... I feel like... I can't live without you anymore...\""
     ],
     "description": [
       "A doujinshi with beautiful art.",
       "But it depicts a forbidden love between two beautiful girls...",
-      "Story’s so steamy, even the pages give off a faint pink scent."
+      "Story's so steamy, even the pages give off a faint pink scent."
     ],
     "ability": [
       "Increases desire after reading!"
@@ -1698,7 +1710,7 @@
     ],
     "description": [
       "A handmade Free Pass drawn by \\str[120]. \\str[121] may seek ",
-      "\\str[120]'s affection — no matter how selfish the request, it’s granted",
+      "\\str[120]'s affection — no matter how selfish the request, it's granted",
       "Even so, \\str[120] has always wanted to do something nice for ",
       "\\str[121], with or without the pass—"
     ],
@@ -1813,7 +1825,7 @@
       "NLCH Polaroid#9"
     ],
     "subtitle": [
-      "\"What’s with that amused look on your face...?\""
+      "\"What's with that amused look on your face...?\""
     ],
     "description": [
       "Photos capturing the daily lives of the Tea Party girls…",
@@ -1865,7 +1877,7 @@
       "NLCH Polaroid#13"
     ],
     "subtitle": [
-      "\"Well, it’s a part-time job, so I can't help it...\""
+      "\"Well, it's a part-time job, so I can't help it...\""
     ],
     "description": [
       "Photos capturing the daily lives of the Tea Party girls…",
@@ -3036,7 +3048,7 @@
     "subtitle": "",
     "description": [
       "A jelly-like substance formed purely from condensed mana",
-      "It’s edible, but its taste varies greatly with one’s magical aptitude",
+      "It's edible, but its taste varies greatly with one's magical aptitude",
       "Its main use is as a consumable material for magic"
     ],
     "ability": ""

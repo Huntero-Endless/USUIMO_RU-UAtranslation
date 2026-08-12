@@ -45,8 +45,8 @@
       "frappe — suffisante pour repousser les ennemis si le timing est bon."
     ],
     "ability": [
-      "Clic gauche pendant Senpo : Slash, les dégâts augmentent avec la vitesse",
-      "Maintenez le clic droit pendant Senpo : Charge, les effets évoluent avec l'élan"
+      "Clic gauche pendant Senpo : Slash, les dégâts augmentent avec la vitesse",
+      "Maintenez le clic droit pendant Senpo : Charge, les effets évoluent avec l'élan"
     ],
     "mobileAbility": [
       "Appuyez sur le bouton de compétence pour trancher, les dégâts augmentent avec la vitesse de déplacement",
@@ -74,23 +74,6 @@
       "Annulez en tournant pour lancer votre arme"
     ]
   },
-  "6": {
-    "name": [
-      "Pervers Chanceux"
-    ],
-    "subtitle": [
-      "true"
-    ],
-    "description": [
-      "Une constitution perverse légendaire qui s'active d'elle-même, ",
-      "même sans que l'utilisateur s'en rende compte.",
-      "Comme béni et guidé par une déesse invisible, des forces irrésistibles ",
-      "te poussent dans des scénarios de fanservice à faire rougir et à faire battre le cœur…!"
-    ],
-    "ability": [
-      "Crée toujours les opportunités parfaites pour déclencher des événements osés !"
-    ]
-  },
   "7": {
     "name": [
       "Sens du danger"
@@ -99,7 +82,7 @@
       ""
     ],
     "description": [
-      "Souvent appelé \"l'œil de l'esprit\", mais c'est en fait un sens",
+      "Souvent appelé \" l'œil de l'esprit \", mais c'est en fait un sens",
       "aiguisé par d'innombrables frôlements avec la mort.",
       "En d'autres termes, cela ressemble plus à un réflexe traumatique qu'à une véritable compétence…"
     ],
@@ -108,21 +91,6 @@
     ],
     "mobileAbility": [
       "Appuyez sur la cible pour afficher des informations détaillées"
-    ]
-  },
-  "9": {
-    "name": [
-      "Roi des airs"
-    ],
-    "description": [
-      "Grottes, falaises, ciel ouvert... il est tombé de partout.",
-      "Même après avoir été malmené jusqu'au bord de la mort encore et encore, ",
-      "il parvient toujours d'une manière ou d'une autre à s'accrocher à son dernier souffle.",
-      "Un jour, cet homme se débarrassera de la gravité elle-même et conquerra vraiment le ciel...!"
-    ],
-    "ability": [
-      "Lorsque des dégâts de chute mortels sont subis, survit de force avec 1 PV",
-      "Peut se déclencher au plus une fois par jour"
     ]
   },
   "10": {
@@ -138,8 +106,8 @@
     ],
     "ability": [
       "Appuyez sur Maj pendant que vous êtes actif pour entrer en mode furtif",
-      "Réduit la portée de détection du monstre de \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] case",
-      "Réduit le taux d'augmentation des alertes de \\str[120] pendant l'espionnage \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
+      "Réduit la portée de détection du monstre de \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] tile",
+      "Réduit le taux d'augmentation des alertes de \\str[120] pendant l'espionage \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
     ]
   },
   "11": {
@@ -151,16 +119,16 @@
     ],
     "description": [
       "Une technique ninja. Activable en mode furtif.",
-      "Frappez un ennemi sans défense par derrière pour lui infliger des dégâts massifs !"
+      "Frappez un ennemi sans défense par derrière pour lui infliger des dégâts massifs!"
     ],
     "ability": [
-      "Maîtrise de la compétence : \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
-      "Bonus de dégâts d'assassinat : \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
+      "Compétence Proficiency: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+      "Assassination Damage Bonus: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
     ]
   },
   "12": {
     "name": [
-      "Flux d'explosion Musou"
+      "Musou Burst Stream"
     ],
     "subtitle": [
       ""
@@ -186,15 +154,15 @@
       "Tu mettez des vêtements qui ne te sont pas destinés… et quelque chose à l'intérieur vous",
       "Agité. Aucun bonus de combat — cela pourrait même vous perturber un peu.",
       "Vos compagnons vous regardent bizarrement et les ennemis pourraient s'arrêter... peut-être.",
-      "Après tout, dans ce monde, la gentillesse est synonyme de justice !"
+      "Après tout, dans ce monde, la gentillesse est synonyme de justice!"
     ],
     "ability": [
-      "Augmente le péché en fonction du nombre d'objets de travestissement équipés !"
+      "Augmente le péché en fonction du nombre d'objets de travestissement équipés!"
     ]
   },
   "16": {
     "name": [
-      "Gardiens des Lames"
+      "Bladekeepers"
     ],
     "subtitle": [
       ""
@@ -221,7 +189,7 @@
       "Toutes les armes ont des limites de durabilité,",
       "et comme l'utilisateur n'est pas doué pour les attaques précises.",
       "Il y a un risque de les casser. Mais quand l'arme se casse…",
-      "cela infligera un coup critique puissant !"
+      "cela infligera un coup critique puissant!"
     ],
     "ability": [
       "Augmentation des dégâts infligés par le coup final : \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
@@ -236,11 +204,11 @@
     ],
     "description": [
       "J'ai demandé conseil à une fille maître d'épée sur la façon de devenir plus forte",
-      "Tout ce qu'elle a dit, c'est : \"Balance ton épée 1 000 fois par jour !",
+      "Tout ce qu'elle a dit, c'est : \" Balance ton épée 1 000 fois par jour!",
       "—Est-ce que ça va vraiment marcher ?! Bon, essayons quand même..."
     ],
     "ability": [
-      "Swing d'entraînement terminé : \\{\\c[6]${$gameActors.actor(1).skillMasteryUses(26)}\\c[0}",
+      "Swing d'entraînement terminé : \\{\\c[6]${$gameActors.actor(1).skillMasteryUses(26)}\\c[0]",
       "Dégâts de base des armes de mêlée augmentés de \\c[6]${Math.ceil(1.8**$gameActors.actor(1).skillMasteryLevel(26))}%"
     ]
   },
