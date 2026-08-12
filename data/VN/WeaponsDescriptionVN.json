@@ -5,7 +5,7 @@
         ],
         "Alias": [
             "Thanh Kiếm Gỗ Tuyệt Nhất Của Làng"
-        ], 
+        ],
         "AliasSubtitle": [
             "\"Đây là thanh kiếm gỗ tốt nhất trong làng. Nó thuộc về bạn.\""
         ],
@@ -170,7 +170,7 @@
         ],
         "ability": [
             "Tăng độ bền!",
-			"Sát thương nhân lên khi đánh bật vật thể bay"
+            "Sát thương nhân lên khi đánh bật vật thể bay"
         ]
     },
     "13": {
@@ -179,7 +179,7 @@
         ],
         "subtitle": [
             "\"Hôi quá, vứt đi thôi!\""
-		],
+        ],
         "description": [
             "Xương còn sót lại của một con cá lớn, thịt thối rữa",
             "vẫn bám trên đó, bốc mùi không chịu nổi"
@@ -208,9 +208,9 @@
             "Hàn Nguyệt"
         ],
         "subtitle": [
-		    "\"Liếm lưỡi kiếm rồi bị dính lưỡi... Lạnh quá, đau quá!\"",
-		    "\"\\str[121], đừng liếm linh tinh nữa!\""
-		],
+            "\"Liếm lưỡi kiếm rồi bị dính lưỡi... Lạnh quá, đau quá!\"",
+            "\"\\str[121], đừng liếm linh tinh nữa!\""
+        ],
         "description": [
             "Một thanh kiếm ma thuật làm từ băng, chỉ cần lại gần đã thấy lạnh buốt"
         ],
@@ -223,8 +223,8 @@
             "Kiếm Sét Rò Rỉ"
         ],
         "subtitle": [
-            "\"Tách... tách...!\""		
-		],
+            "\"Tách... tách...!\""
+        ],
         "description": [
             "Thanh kiếm bị nguyền rủa chứa đầy năng lượng hoang dại, nhưng vẫn bị lỗi",
             "Cẩn thận, nó có thể làm người dùng bị giật điện"
@@ -238,8 +238,8 @@
             "Hoả Ảnh Nhiệt Lưu"
         ],
         "subtitle": [
-            "\"\\str[121], nhìn đáng sợ quá, đừng cầm nó nhé.\""		
-		],
+            "\"\\str[121], nhìn đáng sợ quá, đừng cầm nó nhé.\""
+        ],
         "description": [
             "Thanh kiếm ma thuật hấp thụ năng lượng mặt trời theo thời gian",
             "Có vẻ đặc biệt hiệu quả với một số loại quái vật"
@@ -277,26 +277,26 @@
         ]
     },
     "20": {
-		"name": [
-			"Kiếm Rỉ Sét"
-	    ],
-		"subtitle": "",
-		"description": [
-			"Thanh kiếm sắt cũ, rỉ sét bám đầy, sắc bén đã phai nhạt từ lâu.",
-			"Nhìn từ góc độ khác, chính sự ăn mòn ấy lại trở nên nguy hiểm chết người…"
-		],
-		"ability": [
-			"15% khả năng gây trạng thái Độc khi tấn công",
-			"Luôn gây Độc với mục tiêu đang chảy máu."
-		]
-	},
+        "name": [
+            "Kiếm Rỉ Sét"
+        ],
+        "subtitle": "",
+        "description": [
+            "Thanh kiếm sắt cũ, rỉ sét bám đầy, sắc bén đã phai nhạt từ lâu.",
+            "Nhìn từ góc độ khác, chính sự ăn mòn ấy lại trở nên nguy hiểm chết người…"
+        ],
+        "ability": [
+            "15% khả năng gây trạng thái Độc khi tấn công",
+            "Luôn gây Độc với mục tiêu đang chảy máu."
+        ]
+    },
     "21": {
         "name": [
             "Sứ Giả Địa Ngục"
         ],
         "subtitle": [
-            "\"Thứ này đang khát máu...\""		
-		],
+            "\"Thứ này đang khát máu...\""
+        ],
         "description": [
             "Một trong những vũ khí của tên sát nhân khét tiếng,",
             "dính đầy máu"
@@ -306,19 +306,19 @@
         ]
     },
     "22": {
-		"name": [
-			"Búa Rèn"
-		],
-		"subtitle": [],
-		"description": [
-			"Một chiếc búa nặng từng được thợ rèn dùng để rèn kim loại.",
-			"Giờ đây, nó được ai đó dùng cho những mục đích quái dị và bất thường."
-		],
-		"ability": [
-			"Đập vào vũ khí đặt trên đe sẽ sửa chữa nó",
-			"Khi rút búa khỏi tay, đe triệu hồi cũng tan biến."
-		]
-	},
+        "name": [
+            "Búa Rèn"
+        ],
+        "subtitle": [],
+        "description": [
+            "Một chiếc búa nặng từng được thợ rèn dùng để rèn kim loại.",
+            "Giờ đây, nó được ai đó dùng cho những mục đích quái dị và bất thường."
+        ],
+        "ability": [
+            "Đập vào vũ khí đặt trên đe sẽ sửa chữa nó",
+            "Khi rút búa khỏi tay, đe triệu hồi cũng tan biến."
+        ]
+    },
     "24": {
         "name": [
             "Rìu Orc Bão Tố"
@@ -440,7 +440,7 @@
             "Có 50% xác suất gây trạng thái Choáng khi tấn công",
             "Khi HP giảm xuống dưới \\c[29]400\\c[0], uy lực thực sự của vũ khí sẽ bị hạn chế!"
         ]
-    },  
+    },
     "34": {
         "name": [
             "Tiếng Gầm Của Đấng Thống Trị"
@@ -462,8 +462,8 @@
             "Claíomh Solais"
         ],
         "subtitle": [
-            "\"Hả? Mình không thấy gì cả! Đây đâu phải chuôi kiếm!?\""		
-		],
+            "\"Hả? Mình không thấy gì cả! Đây đâu phải chuôi kiếm!?\""
+        ],
         "description": [
             "Được ban phước bởi ánh sáng, lưỡi kiếm uốn cong ánh sáng, trở thành",
             "thanh kiếm vô hình. Nhờ đó cực kỳ sắc bén, và khi cần, ánh sáng sẽ bùng phát"
@@ -486,20 +486,38 @@
             "Đòn đánh tạo ra sóng kiếm gây sát thương"
         ]
     },
+    "37": {
+        "name": [
+            "Ma Kiếm Mistilteinn"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một thanh kiếm ánh sáng được bao bọc bởi những làn sóng đỏ thẫm, ",
+            "dường như nó sở hữu ý chí của riêng mình, ",
+            "Sau khi bị đánh cho khuất phục, nó đã trở nên ngoan ngoãn hơn rất nhiều,",
+            "nhưng nếu không cho nó ăn, nó sẽ dỗi hờn và từ chối làm việc..."
+        ],
+        "ability": [
+            "Mỗi lần tấn công sẽ tiêu hao 1\\ii[20] để đánh thức Mistilteinn",
+            "Trạng thái thức tỉnh kéo dài 10 phút",
+            "Khi đang thức tỉnh, sát thương được tăng và đòn đánh sẽ xuyên phòng thủ",
+            "Các đòn tấn công trong trạng thái thức tỉnh có xác suất phóng ra kiếm khí"
+        ]
+    },
     "40": {
         "name": [
             "Búa Chống Bắt Nạt"
         ],
         "subtitle": [
-		    "\"KHÔNG ĐƯỢC BẮT NẠT!!\""
-		],
+            "\"KHÔNG ĐƯỢC BẮT NẠT!!\""
+        ],
         "description": [
             "Vũ khí sinh ra để trừng phạt những nhà thám mạo hiểm xấu xa. ",
             "Dù chỉ là búa đồ chơi, nhưng bị ăn đập vẫn đau thật sự."
         ],
         "ability": [
             "Gây sát thương phản lại khi dùng cho việc xấu",
-			"Giá trị Tội Lỗi càng thấp, sát thương càng cao"
+            "Giá trị Tội Lỗi càng thấp, sát thương càng cao"
         ]
     },
     "42": {
@@ -507,8 +525,8 @@
             "Đoạt Hồn Liềm Den"
         ],
         "subtitle": [
-		    "\"Nhớ nhé, Trảm Cuồng Phong dùng như thế này! \""
-		],
+            "\"Nhớ nhé, Trảm Cuồng Phong dùng như thế này! \""
+        ],
         "description": [
             "Một chiếc liềm cán ngắn được một kẻ ngoại lai mang theo, có thiết kế đáng sợ và ",
             "ẩn chứa một ý chí riêng. Nếu cầm nó quá lâu có thể khiến những giọng nói kỳ lạ",
@@ -527,11 +545,11 @@
         "description": [
             "Vũ khí ăn được do Kanban Musume của NLCH chế tạo",
             "Que Kem ba vị: sô-cô-la, kem và dâu tây",
-			"Mát lạnh và ngon tuyệt! Nhưng nhớ ăn hết trước khi nó tan chảy..."
+            "Mát lạnh và ngon tuyệt! Nhưng nhớ ăn hết trước khi nó tan chảy..."
         ],
         "ability": [
             "Có thể bị ăn mất khi tấn công…",
-			"Khi trang bị, sẽ tan chảy và biến mất theo thời gian…"
+            "Khi trang bị, sẽ tan chảy và biến mất theo thời gian…"
         ]
     },
     "52": {
@@ -620,15 +638,14 @@
         "ability": [
             "Khi ném, vật này xuyên thủng và trúng tất cả đơn vị trên đường đi."
         ]
-    
     },
     "60": {
         "name": [
             "Chuối?"
         ],
         "subtitle": [
-            "\"Đây thật sự là chuối sao...?\""		
-		],
+            "\"Đây thật sự là chuối sao...?\""
+        ],
         "description": [
             "Một quả chuối đã bóc vỏ, phải cầm cẩn thận"
         ],
@@ -700,10 +717,11 @@
         "subtitle": [
             "\"Giải phóng quyền năng Hoàng Kim ⬆⬆⬇⬇⬅⮕⬅⮕\""
         ],
+        "coolDown": "Kỹ năng đang trong thời gian hồi chiêu! Còn ${} giây nữa!",
         "description": [
             "Thanh kiếm quỷ vàng rực rỡ, một trong những bảo vật của ",
             "Quản trị viên Thế giới. Người đó từng cầm nó, chiến đấu dưới Vực Sâu",
-			"suốt ba ngày ba đêm không nghỉ"
+            "suốt ba ngày ba đêm không nghỉ"
         ],
         "ability": [
             "Giải phóng sức mạnh khi nhập lệnh bí mật"
@@ -727,15 +745,15 @@
             "Kiếm Ô Uế"
         ],
         "subtitle": [
-            "\"Ugh, chất nhầy vẫn còn ngọ nguậy... Ghê quá!!\""		
-		],
+            "\"Ugh, chất nhầy vẫn còn ngọ nguậy... Ghê quá!!\""
+        ],
         "description": [
             "Thanh đại kiếm bị ký sinh bởi chất nhầy thèm khát sự sống",
             "Sự thèm khát khiến chất nhầy trở nên hung dữ"
         ],
         "ability": [
             "Gây thêm sát thương lên kẻ địch đang Chảy Máu",
-			"Hút máu nếu mục tiêu đã chết khi đang Chảy Máu"
+            "Hút máu nếu mục tiêu đã chết khi đang Chảy Máu"
         ]
     },
     "82": {
@@ -748,11 +766,11 @@
         "description": [
             "Một thanh kiếm rèn từ chiếc sừng cứng cáp của bọ cánh cứng tê giác",
             "Dù từng bị gãy trong những trận chiến khốc liệt, độ cứng của nó vẫn còn nguyên vẹn.",
-			"Chính vì vậy, khi rèn lại, nó trở nên cực kỳ bền bỉ."
+            "Chính vì vậy, khi rèn lại, nó trở nên cực kỳ bền bỉ."
         ],
         "ability": [
             "Lượng độ bền tiêu hao sẽ giảm khi sát thương thấp.",
-			"Nếu sát thương bằng hoặc thấp hơn ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} sẽ không tiêu hao độ bền"
+            "Nếu sát thương bằng hoặc thấp hơn ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} sẽ không tiêu hao độ bền"
         ]
     },
     "101": {
@@ -851,7 +869,7 @@
         ],
         "ability": [
             "Giữ chuột phải để tích lực và bắn \\c[27]Mũi Tên Máu Xuyên Phá\\c[0]",
-		    "Tiêu hao HP để cường hóa mũi tên. Mũi tên khi kết liễu sẽ hút máu"
+            "Tiêu hao HP để cường hóa mũi tên. Mũi tên khi kết liễu sẽ hút máu"
         ]
     },
     "250": {
