@@ -11,6 +11,18 @@
         "ability": [
             "Có thể bỏ vào máy gacha không bị hư để kích hoạt lượt quay",
             "Luôn cho 11 lượt quay với ít nhất một quả bóng vàng"
+        ],
+        "relatedTags": {
+            "keyItem": true,
+            "nonConsumableItem": true,
+            "relatedDropPool": [189],
+            "firstAppearanceVersion": 0.77
+        },
+        "obtainSource": [
+            "Khi máy gacha phát nổ do sắp cạn kiệt độ bền, ",
+            "toàn bộ giá trị còn lại chưa được chuyển đổi thành quả bóng ",
+            "sẽ được chuyển thành tỷ lệ rơi của vật phẩm này. ",
+            "Giá trị còn lại càng cao thì tỷ lệ rơi càng cao."
         ]
     },
     "2": {
@@ -3110,8 +3122,8 @@
         ],
         "beIndependent": true,
         "subtitle": [
-            "\"Ta hiểu rồi... cậu nói trò chơi quá khó sao?",
-            "Nếu cậu không phiền, ta có thể cho cậu biết một phương pháp đặc biệt...\""
+            "\"Tôi hiểu rồi... cậu nói trò chơi quá khó sao?",
+            "Nếu cậu không phiền, tôi có thể cho cậu biết một phương pháp đặc biệt...\""
         ],
         "description": [
             "Một mã bí ẩn được Hiệp sĩ cung cấp.",

@@ -77,7 +77,7 @@
 			"tôi nhất định phải bước vào nơi đó để tìm ra cách ",
 			"chữa khỏi hoàn toàn cho \\str[120]."
 		]
-  	},
+	},
 	"3": {
 		"0": [
 			"\"Anh về rồi đây.\""
@@ -293,7 +293,6 @@
 			"thì cũng phải tiêu một cách cẩn thận chứ...!",
 			"Số tiền anh vất vả kiếm được phải sử dụng cho ",
 			"đàng hoàng biết không đó!\""
-			
 		],
 		"22": [
 			"\"Guh...\""
@@ -359,7 +358,7 @@
 			"\\{\\c[2]",
 			"Giờ bạn đã có thể đưa tiền tiêu vặt cho \\str[120]!"
 		]
-  	},
+	},
 	"5": {
 		"0": [
 			"\"K-không chịu nổi nữa...   \\w[30]",
@@ -445,31 +444,31 @@
 			"——Lối ra vào hoàn toàn im ắng.",
 			"Bình thường vào giờ này đáng lẽ \\str[120] đã lập tức ra chào tôi ",
 			"ngay khi thấy tôi về nhà sớm mà nhỉ."
-		],     
+		],
 		"1": [
 			"\"Lạ thật... ",
 			"Chẳng lẽ giờ này mà em ấy vẫn còn đang ngủ à.\""
-		],    
+		],
 		"2": [
 			"Tôi khẽ bước nhẹ rồi xỏ dép vào, ",
 			"định đi thẳng lên gác xép để xem em ấy thế nào,",
 			"nhưng bất chợt nghe thấy một loạt tiếng rên khe khẽ ",
 			"đầy ngượng ngùng vọng ra từ phía phòng khách."
-		],     
+		],
 		"3": [
 			"\\nl< >\\}\"Ngh... Ah...♥ ",
 			"Mmm... Nnnngh...♥\""
-		],     
+		],
 		"4": [
 			"\"G-giọng nói này...     \\{\\w[60]",
 			"Là \\str[120] sao!?\""
-		], 
+		],
 		"5": [
 			"Tim tôi đập thình thịch. ",
 			"Bị thôi thúc bởi cảm giác muốn nhìn trộm mãnh liệt xen lẫn hồi hộp và phấn khích,",
 			"tôi lặng lẽ tiến đến cửa phòng khách như một tên trộm,",
 			"rồi từ từ hé mắt nhìn lén——"
-		] 
+		]
 	},
 	"9": {
 		"0": [
@@ -532,59 +531,59 @@
 		],
 		"15": [
 			"\\nl< >\"Hiểu rồi.\""
-		 ],
-        "19": [
-            "\\nl< >\"........\\str[121]?",
-            "Mừng anh về nhà~\""
-        ],
-        "20": [
-            "\\nl< >\"Chào mừng trở về, \\str[121]! ",
-            "Hôm nay anh đã vất vả rồi!\""
-        ],
-        "21": [
-            "\\nl< >\"Anh muốn đi tắm trước?    \\w[120]",
-            "Hay muốn ăn tối trước?                \\w[120]",
-            "Hay là anh muốn..."
-        ],
-        "22": [
-            "\\nl< >\\{\"Em~?\""
-        ],
-        "23": [
-            "—Đây là kiểu chào đón mới gì thế này!?",
-            "Nguy hiểm quá! \\str[120] đang dễ thương đến mức đáng báo động luôn rồi~!"
-        ],
-        "24": [
-            "Ăn \\str[120] trước",
-            "Đi tắm trước",
-            "Ăn tối trước"
-        ],
-        "25": [
-            "\"Ăn tối trước đi!\""
-        ],
-        "26": [
-            "\\nl< >\"Xin lỗi nhé~ Em vẫn chưa nấu món gì cả~\""
-        ],
-        "27": [
-            "\"—Eh.\""
-        ],
-        "28": [
-            "\\nl< >\"Hôm nay em xem trên TV thấy cái này thú vị quá nên muốn thử chút~\""
-        ],
-        "29": [
-            "\\nl< >\"Nhưng nếu \\str[121] muốn ăn thì em ",
-            "vừa mới nảy ra ý tưởng cho một món mới rồi~!\""
-        ],
-        "30": [
-            "\"—Ehhh!?\""
-        ],
-        "31": [
-            "Trước khi tôi kịp hoàn hồn khỏi cú sốc, ",
-            "\\str[120] đã vui vẻ chạy vào bếp với vẻ mặt đầy hào hứng.",
-            "Nhớ lại những món ăn mà \\str[120] từng làm trước đây, ",
-            "một cảm giác lạnh sống lưng bất chợt chạy dọc người tôi."
-        ],
-        "32": [
-            "\"Để chắc chắn... tốt hơn hết là mình nên đi xem thử đã...\""
+		],
+		"19": [
+			"\\nl< >\"........\\str[121]?",
+			"Mừng anh về nhà~\""
+		],
+		"20": [
+			"\\nl< >\"Chào mừng trở về, \\str[121]! ",
+			"Hôm nay anh đã vất vả rồi!\""
+		],
+		"21": [
+			"\\nl< >\"Anh muốn đi tắm trước?    \\w[120]",
+			"Hay muốn ăn tối trước?                \\w[120]",
+			"Hay là anh muốn..."
+		],
+		"22": [
+			"\\nl< >\\{\"Em~?\""
+		],
+		"23": [
+			"—Đây là kiểu chào đón mới gì thế này!?",
+			"Nguy hiểm quá! \\str[120] đang dễ thương đến mức đáng báo động luôn rồi~!"
+		],
+		"24": [
+			"Ăn \\str[120] trước",
+			"Đi tắm trước",
+			"Ăn tối trước"
+		],
+		"25": [
+			"\"Ăn tối trước đi!\""
+		],
+		"26": [
+			"\\nl< >\"Xin lỗi nhé~ Em vẫn chưa nấu món gì cả~\""
+		],
+		"27": [
+			"\"—Eh.\""
+		],
+		"28": [
+			"\\nl< >\"Hôm nay em xem trên TV thấy cái này thú vị quá nên muốn thử chút~\""
+		],
+		"29": [
+			"\\nl< >\"Nhưng nếu \\str[121] muốn ăn thì em ",
+			"vừa mới nảy ra ý tưởng cho một món mới rồi~!\""
+		],
+		"30": [
+			"\"—Ehhh!?\""
+		],
+		"31": [
+			"Trước khi tôi kịp hoàn hồn khỏi cú sốc, ",
+			"\\str[120] đã vui vẻ chạy vào bếp với vẻ mặt đầy hào hứng.",
+			"Nhớ lại những món ăn mà \\str[120] từng làm trước đây, ",
+			"một cảm giác lạnh sống lưng bất chợt chạy dọc người tôi."
+		],
+		"32": [
+			"\"Để chắc chắn... tốt hơn hết là mình nên đi xem thử đã...\""
 		]
 	},
 	"13": {
@@ -744,10 +743,10 @@
 			"\"...Anh về rồi đây.\""
 		],
 		"1": [
-			"Tôi chào một cách yếu ớt ",
-			"và ngay khi bước vào trong, ",
-			"cái nóng rát khắp cơ thể liền tan biến đi.",
-			"Thời tiết chết tiệt... sao có thể nóng đến mức này chứ..."
+			"Tôi chào một cách yếu ớt và ngay khi bước vào trong,",
+			"cái nóng rát khắp cơ thể liền tan biến đi. ",
+			"Cái thời tiết chết tiệt... sao có thể nóng đến mức này chứ...",
+			" "
 		],
 		"2": [
 			"\"—Hm? Lạ nhỉ.\""
@@ -865,7 +864,7 @@
 		],
 		"32": [
 			"Quay lại trước cửa, trong đầu tôi cứ ",
-			"mãi hình dung lại dáng vẻ hớ hênh của em gái khi nãy.     \\w[60]",
+			"mãi hình dung lại dáng vẻ hớ hênh của \\str[120] khi nãy.     \\w[60]",
 			"...Thì cũng phải thôi, hè mà."
 		],
 		"33": [
@@ -875,6 +874,44 @@
 		"34": [
 			"Tôi giả vờ như chẳng thấy gì ",
 			"rồi cất tiếng gọi với \\str[120] trong nhà."
+		],
+		"35": [
+			"\\nl< >\"\\str[121]... Mừng anh trở về...",
+			"Hôm nay lại nóng thật đấy nhỉ...?\""
+		],
+		"36": [
+			"\\nl< >\"...Hmm? Anh đang cầm gì thế...?",
+			"\\str[121] mua thứ gì đó mang về à?\""
+		],
+		"37": [
+			"\"Phải đó... từ chỗ của tên Hiệp Sĩ kia... ủa mà là nam hay nữ nhỉ...?,",
+			"Thôi kệ vậy, dù sao thì anh cũng mua được vài món đồ hay ho",
+			"để vui chơi mùa hè từ vị Hiệp sĩ đó này.",
+			"Nhưng mà nghe nè, hóa ra Hiệp sĩ đó lại là—  \\w[200]\\^"
+		],
+		"38": [
+			"\\nl< >\"Đây chẳng phải là quà tặng kèm của 'Shadows Soul' sao—!?\""
+		],
+		"39": [
+			"\\nl< >\"Bộ đồ bơi này...! ",
+			"Quả nhiên đúng là bộ từ phần quà của buổi hẹn hò ở bãi biển nè!",
+			"Còn cả chiếc hồ bơi lưu niệm này nữa...! ",
+			"Không ngờ \\str[121] cũng mua được cả thứ này luôn đấy!?\""
+		],
+		"40": [
+			"\"Thì ra trò chơi đó còn có cốt truyện như vậy...",
+			"À, nhắc mới nhớ, anh đã cởi đồ của vị Hiệp sĩ kia và—",
+			"\\w[120]\\^"
+		],
+		"41": [
+			"\\nl< >\\{\"Chuyện đó không quan trọng lúc này đâu~!",
+			"Nhanh lên, nhanh lên~! Em muốn thử ngay bây giờ~!\""
+		],
+		"42": [
+			"Thôi thì... đành kệ vậy. ",
+			"Dù sao thì thân phận thật sự của Hiệp sĩ cũng ",
+			"chẳng quan trọng mấy so với \\str[120] của mình cả.",
+			"Chỉ cần em ấy vui vẻ tận hưởng là được rồi—"
 		]
 	}
 }
