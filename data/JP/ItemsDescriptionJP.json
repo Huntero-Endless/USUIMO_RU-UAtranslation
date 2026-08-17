@@ -3185,6 +3185,7 @@
     "name": [
       "冷やしスイカ"
     ],
+    "beIndependent": true,
     "subtitle": "",
     "description": [
       "冷蔵庫から取り出したばかりのスイカを、食べやすい大きさに切り分けたもの",

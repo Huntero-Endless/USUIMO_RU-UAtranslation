@@ -250,6 +250,8 @@
     "title": "雲存檔",
     "lastSync": "上次同步時間：",
     "neverSynced": "從未同步",
+    "nextUploadIn": "（距離觸發下一次上傳還有%1小時%2分鐘）",
+    "nextSaveWillUpload": "（下次存檔時將自動上傳存檔）",
     "loading": "正在讀取雲端存檔……",
     "hint": "選擇單個雲存檔下載，或使用頂部按鈕一鍵同步（將覆蓋對應本地存檔位）",
     "empty": "雲端還沒有存檔！",
@@ -342,6 +344,10 @@
   "TheFallenChurch": {
     "mapName": "墮落的聖堂",
     "mapDescription": "我可愛的羔羊啊！為何要離棄我而去？"
+  },
+  "ThePureChurch": {
+    "mapName": "無垢的聖堂",
+    "mapDescription": "清心之人有福矣！因為他們必得見神。"
   },
   "DoorofStar": {
     "mapName": "星之門"

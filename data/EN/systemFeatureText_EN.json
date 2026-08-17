@@ -276,6 +276,8 @@
     "title": "Cloud Save",
     "lastSync": "Last Synced: ",
     "neverSynced": "Never Synced",
+    "nextUploadIn": "(Next upload can be triggered in %1 hr %2 min)",
+    "nextSaveWillUpload": "(Your cloud save will upload automatically the next time you save)",
     "loading": "Loading cloud saves...",
     "hint": "Download one cloud save, or use the top button to sync all (overwrites matching local slots)",
     "empty": "No saves found in the cloud!",
@@ -368,8 +370,12 @@
   },
   "TheFallenChurch": {
     "mapName": "The Fallen Church",
-    "mapDescription": "my lovely lamb! Why hast thou forsaken me?"
+    "mapDescription": "My lovely lamb! Why hast thou forsaken me?"
   },
+  "ThePureChurch": {
+    "mapName": "The Pure Church",
+    "mapDescription": "Blessed are the pure in heart, for they shall see God."
+  },   
   "DoorofStar": {
     "mapName": "Door of Star"
   },

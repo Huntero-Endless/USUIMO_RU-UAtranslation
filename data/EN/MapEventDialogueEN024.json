@@ -882,7 +882,7 @@
       "Did you buy something and bring it back, \\str[121]?\""
     ],
     "37": [
-      "\"Yeah... from the Knight sir—or is it lady...?,",
+      "\"Yeah... from the Knight sir—or is it lady...?",
       "Well, anyway, I bought some great stuff for summer fun from the Knight.",
       "But listen to this, turns out the Knight is actually—",
       "\\w[90]\\^"
@@ -907,7 +907,7 @@
     ],
     "42": [
       "Well... whatever. ",
-      "It's not like the Knight's true identity matters to my \\str[121] anyway.",
+      "It's not like the Knight's true identity matters to my \\str[120] anyway.",
       "As long as she can enjoy it happily, that's all that counts—"
     ]
   }

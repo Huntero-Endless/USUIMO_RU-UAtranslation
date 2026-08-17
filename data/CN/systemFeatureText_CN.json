@@ -250,6 +250,8 @@
       "title": "云存档",
       "lastSync": "上次同步时间：",
       "neverSynced": "从未同步",
+      "nextUploadIn": "（距离触发下一次上传还有%1小时%2分钟）",
+      "nextSaveWillUpload": "（下次存档时将自动上传存档）",
       "loading": "正在读取云端存档……",
       "hint": "选择单个云存档下载，或使用顶部按钮一键同步（将覆盖对应本地存档位）",
       "empty": "云端还没有存档！",
@@ -343,6 +345,10 @@
     "mapName": "墮落的聖堂",
     "mapDescription": "我可愛的羔羊啊！爲何要離棄我而去？"
   },
+  "ThePureChurch": {
+    "mapName": "无垢的聖堂",
+    "mapDescription": "清心之人有福矣！因爲他們必得見神。"
+  },  
   "DoorofStar": {
     "mapName": "星之門"
   },

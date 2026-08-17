@@ -3159,6 +3159,7 @@
     "name": [
       "冰镇西瓜"
     ],
+    "beIndependent": true,
     "subtitle": "",
     "description": [
       "将刚从冰箱里取出的西瓜切成了方便入口的小块",
