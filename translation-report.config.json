@@ -23,7 +23,7 @@
     "ID": {
       "label": "Indonesian",
       "nativeLabel": "Bahasa Indonesia",
-      "baseCommit": "441bd7645de249772c05dba4592cc41b722bc32e",
+      "baseCommit": "a6eca080dc7f3e4db703be9498ca685e1330c6d7",
       "baseNote": "Last repository revision that updated Indonesian translation files"
     },
     "IT": {
