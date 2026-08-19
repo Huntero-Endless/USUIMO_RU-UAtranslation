@@ -1,46 +1,46 @@
 {
   "2": {
-    "0": [
-      "（...Ada apa ini? Matahari begitu menyengat!?",
-      "Dan rasanya sakit sekali di kulitku!!）"
-    ]
-  },
+        "0": [
+            "(...Ada apa ini? Sinar mataharinya begitu kuat!?",
+			"Dan benar-benar sakit saat menyentuh kulitku!!)"
+		]
+    },
   "4": {
-    "0": [
-      "Ini masih terlalu pagi,",
-      "Apa aku harus menyerah menjelajah dan pulang?"
-    ],
-    "1": [
-      "Matahari masih belum terbenam,",
-      "Apa aku harus menyerah menjelajah dan pulang?"
-    ],
-    "2": [
-      "Hari ini cuacanya sangat panas,",
-      "Lebih baik aku pulang lebih awal...?"
-    ],
-    "3": [
-      "Pulang",
-      "Tunggu sebentar lagi"
-    ]
-  },
+        "0": [
+            "Masih siang hari.",
+			"Apa aku benar-benar akan pulang ke rumah sekarang?"
+		],
+		"1": [
+            "Masih ada waktu sebelum matahari terbenam…",
+			"Apa aku benar-benar akan pulang ke rumah sekarang?"
+        ],
+        "2": [
+      		"Hari ini panas sekali.",
+      		"Mungkin lebih baik pulang lebih awal...?"
+        ],
+        "3": [
+            "Pulang ke rumah",
+			"Tidak usah"
+        ]
+    },
   "16": {
-    "0": [
-      "（...Ada apa ini? Matahari begitu menyengat!?",
-      "Dan rasanya sakit sekali di kulitku!!）"
-    ]
-  },
+        "0": [
+            " ",
+			" "
+		]
+    },	
   "17": {
-    "0": [
-      "Ada selembar kertas lagi di dalamnya... \\w[30]",
-      "Ada tulisan yang begitu buram, hampir tak terbaca—"
-    ],
-    "1": [
-      "\\py[24]「Di dalamnya terkubur masa mudaku...」",
-      "\\w[60]"
-    ],
-    "2": [
-      "（Sangat...",
-      "Perasaan yang berat sekali...）"
-    ]
-  }
+        "0": [
+            "Ada juga catatan di dalamnya...     \\w[30]",
+			"Tertulis di sana beberapa kata yang sangat berantakan sampai hampir tidak terbaca—"
+		],
+        "1": [
+            "\\py[24]\"Masa mudaku terkubur di dalamnya...\"",
+			"\\w[60]"
+		],
+        "2": [
+            "(Rasanya begitu...",
+			"begitu berat tak tertahankan...)"
+		]	
+    }	
 }
