@@ -1,203 +1,207 @@
 {
   "13": {
-    "0": [
-      "…Oh?",
-      "Ada domba kecil manis yang tersesat lagi, ya?"
-    ],
-    "1": [
-      "Hehehe~ Kau ingin mendapatkan kekuatan dariku?",
-      "Ini adalah perjanjian iblis, lho~"
-    ],
-    "2": [
-      "Tapi sayang sekali, 「belum saatnya」, ya~",
-      "Sekarang belum tiba waktunya kau menghadapi takdirmu~"
-    ],
-    "3": [
-      "Dirimu sekarang hanyalah seekor domba yang tak mengerti apa-apa,",
-      "domba tersesat yang belum menyadari apa pun~"
-    ],
-    "4": [
-      "Heh-eh~~",
-      "Duduk di sana, kau ingin mendengar doaku?"
-    ],
-    "5": [
-      "Sayang sekali♥ Aku ini iblis agung, lho~",
-      "Mana mungkin aku melakukan hal seperti itu untukmu~"
-    ],
-    "6": [
-      "Heh-eh~~ Kau ini♥",
-      "Dari tubuhmu tercium aura yang sangat berbahaya, ya~"
-    ],
-    "7": [
-      "Impulsif, destruktif, merajalela—",
-      "Hehe, kelihatannya kau sudah menahannya sejak lama, ya?"
-    ],
-    "8": [
-      "Bagaimana~? Sudah hampir tak tertahankan, kan♥",
-      "Gumpalan hasrat yang bergejolak itu… apakah sudah hampir meluap dari",
-      "dadamu?"
-    ],
-    "9": [
-      "Meskipun sekarang dikuasai iblis—",
-      "Tapi setidaknya, ini masih sebuah gereja, lho♥"
-    ],
-    "10": [
-      "Mari~ Di hadapan biarawati...",
-      "Katakan semua isi hatimu yang sebenarnya♥"
-    ],
-    "11": [
-      "Menyakiti",
-      "Bertobat"
-    ],
-    "12": [
-      "...Oh?",
-      "Apa maksudnya ini~?"
-    ],
-    "13": [
-      "Ini pilihanmu?",
-      "Padahal tadi kau hampir kehabisan napas karena dipermainkan~"
-    ],
-    "14": [
-      "Kesombonganmu yang tak tahu diri itu...",
-      "Akan kuinjak hingga terbenam ke tanah♥"
-    ],
-    "15": [
-      "Hehe♥",
-      "Sudah tak bisa kau tahan lagi, kan?"
-    ],
-    "16": [
-      "Mari♥ Perlihatkan padaku hasratmu yang tak terkendali itu—",
-      "Aku sangat menantikan seperti apa dirimu selanjutnya~"
-    ],
-    "17": [
-      "Bagus♥ Postur seperti ini...",
-      "Dasar anak baik~♥"
-    ],
-    "18": [
-      "Terpapar sepenuhnya, merasa rendah, patuh sepenuhnya—",
-      "Domba kecil yang tersesat memang harus tetap seperti ini♥"
-    ],
-    "19": [
-      "Jangan bergerak, ya♥ Jangan coba-coba melawan kekuatanku~",
-      "Lagipula, kau tak bisa melakukannya sekarang~"
-    ],
-    "20": [
-      "Astaga♥ Ada apa ini?",
-      "Baru dimulai, napasmu sudah kacau begini?"
-    ],
-    "21": [
-      "Ah♥ Dosa-dosa di tubuhmu...",
-      "Terus-menerus memancar keluar~!"
-    ],
-    "22": [
-      "Dalam situasi seperti ini,",
-      "Kau masih bisa bergairah juga ya♥"
-    ],
-    "23": [
-      "Padahal seharusnya kau menyesali dosa-dosamu~",
-      "Pada akhirnya, otakmu tetap dikuasai nafsu sepenuhnya ya♥"
-    ],
-    "24": [
-      "Memang anak nakal sepertimu ini〜",
-      "Harus aku hukum dengan cara yang lebih keras ya♥"
-    ],
-    "25": [
-      "Hehehe〜♥",
-      "Dengan begini, kau tak bisa berkata apa-apa lagi kan~"
-    ],
-    "26": [
-      "Impulsimu, kegelisahanmu, kemurunganmu...",
-      "Semuanya sedang aku serap♥"
-    ],
-    "27": [
-      "Kau bisa merasakannya, kan?",
-      "Hatimu mulai perlahan menjadi kosong~"
-    ],
-    "28": [
-      "Begitulah seharusnya♥ Semakin kau terjerumus~",
-      "Semakin aku bisa memenuhi hasrat penebusanmu~"
-    ],
-    "29": [
-      "Kemarilah... serahkan semua dirimu dengan patuh♥",
-      "Inilah satu-satunya nilai keberadaanmu di sini♥♥"
-    ],
-    "30": [
-      "Nantikanlah, domba kecilku♥",
-      "Aku akan memerasmu hingga tak tersisa setitik pun noda dosa~"
-    ],
-    "31": [
-      "（Tu-tubuhku tak terkendali……",
-      "Tak bisa bergerak……！）"
-    ]
-  },
+        "0": [
+            "...Oh? Ada lagi ",
+			"domba kecil yang lucu tersesat masuk?"
+		],
+		"1": [
+            "Hehehe~ Apa kamu ke sini untuk mencari kekuatan dariku?",
+			"Ini perjanjian dengan iblis, lho~"
+        ],
+        "2": [
+            "Tapi sayangnya, 'belum waktunya'~",
+            "Belum saatnya kamu menghadapi takdirmu~"
+        ],
+        "3": [
+            "Sekarang, kamu masih hanya domba kecil yang tersesat~",
+			"Yang tidak tahu apa-apa dan belum menyadari apa pun~"
+        ],
+        "4": [
+            "Heyyy~~ Apa kamu duduk di sana ",
+			"berharap mendengar doa-doa dariku?"
+        ],
+        "5": [
+            "Sayangnya♥ aku iblis besar~",
+			"aku tidak melakukan hal seperti itu untukmu~"
+        ],
+        "6": [
+            "Hee—ey~~ kamu ♥",
+			"kamu memancarkan aura yang sangat berbahaya~"
+        ],	
+        "7": [
+            "Dorongan, kehancuran, mengamuk— Hehe♥",
+			"aku bisa tahu kamu sudah menahannya lama sekali, kan?"
+        ],	
+        "8": [
+            "Gimana~? Kamu akan kehilangan kendali, kan ♥",
+			"Keinginan yang tak tenang itu… mau tumpah keluar dari dadamu?"
+        ],	
+        "9": [
+            "Bahkan jika tempat ini dikuasai iblis—",
+			"ini tetap sebuah gereja, lho ♥"
+        ],	
+        "10": [
+            "Ayo~ di hadapan suster...",
+			"Ucapkan semua keinginan aslimu ♥"
+        ],	
+        "11": [
+            "Sakiti",
+			"Mengaku"
+        ],	
+        "12": [
+            "...Oh?",
+			"Dan apa maksudnya itu~?"
+        ],	
+        "13": [
+            "Itu pilihanmu?",
+			"Padahal kamu barusan saja terengah-engah karena godaanku~"
+        ],	
+        "14": [
+            "Kesombongan bodohmu itu…",
+			"biar kuhancurkan jauh ke dalam lantai ♥"
+        ],	
+        "15": [
+            "Hehe ♥",
+			"Kamu tidak bisa menahannya lagi, kan?"
+        ],	
+        "16": [
+            "Ayo ♥ tunjukkan keinginan yang tak terkendali itu—",
+			"aku sangat penasaran ingin melihat kamu akan berubah jadi apa~"
+        ],	
+        "17": [
+            "Bagus ♥ ya, postur itu…",
+			"kamu makhluk kecil yang sangat penurut ya~ ♥"
+        ],	
+        "18": [
+            "Sepenuhnya terbuka, sadar akan kekuranganmu sendiri, sepenuhnya patuh—",
+			"domba kecil yang tersesat harus selalu tetap seperti ini ♥"
+        ],	
+        "19": [
+            "Jangan bergerak ♥ jangan bahkan coba melawan kekuatanku~",
+			"Bukan berarti kamu masih mampu melakukannya~"
+        ],	
+        "20": [
+            "Aww ♥ ada apa denganmu sekarang?",
+			"Napasmu sudah kacau padahal kita baru saja mulai?"
+        ],	
+        "21": [
+			"Ah ♥ semua dosa di dalam dirimu…",
+			"terus saja mengalir keluar~!"
+        ],	
+        "22": [
+            "Dalam situasi seperti ini,",
+			"kamu masih bisa bergairah ♥"
+        ],	
+        "23": [
+            "Kamu seharusnya sedang mengakui dosa-dosamu~",
+			"tapi pikiranmu sudah sepenuhnya dikuasai keinginan, kan? ♥"
+        ],	
+        "24": [
+            "Pantasan saja anak nakal sepertimu~",
+			"aku harus menghukummu dengan sesuatu yang lebih keras ♥"
+        ],	
+        "25": [
+            "Hehe~ ♥",
+			"Tidak ada lagi yang mau dikatakan, kan~?"
+        ],		
+        "26": [
+            "Doronganmu, kegelisahanmu, kegelapanmu…",
+			"aku menyerap semuanya ♥"
+        ],	
+        "27": [
+            "Kamu bisa merasakannya, kan?",
+			"hatimu semakin lama semakin kosong~"
+        ],	
+        "28": [
+            "Benar begitu ♥ semakin dalam kamu tenggelam,",
+			"semakin banyak aku bisa memuaskan keinginanmu akan keselamatan~"
+        ],	
+        "29": [
+            "Ayo… persembahkan semuanya padaku seperti anak yang baik ♥",
+			"Itu satu-satunya alasan kamu ada di sini, bagaimanapun juga ♥♥"
+        ],			
+        "30": [
+            "Tunggu saja, domba kecilku♥",
+			"aku akan memeras setiap tetes dosa darimu~"
+        ],	
+        "31": [
+            "(T-Tubuhku… tidak mau menurutiku…",
+			"aku tidak bisa bergerak…!)"
+        ]			
+    },	
   "16": {
-    "0": [
-      "Kau akan mencari nafkah dengan berpeluh, sampai kau kembali ke",
-      "tanah, karena dari situlah kau diambil; sebab kau debu dan akan",
-      "kembali menjadi debu."
-    ],
-    "1": [
-      "Aku melihat segala perbuatan yang dilakukan di bawah matahari,",
-      "semuanya sia-sia, dan menjaring angin."
-    ],
-    "2": [
-      "Kita tahu, bahwa segala sesuatu bekerja bersama,",
-      "untuk mendatangkan kebaikan bagi mereka yang mengasihi Allah, yaitu",
-      "bagi mereka yang terpanggil sesuai dengan rencana-Nya."
-    ],
-    "3": [
-      "Karena semua orang telah berbuat dosa,",
-      "dan telah kehilangan kemuliaan Allah."
-    ],
-    "4": [
-      "Karena penglihatan ini memiliki waktu yang ditentukan, akan segera",
-      "terwujud, dan tidak akan berdusta. Sekalipun tertunda, nantikanlah;",
-      "sebab pasti akan datang dan tidak akan terlambat."
-    ],
-    "5": [
-      "Kejahatanku telah melampaui kepalaku,",
-      "seperti beban berat yang tak sanggup kutanggung."
-    ]
-  },
+        "0": [
+            "Dengan peluh mukamu engkau akan makan ",
+			"makananmu sampai engkau kembali ke tanah,",
+			"karena dari situlah engkau diambil; ",
+			"sebab engkau debu dan engkau akan kembali menjadi debu."
+		],
+		"1": [
+            "Aku telah melihat semua perbuatan yang dilakukan di bawah matahari; ",
+			"semuanya adalah kesia-siaan, suatu usaha menjaring angin."
+        ],
+        "2": [
+            "Dan kita tahu bahwa segala sesuatu bekerja bersama-sama ",
+            "untuk kebaikan bagi mereka yang mengasihi Allah,",
+			"yaitu bagi mereka yang terpanggil sesuai dengan maksud-Nya."
+        ],
+        "3": [
+            "Karena semua orang telah berbuat dosa dan telah jatuh ",
+			"dari kemuliaan Allah."
+        ],
+        "4": [
+            "Sebab penglihatan itu masih menanti saatnya;",
+			"ia menuju kesudahannya dan tidak akan menipu.",
+			"Walaupun tertunda, nantikanlah itu; ",
+			"pasti akan datang dan tidak akan bertangguh."
+        ],
+        "5": [
+            "Kesalahan-kesalahanku telah menimpaku ",
+			"seperti beban yang terlalu berat untuk ditanggung."
+        ]		
+    },
   "17": {
-    "0": [
-      "Yesus bertanya kepadanya, \"Siapa namamu?\"",
-      "Ia menjawab, \"Namaku Legiun, karena kami banyak.\""
-    ],
-    "1": [
-      "Lalu tampaklah suatu tanda lain di langit, yaitu seekor naga merah",
-      "yang besar, bertanduk sepuluh dan berkepala tujuh, dan di atas",
-      "ketujuh kepalanya ada tujuh mahkota. Ekornya menyeret sepertiga",
-      "bintang di langit, lalu menjatuhkannya ke bumi."
-    ],
-    "2": [
-      "Bintang terang, putra fajar! Mengapa kau jatuh dari langit?",
-      "Kau yang menaklukkan bangsa-bangsa, mengapa kau terhempas ke tanah?"
-    ],
-    "3": [
-      "Dan kulihat seekor binatang buas muncul dari laut, bertanduk sepuluh",
-      "dan berkepala tujuh, Di sepuluh tanduknya ada sepuluh mahkota, dan",
-      "di tujuh kepalanya ada nama-nama hujatan."
-    ],
-    "4": [
-      "Meski aku berjalan melalui lembah bayangan maut, aku takkan takut",
-      "bahaya, karena Kau bersamaku; Tongkat-Mu dan gada-Mu, itu",
-      "menghiburku."
-    ],
-    "5": [
-      "Yahweh bertanya pada Setan: \"Dari mana kau datang?\"",
-      "Setan menjawab: \"Aku datang dari menjelajahi bumi, berjalan",
-      "bolak-balik di atasnya.\""
-    ]
-  },
+        "0": [
+            "Yesus bertanya kepadanya, \"Siapa namamu?\"",
+			"Ia menjawab, \"Namaku Legion, karena kami banyak.\""
+		],
+		"1": [
+            "Lalu tampaklah tanda lain di langit: ",
+			"seekor naga merah besar dengan tujuh kepala dan sepuluh tanduk,",
+			"dan di atas kepalanya ada tujuh mahkota. Ekornya menyapu ",
+			"sepertiga bintang-bintang dari langit dan melemparkannya ke bumi"
+        ],
+        "2": [
+            "Hai bintang yang bercahaya, anak fajar! ",
+            "Betapa engkau telah jatuh dari langit?",
+			"Engkau yang dahulu merendahkan bangsa-bangsa, ",
+			"betapa engkau telah dijatuhkan ke bumi?"
+        ],
+        "3": [
+            "Dan aku melihat seekor binatang keluar dari dalam laut. ",
+			"Ia bertanduk sepuluh dan berkepala tujuh,",
+			"dengan sepuluh mahkota di tanduk-tanduknya, ",
+			"dan nama-nama yang menghujat di kepala-kepalanya."
+        ],
+        "4": [
+            "Sekalipun aku berjalan dalam lembah kekelaman, ",
+			"aku tidak akan takut bahaya, sebab Engkau besertaku;",
+			"gada-Mu dan tongkat-Mu, itulah yang menghibur aku."
+        ],
+        "5": [
+            "Tuhan bertanya kepada Iblis, \"Dari mana engkau datang?\"",
+			"Iblis menjawab, \"Dari menjelajah bumi, ",
+			"berjalan kian ke mari di atasnya.\""
+        ]		
+    },
   "18": {
-    "0": [
-      "Menemukan sebuah gerbang teleportasi...",
-      "Apakah kau ingin meninggalkan tempat ini sekarang...?"
-    ],
-    "1": [
-      "Pergi",
-      "Tunggu sebentar lagi..."
-    ]
-  }
+        "0": [
+			"...Ini lingkaran teleportasi.",
+			"Tinggalkan tempat ini sekarang…?"
+		],
+		"1": [
+            "Tinggalkan",
+			"Tunggu sebentar…"
+        ]
+    }	
 }
