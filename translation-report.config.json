@@ -23,7 +23,7 @@
     "ID": {
       "label": "Indonesian",
       "nativeLabel": "Bahasa Indonesia",
-      "baseCommit": "a6eca080dc7f3e4db703be9498ca685e1330c6d7",
+      "baseCommit": "8e0795ec6e5905a47fefca0bb9692d1a11560101",
       "baseNote": "Last repository revision that updated Indonesian translation files"
     },
     "IT": {
@@ -41,7 +41,7 @@
     "RU": {
       "label": "Russian",
       "nativeLabel": "Русский",
-      "baseCommit": "23f6e0e4f3b597f899a2af2b3a237b36ffa0b2ee",
+      "baseCommit": "8e0795ec6e5905a47fefca0bb9692d1a11560101",
       "baseNote": "Last repository revision that updated Russian translation files"
     },
     "TH": {
@@ -53,13 +53,13 @@
     "UA": {
       "label": "Ukrainian",
       "nativeLabel": "Українська",
-      "baseCommit": "23f6e0e4f3b597f899a2af2b3a237b36ffa0b2ee",
+      "baseCommit": "8e0795ec6e5905a47fefca0bb9692d1a11560101",
       "baseNote": "Last repository revision that updated Ukrainian translation files"
     },
     "VN": {
       "label": "Vietnamese",
       "nativeLabel": "Tiếng Việt",
-      "baseCommit": "843ba52bcbf520f8a033b2f17d9b5dc4d1f71464",
+      "baseCommit": "8e0795ec6e5905a47fefca0bb9692d1a11560101",
       "baseNote": "Last repository revision that updated Vietnamese translation files"
     }
   }
