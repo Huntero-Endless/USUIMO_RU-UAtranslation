@@ -566,7 +566,7 @@
             "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
-            "Khắc một dấu ấn Phù Văn dưới chân bạn, để những người chơi khác đọc được",
+            "Khắc một dấu ấn Phù Văn dưới chân bạn, có thể để những người chơi khác đọc được",
             "Có thể sử dụng vô hạn, nhưng chỉ được khắc tối đa 24 lần mỗi ngày"
         ]
     },
@@ -3109,7 +3109,6 @@
             "Dưa Hấu Ướp Lạnh"
         ],
         "subtitle": "",
-        "beIndependent": true,
         "description": [
             "Dưa hấu tươi mát vừa lấy ra từ tủ lạnh, được cắt thành từng miếng vừa ăn",
             "Mát lạnh, ngọt thanh, mọng nước và sảng khoái—",
@@ -3184,7 +3183,7 @@
         ],
         "subtitle": [
             "Để thắt chặt mối quan hệ, \\str[121] đã nhờ \\str[120] kỳ lưng cho mình,",
-            "Nhưng được đà lấn tới, \\str[121] yêu cầu em ấy rửa cả 'thằng đệ' ở phía trước.",
+            "Nhưng được đà lấn tới, \\str[121] nhanh chóng yêu cầu em ấy rửa cả 'thằng đệ' ở phía trước.",
             "Hiểu ý ngay lập tức, \\str[120] liền phục vụ tắm rửa đặc biệt ngay tại chỗ..."
         ],
         "description": "",
@@ -3196,7 +3195,7 @@
         ],
         "subtitle": [
             "Để thắt chặt mối quan hệ, \\str[121] đã nhờ \\str[120] kỳ lưng cho mình, ",
-            "Nhưng được đà lấn tới, \\str[121] yêu cầu em ấy tắm rửa cả cánh tay ở phía trước. ",
+            "Nhưng được đà lấn tới, \\str[121] nhanh chóng yêu cầu em ấy tắm rửa cả cánh tay ở phía trước. ",
             "Hiểu ý ngay lập tức, \\str[120] liền phục vụ tắm rửa đặc biệt ngay tại chỗ... "
         ],
         "description": "",
@@ -3222,7 +3221,7 @@
         "subtitle": [
             "\\str[121] rủ \\str[120] cùng xem phim, với người chưa từng thức khuya bao giờ",
             "thì đây là một trải nghiệm mới lạ, tôi mở cuộn băng video bí ẩn mà mình mới mua—",
-            "Ai ngờ đâu đó lại là một bộ phim kinh dị! Bị cảnh tượng đáng sợ dọa cho khiếp vía.",
+            "Ai ngờ đâu đó lại là một bộ phim kinh dị! Bị những cảnh tượng đáng sợ dọa cho khiếp vía.",
             "\\str[120] bám chặt lấy \\str[121], trong lúc cố gắng xoa dịu nỗi bất an của em ấy thì",
             "bầu không khí giữa họ bỗng nhiên dần trở nên nóng bỏng và đầy sự gần gũi..."
         ],

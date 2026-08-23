@@ -51,6 +51,11 @@
       "正解のチートコードを入力して、対応する機能を解放しましょう！"
     ]
   },
+  "UnitINexus": {
+    "bossRespawnCountdown": "%1は%2日後に復活します！",
+    "bossChallengeAvailable": "%1が復活しました！",
+    "noBossDetected": "\\ii[20]を持つボスが検出されませんでした！"
+  },
   "warehouseIsFull": "これ以上アイテムを収納できない！",
   "cannotUseItem": "今はアイテム使えない！",
   "bulkSelectButton": "クリックでアイテムの一括選択に切り替え",

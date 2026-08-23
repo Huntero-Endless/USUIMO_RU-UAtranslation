@@ -220,6 +220,50 @@
       "最后一击伤害提升率: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
     ]
   },
+  "21": {
+    "name": [
+      "坐标探测"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "显示当前所在的地图坐标"
+    ]
+  },   
+  "22": {
+    "name": [
+      "遗物探测"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "显示当前地图魔物和遗物的数量"
+    ]
+  },   
+  "23": {
+    "name": [
+      "头目探测"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "显示可挑战的BOSS的刷新状态"
+    ]
+  },   
+  "24": {
+    "name": [
+      "生命值探测"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "显示受击对象的生命值信息"
+    ]
+  },     
   "26": {
     "name": [
       "剑术修行"
@@ -235,6 +279,20 @@
     "ability": [
       "空挥练习次数: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
       "近战武器的基础攻击提升\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%\\c[0]伤害"
+    ]
+  },
+  "93": {
+    "name": [
+      "天罡雷云"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
     ]
   }
 }

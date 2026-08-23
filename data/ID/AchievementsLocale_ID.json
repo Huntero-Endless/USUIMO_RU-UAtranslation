@@ -1,214 +1,157 @@
 {
   "categories": {
     "SLG": {
-      "Category Name": "Kenangan Bersama \\str[120]",
+      "Category Name": "Kenangan bersama adikku.",
       "New Scene Name": "",
-      "Trophy Description": "\\str[120] akan selalu menjadi orang terpenting"
+      "Trophy Description": "Adikku akan selalu jadi yang terpenting!"
     },
     "RPG": {
-      "Category Name": "Kenangan Bertarung di Abyss",
+      "Category Name": "Kenangan bertarung di jurang.",
       "New Scene Name": "",
-      "Trophy Description": "Bertarunglah... terus bertarung!"
+      "Trophy Description": "Bertarunglah... bertarunglah!"
     },
     "Gacha": {
-      "Category Name": "Kenangan Berbagai Koleksi",
+      "Category Name": "Kenangan akan berbagai koleksi.",
       "New Scene Name": "",
-      "Trophy Description": "Konon kalau kamu mengumpulkan semuanya, kamu bisa memanggil—"
+      "Trophy Description": "Kudengar, jika semua benda terkumpul, kita bisa memanggil—"
     },
     "Ryouri": {
-      "Category Name": "Kenangan Memasak",
+      "Category Name": "Kenangan masakan.",
       "New Scene Name": "",
-      "Trophy Description": "Memasak adalah sesuatu yang membawa kebahagiaan bagi orang lain"
+      "Trophy Description": "Masakan adalah hal yang membawa kebahagiaan bagi semua orang."
     },
     "Hentai": {
-      "Category Name": "Kenangan Hentai",
+      "Category Name": "Kenangan nakal.",
       "New Scene Name": "",
-      "Trophy Description": "Gula dan rempah~dan segala yang indah~"
+      "Trophy Description": "Gadis-gadis terbuat dari gula, rempah-rempah, dan hal-hal indah lainnya."
     }
   },
   "achievements": {
     "WhereIsImouto": {
-      "Name": "Di Mana Imouto",
-      "Description": "Harus menemukan gadis tersayang—",
-      "Pop Up Desc": "\\fs[20]Di mana Imouto tersayangku…?"
+      "Name": "Di mana adikku?",
+      "Description": "Aku harus menemukan gadis kesayanganku—",
+      "Pop Up Desc": "Di mana adikku...?"
     },
     "ItsMyImouto": {
-      "Name": "Ini Imouto tersayangku!",
-      "Description": "Gadis tersayang ada tepat di depanku",
-      "Pop Up Desc": "Ini Imouto tersayangku!"
+      "Name": "Itu adikku!",
+      "Description": "Gadis kesayanganku ada di depan mata!",
+      "Pop Up Desc": "Itu adikku!"
     },
     "JoyStation V": {
-      "Name": "Dapat Konsol Game!",
-      "Description": "Sekarang kamu bisa main game bareng \\str[120]!",
+      "Name": "Konsol game didapat!",
+      "Description": "Aku bisa bermain game bersama adikku sekarang!",
       "Pop Up Desc": [
-        "\\fs[18]Ini mungkin sebuah game, ",
-        "tapi bukan untuk dimainkan"
-      ]
-    },
-    "MyImoutoIsJustThatCute": {
-      "Name": "Imouto-ku Emang Seimut Itu!",
-      "Description": "Tingkat kedekatan dengan Imouto sudah mencapai puncaknya!",
-      "Pop Up Desc": [
-        "\\fs[22]Imouto-ku Emang ",
-        "Seimut Itu!"
+        "\\fs[24]Meskipun ini game,",
+        "tapi ini bukan main-main!"
       ]
     },
     "ImoutoBodyPillow": {
-      "Name": "Bantal Peluk Imouto",
-      "Description": "Sekarang bisa minta Imouto duduk di pangkuan sambil main game!",
-      "Pop Up Desc": "\\fs[20]Apa punya Imouto aja belum cukup?"
+      "Name": "Bantal sandaran adik.",
+      "Description": "Aku bisa memeluk adik di pangkuanku!",
+      "Pop Up Desc": "Bukankah punya \nadik itu sudah cukup?"
+    },
+    "MyImoutoIsJustThatCute": {
+      "Name": "Adikku memang semenggemaskan ini!",
+      "Description": "Kedekatanku dengan adik mencapai puncaknya!",
+      "Pop Up Desc": "Adikku memang \nsemenggemaskan ini!"
     },
     "GachaIsBadCivilization": {
-      "Name": "Gacha Adalah Peradaban yang Buruk!",
-      "Description": "Menghabiskan terlalu banyak uang untuk gacha dan dimarahi Imouto...",
-      "Pop Up Desc": "\\fs[21]Gacha Adalah Peradaban yang Buruk!"
+      "Name": "Gacha itu peradaban buruk!",
+      "Description": "Terlalu banyak menghabiskan uang untuk gacha, aku dimarahi adik...",
+      "Pop Up Desc": "Gacha itu pera\ndaban buruk!"
     },
     "CanYouSendMe50K": {
-      "Name": "Bisa Kirimi Aku 50K~?",
-      "Description": "Kasih Imouto uang jajan lebih dari 50.000 sekaligus!",
-      "Pop Up Desc": "Bisa Kirimi Aku 50K~?"
-    },
-    "ShinkonSantaku": {
-      "Name": "Tiga Pertanyaan Pengantin Baru!",
-      "Description": "Menyuruh Imouto memperagakan tiga pertanyaan pengantin baru!",
-      "Pop Up Desc": "Tiga Pertanyaan Pengantin Baru!"
+      "Name": "Tolong berikan aku 50.000 koin~!",
+      "Description": "Memberikan angpao lebih dari 50.000 kepada adik!",
+      "Pop Up Desc": "Tolong berikan \naku 50.000 koin~!"
     },
     "PeopleDieIfTheyAreKilled": {
-      "Name": "Orang Mati Kalau Dibunuh?",
-      "Description": "HP-mu turun ke nol di Abyss...",
-      "Pop Up Desc": [
-        "\\fs[22]Orang Mati Kalau",
-        "Dibunuh?"
-      ]
+      "Name": "Jika dibunuh, orang akan mati?",
+      "Description": "Staminaku habis di jurang...",
+      "Pop Up Desc": "Jika dibunuh, \norang akan mati?"
     },
     "HoardingHabit": {
-      "Name": "Kebiasaan Menimbun",
-      "Description": "Memasukkan banyak barang ke Gerbang Bintang",
+      "Name": "Si Penimbun.",
+      "Description": "Memasukkan banyak barang ke Gerbang Bintang.",
       "Pop Up Desc": [
-        "\\fs[22]Aku punya penyakit yang bikin ",
-        "aku mati kalau nggak nimbun"
+        "\\fs[24] mengidap penyakit, jika tidak menimbun barang,",
+        "aku akan mati."
       ]
     },
     "TransportedToIsekai": {
-      "Name": "Dibawa ke Isekai?",
-      "Description": "Dilindas tanpa ampun oleh Truk Toko...",
-      "Pop Up Desc": "\\fs[20]Sihir Reinkarnasi Isekai!?"
+      "Name": "Bereinkarnasi ke dunia lain?",
+      "Description": "Terlindas tanpa ampun oleh kereta toko...",
+      "Pop Up Desc": "Sihir reinkarna\nsi dunia lain!?"
     },
     "YouAreAlreadyDead": {
       "Name": "Requiem",
-      "Description": "Dinyatakan mati oleh Dewa Kematian",
-      "Pop Up Desc": "Kamu Sudah Mati"
+      "Description": "Kematianmu telah diumumkan oleh Sang Malaikat Maut",
+      "Pop Up Desc": "Kau sudah mati"
     },
     "AirKing": {
-      "Name": "Raja Udara",
-      "Description": "Kamu sudah jatuh berkali-kali...",
+      "Name": "Raja Penjebol",
+      "Description": "Sudah tak terhitung berapa kali aku jatuh...",
       "Pop Up Desc": [
-        "\\fs[22]\"Apa kamu nggak mau ",
-        "berteman dengan langit!\""
+        "\\fs[24]「Apa kau tak ingin bersahabat dengan langit,",
+        "bertanya padanya!」"
       ]
     },
     "Shichosei": {
-      "Name": "Bintang Pertanda Kematian",
+      "Name": "Bintang Kematian yang Bersinar",
       "Description": "Dikalahkan oleh ASABA dengan jurus spesial",
       "Pop Up Desc": [
-        "\\fs[22]\"Kamu Bisa Melihatnya…",
-        "Bintang Pertanda Kematian!!\""
+        "\\fs[24]「Lihatlah, Bintang Kematianmu",
+        "bersinar di angkasa!」"
       ]
     },
     "ServantAndMaster": {
-      "Name": "Para Servant dan Master",
-      "Description": "Mengendalikan lima Servant sekaligus",
+      "Name": "Servant dan Master",
+      "Description": "Memerintah lima Servant sekaligus",
       "Pop Up Desc": [
-        "\\fs[22]\"Aku bertanya padamu.",
-        "Apakah kamu Master kami?\""
+        "\\fs[24]「Izinkan aku bertanya.",
+        "Apakah kau Master kami?」"
       ]
     },
     "BossFirstAppearance": {
-      "Name": "Bersukacitalah atas kelahiran sang raja!",
-      "Description": "Bertarung melawan bos untuk pertama kalinya",
-      "Pop Up Desc": "\\fs[18]Bersukacitalah atas kelahiran sang raja!"
+      "Name": "Rayakanlah kelahiran sang raja!",
+      "Description": "Pertama kali bertarung dengan BOSS",
+      "Pop Up Desc": "Rayakanlah kelah\niran sang raja!"
     },
     "UnlimitedBladeWaste": {
-      "Name": "Unlimited Blade Waste",
-      "Description": "Menghancurkan lebih dari 100 senjata",
-      "Pop Up Desc": [
-        "\\fs[22]\"Apa kamu punya cukup ",
-        "persediaan senjata?\""
-      ]
-    },
-    "IJustWitnessedAPricelessPieceOfFootage": {
-      "Name": "Aku baru saja menyaksikan rekaman yang tak ternilai.",
-      "Description": "Menyaksikan kelahiran Apple Fairy",
-      "Pop Up Desc": [
-        "\\fs[21]Aku baru saja menyaksikan",
-        "rekaman yang tak ternilai."
-      ]
-    },
-    "WhoNeedsAFishingRod": {
-      "Name": "Siapa butuh pancing?",
-      "Description": "Melempar 10 bom ke dalam air",
-      "Pop Up Desc": "\\fs[22]Siapa butuh pancing?"
-    },
-    "TheSwordSaintOfTheSticks": {
-      "Name": "Pendekar Pedang Tongkat",
-      "Description": "Hasil dari latihan pedang harian yang tekun",
-      "Pop Up Desc": "\\fs[18]Sang Pendekar Pedang Tongkat"
-    },
-    "ItWasToMeasureMyCapacity": {
-      "Name": "Itu untuk Mengukur Kapasitasku",
-      "Description": "Memperoleh kemampuan ninja",
-      "Pop Up Desc": [
-        "\\fs[22]\"ITU UNTUK MENGUKUR ",
-        "KAPASITASKU.\""
-      ]
+      "Name": "Makam Pedang Tak Terbatas",
+      "Description": "Merusak lebih dari 100 senjata",
+      "Pop Up Desc": "—Persediaan senja\ntanya masih cukup?"
     },
     "DonotYouEverStop": {
-      "Name": "Jangan pernah berhenti!",
+      "Name": "Jangan berhenti!",
       "Description": "Terus berlari dengan kecepatan super tinggi",
-      "Pop Up Desc": "Jangan pernah berhenti!"
-    },
-    "YouAreBeingSummoned": {
-      "Name": "◉▽◉ Sedang Memanggilmu!",
-      "Description": "Makhluk kuno ditemukan!",
-      "Pop Up Desc": "\\fs[18]◉▽◉ Sedang Memanggilmu!"
+      "Pop Up Desc": "Jangan berhenti!"
     },
     "YouTooCanBecomeLight": {
-      "Name": "Kamu juga bisa menjadi cahaya!",
-      "Description": "Kutukan Aki kambuh",
-      "Pop Up Desc": "\\fs[20]Kamu juga bisa menjadi cahaya!"
+      "Name": "Kau juga bisa menjadi cahaya!",
+      "Description": "Kutukan Aki telah aktif",
+      "Pop Up Desc": "Kau juga bisa \nmenjadi cahaya!"
     },
     "ObtainWornPanties": {
-      "Name": "Celana Dalam Baru Nggak Ada Harganya!",
-      "Description": "Menerima celana dalam dari Imouto~!",
-      "Pop Up Desc": "\\fs[18]Celana Dalam Baru Nggak Ada Harganya!"
-    },
-    "ErogameWithImouto": {
-      "Name": "Siscon Parah",
-      "Description": "Di kamar Imouto, pakai komputer Imouto untuk main game mesum tentang Imouto",
-      "Pop Up Desc": "Main game Imouto?"
-    },
-    "Milkeddry": {
-      "Name": "Diperah Kering...",
-      "Description": "Sudah... nggak ada setetes pun tersisa...",
+      "Name": "Celana dalam yang tak pernah dipakai itu tak ada harganya!",
+      "Description": "Menerima celana dalam dari adik perempuan~!",
       "Pop Up Desc": [
-        "\\fs[22]\"Sudah... ",
-        "nggak ada setetes pun tersisa...\""
+        "\\fs[24]Celana dalam yang tak pernah dipakai itu tak ada",
+        "harganya!"
       ]
     },
-    "StairwayToAdulthoodI": {
-      "Name": "Tangga Menuju Kedewasaan♥",
-      "Description": "Membuat Imouto membaca doujinshi mesum",
-      "Pop Up Desc": "Tangga Menuju Kedewasaan♥"
+    "ErogameWithImouto": {
+      "Name": "Siscon yang tak tertolong lagi",
+      "Description": "Bermain game mesum tentang adik di kamar adik, menggunakan komputer adik",
+      "Pop Up Desc": "Bermain game \nadik?"
     },
-    "StairwayToAdulthoodII": {
-      "Name": "Tangga Menuju Kedewasaan♥♥",
-      "Description": "Membuat Imouto menggunakan mainan seks",
-      "Pop Up Desc": "\\fs[22]Tangga Menuju Kedewasaan♥♥"
-    },
-    "StairwayToAdulthoodIII": {
-      "Name": "Tangga Menuju Kedewasaan♥♥♥",
-      "Description": "Mengajari Imouto kenikmatan seks",
-      "Pop Up Desc": "\\fs[20]Tangga Menuju Kedewasaan♥♥♥"
+    "Milkeddry": {
+      "Name": "Telah terkuras habis...",
+      "Description": "Sudah, tak tersisa setetes pun...",
+      "Pop Up Desc": [
+        "\\fs[24]「Sudah,",
+        "tak tersisa setetes pun...」"
+      ]
     }
   }
 }

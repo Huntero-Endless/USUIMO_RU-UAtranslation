@@ -51,6 +51,11 @@
       "Unlock the corresponding features by entering the correct cheat code!"
     ]
   },
+  "UnitINexus": {
+    "bossRespawnCountdown": "%1 will respawn in %2 days!",
+    "bossChallengeAvailable": "%1 has respawned!",
+    "noBossDetected": "No boss with \\ii[20] detected!"
+  },
   "warehouseIsFull": "Can't store any more items!",
   "cannotUseItem": "Can't use item now!",
   "bulkSelectButton": "Click to toggle bulk selection",

@@ -231,6 +231,53 @@
       "Final hit damage boost: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
     ]
   },
+  "21": {
+    "name": [
+      "Coordinate Detection"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Displays current map coordinates"
+    ]
+  },
+
+  "22": {
+    "name": [
+      "Relic Detection"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Displays the number of monsters and relics on the current map"
+    ]
+  },
+
+  "23": {
+    "name": [
+      "Boss Detection"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Displays the respawn status of challengeable bosses"
+    ]
+  },
+
+  "24": {
+    "name": [
+      "HP Detection"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Displays the HP information of targets when hit"
+    ]
+  },
   "26": {
     "name": [
       "Swordsmanship Training"
@@ -246,6 +293,20 @@
     "ability": [
       "Practice Swings Completed: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
       "Base attack damage of melee weapons increased by \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+    ]
+  },
+  "93": {
+    "name": [
+      "Vajra Thundercloud"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      ""
     ]
   }
 }

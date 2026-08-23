@@ -51,6 +51,11 @@
       "正确输入作弊码后即可解锁对应功能！"
     ]
   },
+  "UnitINexus": {
+    "bossRespawnCountdown": "%1将在%2天后再次复活！",
+    "bossChallengeAvailable": "%1已重新复活！",
+    "noBossDetected": "未检测到拥有\\ii[20]的头目！"
+  },
   "cannotUseItem": "当前无法使用道具！",
   "bulkSelectButton": "点击此按钮可以切换至批量选择物品",
   "warehouseIsFull": "不能再存放更多物品了！",

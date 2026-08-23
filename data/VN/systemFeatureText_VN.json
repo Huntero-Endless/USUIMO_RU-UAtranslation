@@ -2,7 +2,7 @@
 	"gameTitle": [
 		"Cuộc Sống Giản Dị Bên Em Gái Dịu Dàng Của Tôi "
 	],
-	"translationNotes": [
+	"translationNotes":  [
 		"Phiên bản tiếng Việt đã được hoàn thành!",
 		"Tuy nhiên, do một số đoạn hội thoại trong trò chơi vẫn chưa được trích xuất đầy đủ bởi nhà phát triển,",
 		"nên trong quá trình chơi có thể tạm thời xuất hiện văn bản tiếng Anh.",
@@ -10,13 +10,13 @@
 		"Cảm ơn những người đã dịch: ",
 		"Akamine Haruna",
 		"Nian Sprout"
-	],
+  	],	
 	"goldHeld": [
 		"Yen"
 	],
 	"numberDays": [
-		"DAY"
-	],
+    	"DAY"
+  	],
 	"tipSave": [
 		"Bạn có muốn truyền bản save từ phiên bản cũ không?",
 		"Bản game hiện tại đã tương thích với các tệp save từ phiến bản 0.22A trở lên."
@@ -72,8 +72,8 @@
 		"Khoá ở 60 FPS"
 	],
 	"ZakoMode": [
-		"Chế độ ZAKO"
-	],
+   		"Chế độ ZAKO"
+  	],
 	"Language": [
 		"Ngôn ngữ game"
 	],
@@ -96,7 +96,7 @@
 	"AnnouncementMenu": [
 		"Thông báo",
 		"Nhật ký thay đổi"
-	],
+  	],
 	"mvSaveToMzConvertConfirmText": [
 		"Đã phát hiện ${} tệp dữ liệu save từ phiên bản cũ hơn (phiên bản MV).",
 		"Bạn có muốn chuyển đổi các tệp save này sang định dạng của phiên bản MZ hiện tại ",
@@ -166,8 +166,8 @@
 		"Phát hiện ${} tệp cần cập nhật—bắt đầu quá trình tải xuống!"
 	],
 	"silentUpdateSuccess": [
-		"Nội dung bản vá mới cho ${} đã được cài đặt thành công và sẽ có hiệu lực sau lần khởi động lại tiếp theo."
-	],
+    	"Nội dung bản vá mới cho ${} đã được cài đặt thành công và sẽ có hiệu lực sau lần khởi động lại tiếp theo."
+  	],
 	"outdatedVersionWarning": [
 		"Phiên bản trò chơi hiện tại đã hết hạn. Phiên bản mới nhất là ${}.",
 		"Hiện đã hỗ trợ cập nhật tự động cho các bản cập nhật lớn, nhưng chỉ dành riêng cho người dùng đã xác minh quyền sở hữu game.",
@@ -187,7 +187,7 @@
 		"Game hiện đang chạy trên card đồ họa tích hợp!",
 		"Nếu PC của bạn có card đồ họa rời, chúng tôi khuyến nghị thiết lập Game.exe ",
 		"để sử dụng card đó trong graphics control panel để có trải nghiệm mượt mà hơn."
-	],
+	],  
 	"isAmdCPU": [
 		"Hệ thống phát hiện CPU của bạn là bộ xử lý AMD.",
 		"Một số chip AMD có thể gặp hiện tượng giật khung hình khi phát video VP9 (WebM) ",
@@ -233,7 +233,7 @@
 	"underwaterTreasuresCount": [
 		"Phát hiện Kho báu dưới nước đang ở gần"
 	],
-	"steamWishlist": [
+  	"steamWishlist": [
 		"Trang Steam của chúng tôi cuối cùng cũng đã mở!",
 		"Hãy thêm thêm tựa game vào Wishlist của bạn và ủng hộ bọn tôi nhé! (*´∀`)~♥",
 		"⬇Nhấn vào bên dưới để mở trang Steam."
@@ -277,13 +277,11 @@
 			"Vui lòng thử đăng nhập để xác minh rồi bắt đầu cập nhật lại,",
 			"hoặc gửi ảnh chụp màn hình này lên Discord của chúng tôi để được hỗ trợ!"
 		]
-	},
+  	},
 	"cloudSave": {
 		"title": "Lưu Trữ Đám Mây",
 		"lastSync": "Lần đồng bộ cuối: ",
 		"neverSynced": "Chưa từng đồng bộ",
-		"nextUploadIn": "(Có thể tải lên lần tiếp theo sau %1 giờ %2 phút)",
-		"nextSaveWillUpload": "(Dữ liệu save trên đám mây sẽ tự động được tải lên vào lần tiếp theo bạn lưu game)",
 		"loading": "Đang tải danh sách save trên đám mây...",
 		"hint": "Tải xuống một tệp save trên đám mây hoặc dùng nút phía trên để đồng bộ tất cả (sẽ ghi đè các ô save cục bộ trùng khớp)",
 		"empty": "Không tìm thấy tệp save nào trên đám mây!",
@@ -328,7 +326,7 @@
 		"statusSynced": "Đã Đồng Bộ"
 	},
 	"minimapName": {
-		"5": "Hầm Mộ Bị Lãng Quên: Tầng Dưới",
+		"5": "Hầm Mộ Bị Lãng Quên: Tầng Dưới", 
 		"9": "Vùng Đất Ngủ Say…",
 		"10": "Khu Rừng Tàn Tích",
 		"13": "Khu Rừng Tàn Tích",
@@ -356,40 +354,36 @@
 		"62": "Lối Mòn Mạo Hiểm Giả: Rừng Nhỏ"
 	},
 	"AdventurersPathway": {
-		"mapName": "Lối Mòn Mạo Hiểm Giả"
-	},
-	"ShallowRuinsLabyrinth": {
-		"mapName": "Mê Cung Tàn Tích Tầng Nông",
+    	"mapName": "Lối Mòn Mạo Hiểm Giả"
+  	},
+  	"ShallowRuinsLabyrinth": {
+    	"mapName": "Mê Cung Tàn Tích Tầng Nông",
 		"mapDescription": "Một mê cung rộng lớn chứa đầy những bí ẩn vô tận"
-	},
-	"ForgottenCatacombe": {
-		"mapName": "Hầm Mộ Bị Lãng Quên"
-	},
-	"ForestofRuins": {
-		"mapName": "Khu Rừng Tàn Tích"
-	},
-	"AbandonedForest": {
-		"mapName": "Khu Rừng Lạc Lối"
-	},
-	"ExcavationSite": {
-		"mapName": "Khu Vực Khai Thác"
-	},
-	"TheFallenChurch": {
-		"mapName": "Thánh Đường Sa Ngã",
+ 	},
+  	"ForgottenCatacombe": {
+    	"mapName": "Hầm Mộ Bị Lãng Quên"
+  	},
+  	"ForestofRuins": {
+    	"mapName": "Khu Rừng Tàn Tích"
+  	},
+  	"AbandonedForest": {
+    	"mapName": "Khu Rừng Lạc Lối"
+  	},
+  	"ExcavationSite": {
+    	"mapName": "Khu Vực Khai Thác"
+  	},
+  	"TheFallenChurch": {
+    	"mapName": "Thánh Đường Sa Ngã",
 		"mapDescription": "Con cừu đáng yêu của ta! Sao ngươi lại bỏ rơi ta?"
-	},
-	"ThePureChurch": {
-		"mapName": "Thánh đường Thuần Khiết",
-		"mapDescription": "Phước lành cho những ai có tâm hồn trong sạch, vì họ sẽ được nhìn thấy Thiên Chúa."
-	},
-	"DoorofStar": {
-		"mapName": "Cửa Thiên Tinh"
-	},
-	"ScorchingLavaZone": {
-		"mapName": "Vành Đai Hoả Ngục",
+  	},
+  	"DoorofStar": {
+    	"mapName": "Cửa Thiên Tinh"
+  	},
+  	"ScorchingLavaZone": {
+    	"mapName": "Vành Đai Hoả Ngục",
 		"mapDescription": "Một vùng đất bừng cháy được dệt nên từ lửa, nơi những thử thách thiêu đốt vĩnh hằng"
-	},
-	"Nibelungen": {
-		"mapName": "Vùng Đất Nibelungen"
-	}
+  	},
+  	"Nibelungen": {
+    	"mapName": "Vùng Đất Nibelungen"
+  	}
 }

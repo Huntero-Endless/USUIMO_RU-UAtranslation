@@ -501,6 +501,26 @@
       "Attacks while activated have a chance to unleash a sword wave"
     ]
   },
+  "38": {
+    "name": [
+      "Kamui"
+    ],
+    "subtitle": [
+      "\"Ah Rain! Wash away everything, and drive all things before you!\""
+    ],
+    "description": [
+      "A staff so light it feels almost weightless, ",
+      "its shaft entwined with soft, ever flowing clouds",
+      "Simply channel magic into it to summon thunder and torrential rain, ",
+      "concealing enough power to unleash a natural disaster"
+    ],
+    "ability": [
+      "Fires plasma bolts that link to nearby enemies, creating chains of lightning",
+      "Hold left mouse button to cast \\is[93]",
+      "\\is[93] persists and automatically strikes nearby enemies",
+      "During rainy weather, all effects of the staff are greatly enhanced"
+    ]
+  },
   "40": {
     "name": [
       "Anti-Bullying Hammer"

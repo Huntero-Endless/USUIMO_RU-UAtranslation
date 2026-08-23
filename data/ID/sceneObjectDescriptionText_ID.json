@@ -1,118 +1,127 @@
 {
   "0": [
-    "✦Sebuah mug yang disukai \\str[120], ",
-    "dengan desain kelinci yang aneh. ",
-    "Tampaknya ini bestseller di NLCH."
+    "✦Cangkir kesukaan \\str[120], dengan pola kelinci",
+    "aneh di atasnya, Sepertinya ini produk",
+    "terlaris dari Pesta Teh Arus Balik..."
   ],
   "1": [
-    "✦Lentera kecil peninggalan Ayah,",
-    "tampaknya alat alkimia.",
-    "Sangat awet meski sudah tua dan ",
-    "memancarkan cahaya hangat yang menenangkan."
+    "✦Lentera peninggalan Ayah, sepertinya",
+    "adalah perlengkapan sihir. Sudah sangat",
+    "tua, tapi masih sangat awet, Cahaya",
+    "yang dipancarkannya sangat hangat."
   ],
   "2": [
-    "✦Lampu tidur mungil yang imut dengan cahaya lembut,",
-    "sempurna untuk dinyalakan saat bangun",
-    "untuk ke kamar mandi di malam hari. "
+    "✦Lampu tidur kecil dengan bentuk yang",
+    "sangat lucu, Cahayanya sangat lembut,",
+    "cocok dinyalakan saat terbangun di",
+    "malam hari untuk ke toilet."
   ],
   "3": [
-    "✦Tanaman berdaun bernama “Ficus umbellata”.",
-    "Ia tumbuh subur, dan tampaknya \\str[120] ",
-    "merawatnya dengan sangat teliti setiap hari."
+    "✦Sejenis tanaman hias daun bernama Rong",
+    "Zhuling. Tumbuh sangat subur,",
+    "sepertinya \\str[120] merawatnya dengan telaten",
+    "setiap hari."
   ],
   "4": [
-    "✦Tanaman berdaun bernama “Pothos”.",
-    "Tampaknya tidak terlalu sehat,  ",
-    "jadi \\str[120] menaruhnya di dekat jendela.",
-    "Haruskah kubilang padanya bahwa pothos sebenarnya ",
-    "tidak suka sinar matahari...? "
+    "✦Sejenis tanaman hias daun bernama Sirih Gading.",
+    "Karena terlihat tidak tumbuh subur, \\str[120] ",
+    "meletakkannya di dekat jendela, Haruskah aku ",
+    "mengingatkan \\str[120], bahwa Sirih Gading sebenarnya ",
+    "tidak suka sinar matahari...?"
   ],
   "5": [
-    "✦Beberapa buku yang dipilih \\str[120] ",
-    "dari ruang kerja Ayah.",
-    "Kebanyakan buku filsafat dan ",
-    "benar-benar tidak bisa dimengerti.  "
+    "✦Beberapa buku yang \\str[120] pilih dari ruang",
+    "kerja Ayah, Hampir semuanya buku-buku",
+    "filsafat, sama sekali tidak",
+    "kumengerti..."
   ],
   "6": [
-    "✦Memungut ranting birch kering di ",
-    "jalan pulang —kupikir kelihatannya keren, ",
-    "jadi kutunjukkan ke \\str[120].",
-    "Ia dengan hati-hati menaruhnya di vas."
+    "✦Ranting pohon birch kering yang",
+    "kutemukan di jalan pulang, Karena",
+    "kupikir itu keren, kubawa pulang untuk",
+    "ditunjukkan pada \\str[120], Ternyata \\str[120]",
+    "menyimpannya dengan hati-hati di dalam",
+    "vas bunga."
   ],
   "7": [
-    "✦Sketsa burung yang digambar \\str[120], ",
-    "tampaknya berdasarkan burung yang ia lihat ",
-    "sambil memandang ke luar jendela."
+    "✦Sketsa burung yang digambar \\str[120],",
+    "Sepertinya ditemukan saat mengamati",
+    "sekitar melalui jendela."
   ],
   "8": [
-    "✦Kipas kecil tua dengan hembusan yang lemah. ",
-    "Kamu harus mendekat sekali untuk ",
-    "merasakan angin sejuknya.  "
+    "✦Kipas angin kecil yang modelnya sudah",
+    "tua dan hembusan anginnya tidak terlalu",
+    "kuat, Harus mendekat sedikit agar bisa",
+    "merasakan angin sejuk."
   ],
   "9": [
-    "✦Hairdryer canggih dengan ",
-    "hembusan yang luar biasa kuat.",
-    "Kalau diarahkan ke wajah, terasa",
-    "seperti anginnya bisa mengupas kulitmu."
+    "✦Pengering rambut model terbaru,",
+    "anginnya sangat kuat. Jika diarahkan ke",
+    "wajah, kulitku rasanya akan terangkat",
+    "oleh angin kencang itu…"
   ],
   "10": [
-    "✦Bak mandi dengan pengaturan suhu ",
-    "yang bisa disetel, tapi dengan rentang 99°C sampai -10°C...",
-    "Apa itu benar-benar oke?  "
+    "✦Suhu bak mandi bisa diatur,",
+    "tapi suhu tertinggi 99 derajat,",
+    "terendah -10 derajat… Rentang suhu",
+    "seperti ini, apa benar tidak masalah!?"
   ],
   "11": [
-    "✦Shampo beraroma buah yang disukai \\str[120].",
-    "Membuat rambutnya super lembut, ",
-    "tapi cepat banget habisnya.",
-    "Sisa Sekarang:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
+    "✦Sampo beraroma buah kesukaan \\str[120],",
+    "setelah keramas rambut jadi sangat",
+    "lembut. Kekurangannya, cepat habis…",
+    "Sisa saat ini:",
+    "\\c[20]${$gameSelfVariables.value([6, 8,",
+    "'shampoo'])}%"
   ],
   "12": [
-    "✦Sepertinya ini pakaian ",
-    "yang baru saja dilepas \\str[120]...",
-    "Dilipat dengan rapi."
+    "✦Sepertinya ini pakaian yang baru saja",
+    "dilepas \\str[120]… Dilipat rapi dan diletakkan",
+    "bersama."
   ],
   "13": [
-    "✦Konsol game legendaris yang kini sangat langka.",
-    "Memilikinya akan membuatmu jadi legenda di kalangan gamer.  "
+    "✦Konsol game legendaris, sekarang sudah",
+    "sangat langka, jika aku bisa",
+    "mendapatkannya, aku pasti akan jadi",
+    "legenda di kalangan pemain."
   ],
   "14": [
-    "✦Boneka hadiah dari Ayah untuk \\str[120] ",
-    "di hari ulang tahunnya. Ia sangat menyimpannya ",
-    "dan selalu menjaganya di sisinya."
+    "✦Boneka yang diberikan ayah kepada \\str[120]",
+    "saat ulang tahun \\str[120], \\str[120] sangat menghargai",
+    "boneka ini, selalu menyimpannya di",
+    "dekatnya."
   ],
   "15": [
-    "\\fr\\fs[20]\\c[10]Lingkaran Sihir yang Hilang",
+    "Lingkaran sihir yang ditinggalkan \\fr\\fs[20]\\c[10]",
     "\\fs[22]\\i[16]???\\fr",
-    "✦Ruang Dunia Lain yang diciptakan oleh ",
-    "kartu sihir warisan dari Ayah.",
-    "Sepenuhnya tak terpengaruh waktu, ",
-    "item yang disimpan di sini tidak akan pernah hilang.",
-    "Lingkaran ini juga terhubung dengan pintu masuk rumah,",
-    "memungkinkan kepulangan yang stabil dan aman.",
-    "Apakah ini sengaja dirancang oleh Ayah, ",
-    "yang meramal anaknya pasti akan turun ",
-    "ke dalam abyss, kini tak lagi diketahui..."
+    "✦Ini adalah dimensi lain yang tercipta dari kartu sihir warisan",
+    "ayah. Benar-benar terisolasi dari pengaruh ruang dan waktu,",
+    "benda apa pun yang disimpan di sini tidak akan lenyap. Lingkaran",
+    "sihir ini juga terhubung dengan pintu masuk rumah, mampu",
+    "mengantarku pulang dengan aman dan stabil. Apakah ini memang",
+    "sengaja dirancang ayah karena ia meramalkan aku pasti akan",
+    "jatuh ke jurang di masa depan, Kini tak seorang pun tahu..."
   ],
   "16": [
-    "\\fr\\fs[28]\\c[114]Labirin Agung",
-    "\\fr\\{\\i[16]400 \\fr",
-    "✦Konon koridor ini, ",
-    "yang ditinggalkan para dewa, membentang tanpa batas di sini.",
-    "Di bawah kubah yang runtuh dan tanaman kuno yang melilit ",
-    "masih tersisa sinar peradaban yang hilang.",
-    "Petualang yang tak terhitung sudah melangkah masuk,",
-    "tak pernah kembali— Labirin ini tidak menolak siapa pun.",
-    "Ia hanya memutuskan siapa yang boleh keluar."
+    "\\fr\\fs[28]\\c[114] Labirin Agung",
+    "\\fr\\fs[22]\\i[16]400", 
+    "✦ Konon, koridor yang ditinggalkan para dewa membentang tak terbatas di",
+    "sini. Di bawah kubah yang runtuh dan lilitan sulur kuno, masih tersisa",
+    "cahaya peradaban yang hilang. Petualang yang tak terhitung jumlahnya melangkah",
+    "masuk, namun tak pernah kembali lagi... Labirin takkan menolak siapa pun yang",
+    "datang, hanya akan memutuskan siapa yang bisa pergi."
   ],
   "17": [
-    "✦TV 85 inci dengan teknologi terbaru dan kualitas gambar yang sangat bagus.",
-    "Namun, ia tidak menerima banyak saluran ",
-    "siaran. Untuk menonton acara yang lebih menarik,",
-    "harus cari kaset video entah gimana caranya."
+    "✦ TV 85 inci yang dibuat dengan teknologi terbaru,",
+    "kualitas gambarnya sangat bagus, Namun, ",
+    "sinyal saluran TV yang biasa diterima tidak banyak,",
+    "untuk menonton lebih banyak acara menarik,",
+    "kau harus mencari cara untuk mendapatkan kaset video."
   ],
   "18": [
-    "✦Celana dalam yang baru saja dilepas \\str[120].",
-    "Masih hangat karena tubuhnya, dan bagian kecil ",
-    "kain di tengahnya tampak basah kuyup."
+    "✦\\str[120] Celana dalam yang baru saja dilepas.",
+    "Suhu tubuhnya masih tersisa, dan",
+    "sehelai kain kecil di tengahnya",
+    "terlihat basah."
   ]
 }

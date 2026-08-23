@@ -2,6 +2,26 @@
   "gameTitle": [
     "A Simple Life with My Unobtrusive Girl "
   ],
+  "versionAnnotation": {
+    "majorTitle": "Major Version ${}",
+    "majorBody": [
+      "The major version changes when new events and gameplay are added",
+      "Log in with a verified account to get the new version",
+      "Or manually download the latest version from the store"
+    ],
+    "patchTitle": "Minor Patch ${}",
+    "patchBody": [
+      "Regular bug fixes and gameplay improvements",
+      "Some experimental content may also be added through patches",
+      "You will receive an in-game notice when a patch is released"
+    ],
+    "revisionTitle": "Revision ${}",
+    "revisionBody": [
+      "Frequent update pop-ups aren't very elegant",
+      "Urgent fixes and minor changes will be applied silently",
+      "Restart the game after a silent update to load the latest data"
+    ]
+  },  
   "goldHeld": [
     "Gold"
   ],
@@ -375,7 +395,7 @@
   "ThePureChurch": {
     "mapName": "The Pure Church",
     "mapDescription": "Blessed are the pure in heart, for they shall see God."
-  },   
+  },
   "DoorofStar": {
     "mapName": "Door of Star"
   },

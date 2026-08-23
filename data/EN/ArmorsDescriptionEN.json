@@ -394,8 +394,8 @@
       "For humans, it is a force far too difficult to control"
     ],
     "ability": [
-      "Physical attack power +100%. Attack speed decreases",
-      "Weapons are more likely to break during attacks"
+      "Greatly increases physical attack, but increases durability consumption",
+      "Deals extra damage when the weapon nears breaking"
     ]
   },
   "29": {
@@ -1137,8 +1137,7 @@
       "it still shows incredible computational and sensing power"
     ],
     "ability": [
-      "Grants area detection when equipped",
-      "Detected object types increase as the core's level rises"
+      "When specific items are equipped, It automatically absorbs them to enhance itself"
     ]
   },
   "125": {
