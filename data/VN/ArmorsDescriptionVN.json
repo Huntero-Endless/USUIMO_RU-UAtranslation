@@ -398,8 +398,8 @@
 			"Đối với con người, đây là một sức mạnh quá khó để kiểm soát"
         ],
         "ability": [
-            "Sức tấn công vật lý +100%. Tốc độ tấn công giảm",
-            "Vũ khí dễ bị hỏng khi tấn công"
+            "Tăng mạnh sát thương vật lý, nhưng làm tăng mức tiêu hao độ bền",
+            "Gây thêm sát thương khi vũ khí sắp hỏng"
         ]
     },
     "29": {
@@ -1141,8 +1141,7 @@
             "nó vẫn thể hiện khả năng tính toán và cảm ứng phi thường."
         ],
         "ability": [
-            "Khi trang bị, cho phép phát hiện khu vực",
-            "Loại đối tượng có thể phát hiện sẽ tăng lên khi lõi được nâng cấp."
+            "Khi trang bị một số vật phẩm nhất định sẽ tự động hấp thụ để cường hóa"
         ]
     },
     "125": {

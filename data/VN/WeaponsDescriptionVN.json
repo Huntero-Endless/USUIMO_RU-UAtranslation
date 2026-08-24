@@ -504,6 +504,26 @@
             "Các đòn tấn công trong trạng thái thức tỉnh có xác suất phóng ra kiếm khí"
         ]
     },
+    "38": {
+        "name": [
+            "Thần Uy"
+        ],
+        "subtitle": [
+            "\"Hỡi Mưa! Hãy cuốn trôi tất cả và quét sạch vạn vật trước dòng chảy của ngươi!\""
+        ],
+        "description": [
+            "Một cây trượng nhẹ đến mức gần như không có trọng lượng, ",
+            "với thân trượng được quấn quanh bởi những đám mây mềm mại đang chuyển động",
+            "Chỉ cần truyền ma lực vào nó là có thể triệu hồi sấm sét và mưa như trút nước, ",
+            "ẩn chứa sức mạnh đủ để giáng xuống một thảm họa thiên nhiên"
+        ],
+        "ability": [
+            "Bắn ra các tia plasma liên kết với những kẻ địch ở gần, tạo thành chuỗi sét",
+            "Giữ chuột trái để thi triển \\is[93]",
+            "Tồn tại trong một khoảng thời gian và tự động tấn công những kẻ địch ở gần",
+            "Khi trời mưa, tất cả hiệu ứng của cây trượng sẽ được cường hóa đáng kể"
+        ]
+    },
     "40": {
         "name": [
             "Búa Chống Bắt Nạt"

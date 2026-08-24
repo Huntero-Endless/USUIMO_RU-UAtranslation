@@ -11,6 +11,26 @@
 		"Akamine Haruna",
 		"Nian Sprout"
 	],
+	"versionAnnotation": {
+		"majorTitle": "Phiên Bản Chính ${}",
+		"majorBody": [
+			"Phiên bản chính sẽ thay đổi khi có thêm sự kiện và nội dung gameplay mới",
+			"Đăng nhập bằng tài khoản đã xác minh để nhận phiên bản mới",
+			"Hoặc tải thủ công phiên bản mới nhất từ cửa hàng"
+		],
+		"patchTitle": "Bản Vá Nhỏ ${}",
+		"patchBody": [
+			"Sửa lỗi và cải thiện gameplay định kỳ",
+			"Một số nội dung thử nghiệm cũng có thể được bổ sung thông qua các bản vá",
+			"Bạn sẽ nhận được thông báo trong game khi có bản vá mới"
+		],
+		"revisionTitle": "Bản chỉnh sửa ${}",
+		"revisionBody": [
+			"Việc liên tục xuất hiện cửa sổ thông báo cập nhật trông không được đẹp mắt cho lắm",
+			"Các bản sửa lỗi khẩn cấp và thay đổi nhỏ sẽ được áp dụng âm thầm",
+			"Hãy khởi động lại game sau khi cập nhật âm thầm để tải dữ liệu mới nhất"
+		]
+	},
 	"goldHeld": [
 		"Yen"
 	],

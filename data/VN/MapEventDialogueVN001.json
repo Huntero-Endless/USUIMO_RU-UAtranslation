@@ -961,13 +961,13 @@
 	},    
 	"40": {
 		"objectName": [
-			"Đấng Thống Trị Bát Túc"
+			"Đấng Thống Trị Xúc Tu"
 		],
 		"subtitle": [
 			"Cư ngụ dưới Hải Vực"
 		],
 		"bossName": [
-			"Đấng Thống Trị Bát Túc"
+			"Đấng Thống Trị Xúc Tu"
 		],
 		"sentouryoku": [
 			"8600"
@@ -1601,7 +1601,7 @@
 			"Không mua..."
         ],
         "49": [
-		    "Thật sự, ZAKO Onii-san, ",
+		    "Thật sự đấy, ZAKO Onii-san, ",
 			"ngay cả não anh cũng ZAKO luôn à~? ",
 			"Chỉ có mấy con cá mà cũng không kiếm được... ",
 			"thật vô dụng♥ "
@@ -1611,7 +1611,7 @@
 			"Không có gì ngạc nhiên khi anh vẫn độc thân và còn trinh~ "
         ],
 		"50.1": [
-			"Không tiền, không cá hồi, thật là một Onii-san yếu ớt thảm hại~",
+			"\\fs[35]Không tiền, không cá hồi, thật là một Onii-san yếu ớt thảm hại~",
 			"Mặc dù anh đã mất trinh đi chăng nữa ",
 			"Anh vẫn đúng là một Zako rác rưởi, ",
 			"huh♥ Tội nghiệp chưa kìa♥ Nyahaha♥"
