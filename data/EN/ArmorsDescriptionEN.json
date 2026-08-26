@@ -48,15 +48,15 @@
     ],
     "subtitle": "",
     "description": [
-        "Boots crafted from thick hide and wooden soles, ",
-        "lined with a soft fur layer to muffle every footstep",
-        "Silent movement is the hunter's first step"
+      "Boots crafted from thick hide and wooden soles, ",
+      "lined with a soft fur layer to muffle every footstep",
+      "Silent movement is the hunter's first step"
     ],
     "ability": [
       "Increases movement speed while drawing the bow",
       "Grants \\ss[10] skill effect while equipped"
     ]
-  },  
+  },
   "5": {
     "name": [
       "Safety Gloves"
@@ -989,7 +989,7 @@
       "Immune to Burning and Heatstroke states",
       "Increases shatter damage dealt when breaking an enemy's Frozen state"
     ]
-  }, 
+  },
   "72": {
     "name": [
       "Phantom Crystal Wings"
@@ -1004,7 +1004,7 @@
       "Reduces fall damage by 40%",
       "Equipping it boosts casting speed and magic power"
     ]
-  },    
+  },
   "73": {
     "name": [
       "Lava Ring"
@@ -1066,7 +1066,7 @@
       "Increases attack and movement speed in waterlogged states or water areas",
       "Increases monster detection chance, but also has a chance to terrify them"
     ]
-  },  
+  },
   "77": {
     "name": [
       "A Maiden's Prayer"
@@ -1096,7 +1096,7 @@
       "Attacking or chanting with a staff activates the spirit's blessing",
       "While blessed, attack speed, movement speed, and magic defense increase"
     ]
-  },  
+  },
   "79": {
     "name": [
       "Demon Slate"
@@ -1111,7 +1111,7 @@
       "Releases a shockwave to counter surrounding enemies when taking damage",
       "Releases a healing wave that heals surrounding enemies when healed"
     ]
-  },  
+  },
   "80": {
     "name": [
       "Royal Decree"
@@ -1124,6 +1124,20 @@
     "ability": [
       "Slightly increases all stats",
       "Enlarges all servants and enhances their special attributes"
+    ]
+  },
+  "82": {
+    "name": [
+      "Viperheart"
+    ],
+    "subtitle": "",
+    "description": [
+      "An eerie ring shaped from a venomous serpent biting its own tail",
+      "Its poison circulates endlessly within, never fading away",
+      "In the end, the serpent spared not even itself, and its venom became eternal"
+    ],
+    "ability": [
+      ""
     ]
   },
   "100": {
@@ -1355,7 +1369,7 @@
       "Immune to fall damage",
       "Final damage taken reduced by 60%"
     ]
-  },    
+  },
   "296": {
     "name": [
       "Ruika's Lucky Mallet"

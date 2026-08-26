@@ -387,7 +387,7 @@
       "small creatures, and is said to also deodorize and disinfect"
     ],
     "ability": [
-      "Hold left mouse button to cast Extermination Magic"
+      "Hold left mouse button to cast \\is[82]"
     ]
   },
   "30": {
@@ -516,9 +516,7 @@
     ],
     "ability": [
       "Fires plasma bolts that link to nearby enemies, creating chains of lightning",
-      "Hold left mouse button to cast \\is[93]",
-      "\\is[93] persists and automatically strikes nearby enemies",
-      "During rainy weather, all effects of the staff are greatly enhanced"
+      "Hold left mouse button to cast \\is[93]"
     ]
   },
   "40": {

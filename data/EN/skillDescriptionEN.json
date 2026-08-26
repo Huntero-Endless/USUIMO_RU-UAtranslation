@@ -242,7 +242,6 @@
       "Displays current map coordinates"
     ]
   },
-
   "22": {
     "name": [
       "Relic Detection"
@@ -254,7 +253,6 @@
       "Displays the number of monsters and relics on the current map"
     ]
   },
-
   "23": {
     "name": [
       "Boss Detection"
@@ -266,7 +264,6 @@
       "Displays the respawn status of challengeable bosses"
     ]
   },
-
   "24": {
     "name": [
       "HP Detection"
@@ -295,6 +292,31 @@
       "Base attack damage of melee weapons increased by \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
     ]
   },
+  "82": {
+    "name": [
+      "Extermination Magic"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Sprays a poisonous mist highly effective against pests",
+      "Higher Magic Attack increases the additional poison damage",
+      "Poison mist lingers briefly and explodes when exposed to fire"
+    ]
+  },
+  "87": {
+    "name": [
+      "Potent Poison"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Repeated poisoning increases accumulated poison damage by 40%",
+      "Each poison damage trigger increases accumulated poison damage by 40%"
+    ]
+  },
   "93": {
     "name": [
       "Vajra Thundercloud"
@@ -306,7 +328,8 @@
       ""
     ],
     "ability": [
-      ""
+      "\\is[93] persists and automatically strikes nearby enemies",
+      "During rainy weather, all effects of the staff are greatly enhanced"
     ]
   }
 }
