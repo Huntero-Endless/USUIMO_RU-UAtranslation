@@ -164,8 +164,8 @@
             "Vuốt Mèo Vay Mượn"
         ],
         "subtitle": [
-            " \"...Meo~?\""		
-		],
+            " \"...Meo~?\""
+        ],
         "description": [
             "Bộ vuốt Mèo ẩn giấu bên trong một con Slime Mèo, dường như đã được",
             "chứa đựng linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
@@ -180,8 +180,8 @@
             "Chân Mèo Vay Mượn"
         ],
         "subtitle": [
-            " \"...Meo~?\""	
-		],
+            " \"...Meo~?\""
+        ],
         "description": [
             "Những vuốt chân Mèo ẩn giấu bên trong một con Slime Mèo, dường như đã ",
             "được chứa đựng linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
@@ -357,19 +357,19 @@
     "26": {
         "name": [
             "Lông Vũ Hoả Điểu"
-		],
-		"subtitle": [
-		    ""
-		],
+        ],
+        "subtitle": [
+            ""
+        ],
         "description": [
             "Một chiếc lông vũ của Hoả Điểu.",
-			"Biểu tượng của sự sống vĩnh hằng, vẫn cháy rực với ngọn lửa ấm áp.",
-			"Chỉ một chiếc lông của nó cũng mang sức mạnh hồi sinh kẻ đã khuất."
-		],
+            "Biểu tượng của sự sống vĩnh hằng, vẫn cháy rực với ngọn lửa ấm áp.",
+            "Chỉ một chiếc lông của nó cũng mang sức mạnh hồi sinh kẻ đã khuất."
+        ],
         "ability": [
             "Kích hoạt khi HP giảm xuống 0, hồi phục lại toàn bộ HP",
-			"Vật phẩm sẽ biến mất sau khi kích hoạt"
-		]
+            "Vật phẩm sẽ biến mất sau khi kích hoạt"
+        ]
     },
     "27": {
         "name": [
@@ -394,8 +394,8 @@
         ],
         "description": [
             "Một cánh tay khổng lồ tràn đầy sức mạnh thô bạo của tộc Quỷ",
-			"Nó tượng trưng cho uy lực dữ dội đến mức có thể dễ dàng nghiền nát cả đá tảng",
-			"Đối với con người, đây là một sức mạnh quá khó để kiểm soát"
+            "Nó tượng trưng cho uy lực dữ dội đến mức có thể dễ dàng nghiền nát cả đá tảng",
+            "Đối với con người, đây là một sức mạnh quá khó để kiểm soát"
         ],
         "ability": [
             "Tăng mạnh sát thương vật lý, nhưng làm tăng mức tiêu hao độ bền",
@@ -407,8 +407,8 @@
             "Jacky Nghịch Ngợm"
         ],
         "subtitle": [
-            "\"Thứ này khao khát những tiếng gào thét...\""		
-		],
+            "\"Thứ này khao khát những tiếng gào thét...\""
+        ],
         "description": [
             "Một trong những vũ khí chết chóc của kẻ sát nhân khét tiếng,",
             "vẫn còn run rẩy trong sự háo hức"
@@ -592,8 +592,8 @@
             "Linh Hồn Ma Hoả"
         ],
         "subtitle": [
-            "\"Ẹc sờ bờ lô————siần!!\""		
-		],
+            "\"Ẹc sờ bờ lô————siần!!\""
+        ],
         "description": [
             "Một ý chí đã hi sinh tất cả vì những vụ nổ",
             "Giờ đây chẳng lẽ ngươi không muốn tạo ra những vụ nổ lớn hơn sao?"
@@ -641,8 +641,8 @@
             "Vòng Quay Độc Tử"
         ],
         "subtitle": [
-            "\"Con dao găm này đã tẩm đầy kịch độc đấy, biết không— (liếm\""		
-		],
+            "\"Con dao găm này đã tẩm đầy kịch độc đấy, biết không— (liếm\""
+        ],
         "description": [
             "Một thanh đoản kiếm ma thuật tẩm độc—hãy giữ khoảng cách"
         ],
@@ -706,12 +706,12 @@
         ],
         "description": [
             "Một chiếc sừng đỏ thẫm chứa đầy ma lực của Jackalope",
-			"Nếu có thể cung cấp ma lực vô hạn, nó có thể liên tục tăng tốc ",
-			"cho đến khi trở thành một ngôi sao chổi lao vụt qua bầu trời!"
+            "Nếu có thể cung cấp ma lực vô hạn, nó có thể liên tục tăng tốc ",
+            "cho đến khi trở thành một ngôi sao chổi lao vụt qua bầu trời!"
         ],
         "ability": [
             "Khi nạp đầy, Thiểm Bộ không có thời gian hồi và di chuyển nhanh hơn",
-			"Khi năng lượng cạn, nó sẽ tự động nạp lại"
+            "Khi năng lượng cạn, nó sẽ tự động nạp lại"
         ]
     },
     "50": {
@@ -748,13 +748,13 @@
         ],
         "subtitle": "",
         "description": [
-            "Tương truyền đây là biểu tượng đến từ Vực Sâu nơi bóng tối",
-            "đang lan rộng. Chỉ cần cầm nó, bạn sẽ có cảm giác như có thứ gì đó ",
-			"đang âm thầm quẫy động sau lưng mình—"
+            "Tương truyền đây là biểu tượng đến từ Vực Sâu trong bóng tối đang lan rộng",
+            "Chỉ cần cầm nó, bạn sẽ có cảm giác như có thứ gì đó ",
+            "đang âm thầm quẫy động sau lưng mình—"
         ],
         "ability": [
             "Tăng tốc độ di chuyển",
-			"Thu hút sự chú ý của ▓▓▓▓▓▓▓"
+            "Thu hút sự chú ý của ▓▓▓▓▓▓▓"
         ]
     },
     "53": {
@@ -791,8 +791,8 @@
             "Găng Tay Hoả Ngục"
         ],
         "subtitle": [
-            "\"Ha, pháo hoa kinh tởm thật đấy.\""		
-		],
+            "\"Ha, pháo hoa kinh tởm thật đấy.\""
+        ],
         "description": [
             "Găng tay dày, chịu nhiệt, tỏa mùi thuốc súng nồng nặc"
         ],
@@ -806,8 +806,8 @@
             "Lòng Thương Xót Của Thánh Nữ"
         ],
         "subtitle": [
-            "\"Đứa trẻ ngoan, đứa trẻ ngoan...\""		
-		],
+            "\"Đứa trẻ ngoan, đứa trẻ ngoan...\""
+        ],
         "description": [
             "Một trong những bộ trang phục của nữ tu, mềm mượt như lụa, khó quên",
             "Ánh sáng thánh lan tỏa qua từng sợi vải, mang lại sự an ủi"
@@ -842,12 +842,12 @@
             ""
         ],
         "description": [
-		    "Báu vật quý giá của Phù Thủy Sa Ngã. ",
+            "Báu vật quý giá của Phù Thủy Sa Ngã. ",
             "Một mặt dây chuyền chế tác từ một lượng nhỏ Mảnh Hiền Triết, ",
-			"thấm đẫm nguồn sức mạnh giả kim tuy mờ nhạt nhưng vĩnh cửu"
+            "thấm đẫm nguồn sức mạnh giả kim tuy mờ nhạt nhưng vĩnh cửu"
         ],
         "ability": [
-		    "Tăng sát thương ma thuật dựa trên số lượng Mảnh Hiền Triết",
+            "Tăng sát thương ma thuật dựa trên số lượng Mảnh Hiền Triết",
             "Giảm \\c[6]24%\\c[0] hao mòn vũ khí khi thi triển ma thuật"
         ]
     },
@@ -910,8 +910,8 @@
             "Băng Đô Kiên Định"
         ],
         "subtitle": [
-            "\"Mày có biết bố mày là ai không!?\""		
-		],
+            "\"Mày có biết bố mày là ai không!?\""
+        ],
         "description": [
             "Một chiếc băng đô khơi dậy nhiệt huyết khi đeo vào",
             "Không có hiệu quả thực sự, nhưng tinh thần kiên cường của nó thì vô song"
@@ -951,18 +951,18 @@
     "69": {
         "name": [
             "Găng Tay Huỷ Dung"
-		],
-		"subtitle": [
-		    "\"Chết tiệt... Tao chỉ muốn đấm vào mặt ai đó thôi...!\""
-		],
+        ],
+        "subtitle": [
+            "\"Chết tiệt... Tao chỉ muốn đấm vào mặt ai đó thôi...!\""
+        ],
         "description": [
             "Găng đấm còn sót lại của một tay đấm huyền thoại.",
-			"Bạn vẫn có thể cảm nhận được sức mạnh áp đảo còn lưu lại trên chúng."
-		],
+            "Bạn vẫn có thể cảm nhận được sức mạnh áp đảo còn lưu lại trên chúng."
+        ],
         "ability": [
             "Không thể sử dụng vũ khí khi trang bị",
-			"Đòn đấm có thể gây sát thương bổ sung dựa trên HP của mục tiêu"
-		]
+            "Đòn đấm có thể gây sát thương bổ sung dựa trên HP của mục tiêu"
+        ]
     },
     "70": {
         "name": [
@@ -1100,7 +1100,7 @@
             "Tấn công hoặc niệm phép bằng trượng sẽ kích hoạt lời chúc phúc của linh hồn",
             "Khi được ban phước, Tốc độ Đánh, Tốc độ Di chuyển và Kháng Ma thuật đều được tăng"
         ]
-    },  
+    },
     "79": {
         "name": [
             "Mảnh Đá Ác Ma"
@@ -1128,6 +1128,20 @@
         "ability": [
             "Tăng nhẹ tất cả chỉ số",
             "Phóng to tất cả Servant và tăng cường thuộc tính đặc biệt của chúng"
+        ]
+    },
+    "82": {
+        "name": [
+            "Tâm Xà Hạt"
+        ],
+        "subtitle": "",
+        "description": [
+            "Một chiếc nhẫn kỳ dị được tạo hình từ một con rắn độc đang tự cắn lấy đuôi mình",
+            "Nọc độc không ngừng tuần hoàn bên trong, vĩnh viễn không bao giờ tiêu tan",
+            "Cuối cùng, con rắn cũng không tha chính mình, để nọc độc trở thành vĩnh hằng"
+        ],
+        "ability": [
+            ""
         ]
     },
     "100": {
@@ -1205,8 +1219,8 @@
             "Nụ Cười Của Em Gái"
         ],
         "subtitle": [
-            "\"\\str[121], anh đã giữ lời hứa, làm tốt lắm!\""		
-		],
+            "\"\\str[121], anh đã giữ lời hứa, làm tốt lắm!\""
+        ],
         "description": [
             "Nụ cười hoàn hảo cuối cùng cũng được bộc lộ bởi \\str[120] ",
             "người luôn ngưỡng mộ và lo lắng cho \\str[121]—",
@@ -1221,8 +1235,8 @@
             "Quần Lót Của \\str[120]"
         ],
         "subtitle": [
-            "\"Nó vẫn còn mùi hương của \\str[120]...\""		
-		],
+            "\"Nó vẫn còn mùi hương của \\str[120]...\""
+        ],
         "description": [
             "Quần lót nhận được từ \\str[120] do sự hiểu lầm",
             "Dù chưa từng có cơ hội thích hợp để trả lại,",
@@ -1277,7 +1291,7 @@
         "subtitle": "",
         "description": [
             "Bộ pyjama hai dây mà \\str[120] thường mặc,",
-			"được trang trí bằng những chiếc nơ mà em ấy yêu thích.",
+            "được trang trí bằng những chiếc nơ mà em ấy yêu thích.",
             "Nhưng nghĩ đi nghĩ lại... tại sao nó lại ở trong tay tôi?"
         ],
         "ability": []
@@ -1289,7 +1303,7 @@
         "subtitle": "",
         "description": [
             "Quần đùi mềm mại và bồng bềnh mà \\str[120] thường mặc,",
-			"được trang trí bằng những chiếc nơ mà em ấy yêu thích.",
+            "được trang trí bằng những chiếc nơ mà em ấy yêu thích.",
             "Nhưng nghĩ đi nghĩ lại... tại sao nó lại ở trong tay tôi?"
         ],
         "ability": []
@@ -1300,7 +1314,7 @@
         ],
         "subtitle": "",
         "description": [
-		    ""
+            ""
         ],
         "ability": []
     },
@@ -1349,8 +1363,8 @@
             "Đôi Cánh Pha Lê Của Nữ Hoàng Tiên"
         ],
         "subtitle": [
-           "\"Sâu thẳm bên dưới, kẻ thám hiểm Kyurame đã chứng kiến \"",
-           "\"khoảnh khắc Nữ Hoàng vươn mình lên trong ánh sắc cầu vồng—\""
+            "\"Sâu thẳm bên dưới, kẻ thám hiểm Kyurame đã chứng kiến \"",
+            "\"khoảnh khắc Nữ Hoàng vươn mình lên trong ánh sắc cầu vồng—\""
         ],
         "description": [
             "Đôi cánh pha lê lấp lánh, tỏa ra hào quang rực rỡ. Một vật xúc tác hiếm có ",
@@ -1360,7 +1374,7 @@
             "Miễn nhiễm sát thương khi rơi",
             "Giảm 60% tổng sát thương nhận vào"
         ]
-    },  
+    },
     "296": {
         "name": [
             "Búa May Mắn của Ruika"
@@ -1369,9 +1383,9 @@
             "\"Hầu gái trưởng Ruika luôn dùng nó để gõ vào những chú thỏ không nghe lời.\""
         ],
         "description": [
-		    "Báu vật bí ẩn của các Thỏ Hầu Gái, được cho là lý do nó bán chạy đến vậy.",
-			"Chỉ cần một cú vung nhẹ, nó có thể ban điều ước cho người cầm nó —",
-			"Các nhà mạo hiểm thường thấy nó tự sửa những cỗ máy bị mấy kẻ xấu làm hỏng."
+            "Báu vật bí ẩn của các Thỏ Hầu Gái, được cho là lý do nó bán chạy đến vậy.",
+            "Chỉ cần một cú vung nhẹ, nó có thể ban điều ước cho người cầm nó —",
+            "Các nhà mạo hiểm thường thấy nó tự sửa những cỗ máy bị mấy kẻ xấu làm hỏng."
         ],
         "ability": [
             "Tăng tỉ lệ rơi tiền và vật phẩm"
@@ -1385,9 +1399,9 @@
             "\"Trời ơi! Mình lại rơi xuống hố nữa à!?\""
         ],
         "description": [
-		    "Ban đầu là công cụ mà admin dùng để kiểm tra hệ thống hồi máu,",
-			"nhưng sau đó anh ta quên xóa đi. Tuy nhiên, nó hoàn toàn vô dụng",
-			"trước các cơ chế chết đột tử."
+            "Ban đầu là công cụ mà admin dùng để kiểm tra hệ thống hồi máu,",
+            "nhưng sau đó anh ta quên xóa đi. Tuy nhiên, nó hoàn toàn vô dụng",
+            "trước các cơ chế chết đột tử."
         ],
         "ability": [
             "Hồi 100% HP mỗi giây khi trang bị"
@@ -1399,12 +1413,12 @@
         ],
         "subtitle": [
             "\"Cậu biết cái này nó phá game đúng không?\"",
-			"\"Biết chứ.\"",
-			"\"Vậy mà vẫn muốn trang bị nó à?\"",
-			"\"Tất nhiên rồi!\""
+            "\"Biết chứ.\"",
+            "\"Vậy mà vẫn muốn trang bị nó à?\"",
+            "\"Tất nhiên rồi!\""
         ],
         "description": [
-		    "Một cổ vật có thể biến mọi thứ chạm vào thành vàng."
+            "Một cổ vật có thể biến mọi thứ chạm vào thành vàng."
         ],
         "ability": [
             "Vũ khí không còn bị hỏng khi tấn công"
@@ -1420,7 +1434,7 @@
         "description": [
             "Lãnh thổ bất khả xâm phạm thiêng liêng giữa váy ngắn và tất cao đến đùi ",
             "của con gái. Không chỉ mang lại khả năng kháng ma thuật cao, mà còn sở hữu ",
-			"khả năng kỳ quặc là lấy ra mọi loại vật phẩm từ dưới váy theo ý muốn "
+            "khả năng kỳ quặc là lấy ra mọi loại vật phẩm từ dưới váy theo ý muốn "
         ],
         "ability": [
             "Tăng sức chứa vũ khí +99",
@@ -1437,7 +1451,7 @@
         "description": [
             "Một cổ vật cấm được rèn bởi một Ác Ma yandere nào đó",
             "Nó ép buộc bất kỳ ai chạm vào phải yêu người mang nó",
-			"bất chấp ý chí của họ"
+            "bất chấp ý chí của họ"
         ],
         "ability": [
             "Tăng mạnh các chỉ số nhận được khi vuốt ve đầu \\str[120]"

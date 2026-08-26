@@ -359,7 +359,7 @@
             "kéo kẻ xâm nhập vào bóng tối"
         ],
         "ability": [
-            "Giữ chuột phải để thi triển Hố Đen"
+            "Giữ chuột phải để thi triển \\c[27]Hố Đen Trọng Lực\\c[0]"
         ]
     },
     "27": {
@@ -387,7 +387,7 @@
             "các sinh vật nhỏ, đồng thời còn có tác dụng khử mùi và khử trùng"
         ],
         "ability": [
-            "Nhấn giữ nút chuột trái để thi triển Ma Thuật Hủy Diệt"
+            "Nhấn giữ nút chuột trái để thi triển \\is[82]"
         ]
     },
     "30": {
@@ -519,9 +519,7 @@
         ],
         "ability": [
             "Bắn ra các tia plasma liên kết với những kẻ địch ở gần, tạo thành chuỗi sét",
-            "Giữ chuột trái để thi triển \\is[93]",
-            "Tồn tại trong một khoảng thời gian và tự động tấn công những kẻ địch ở gần",
-            "Khi trời mưa, tất cả hiệu ứng của cây trượng sẽ được cường hóa đáng kể"
+            "Giữ chuột trái để thi triển \\is[93]"
         ]
     },
     "40": {

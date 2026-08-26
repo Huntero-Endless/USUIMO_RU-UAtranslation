@@ -294,6 +294,31 @@
             "Sát thương cơ bản của vũ khí cận chiến tăng thêm \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
         ]
     },
+    "82": {
+        "name": [
+            "Ma Thuật Hủy Diệt"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Phun ra một màn sương độc cực kỳ hiệu quả trong việc tiêu diệt sâu bọ",
+            "Sát thương ma thuật càng cao, sát thương độc cộng thêm càng lớn",
+            "Sương độc sẽ lưu lại trong thời gian ngắn và phát nổ khi tiếp xúc với lửa"
+        ]
+    },
+    "87": {
+        "name": [
+            "Độc Dược Cường Lực"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Mỗi lần gây độc liên tiếp sẽ tăng 40% sát thương độc tích lũy",
+            "Mỗi lần kích hoạt sát thương độc sẽ tăng 40% sát thương độc tích lũy"
+        ]
+    },
     "93": {
         "name": [
             "Thiên Cương Lôi Vân"
@@ -305,7 +330,8 @@
             ""
         ],
         "ability": [
-            ""
+            "Tồn tại trong một khoảng thời gian và tự động tấn công những kẻ địch ở gần",
+            "Khi trời mưa, tất cả hiệu ứng của cây trượng sẽ được cường hóa đáng kể"
         ]
     }
 }
