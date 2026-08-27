@@ -292,6 +292,18 @@
       "Base attack damage of melee weapons increased by \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
     ]
   },
+  "66": {
+    "name": [
+      "Freezing Magic"
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Generated ice periodically attempts to freeze enemies standing on it",
+      "Enemies standing on ice are more easily frozen by frost"
+    ]
+  },
   "82": {
     "name": [
       "Extermination Magic"
@@ -330,6 +342,37 @@
     "ability": [
       "\\is[93] persists and automatically strikes nearby enemies",
       "During rainy weather, all effects of the staff are greatly enhanced"
+    ]
+  },
+  "95": {
+    "name": [
+      "Black Hole"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Creates a black hole that pulls in enemies and deals continuous damage",
+      "Explodes when the effect ends, knocking back nearby enemies"
+    ]
+  },
+  "96": {
+    "name": [
+      "Ripple Thrust"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Manipulates water at the target location to attack",
+      "Deals greatly increased damage if the target location is water",
+      "When used in water, it may also blast out items hidden beneath the surface"
     ]
   }
 }

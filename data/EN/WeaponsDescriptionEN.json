@@ -7,7 +7,7 @@
       "The Village's Finest Wooden Sword"
     ],
     "AliasSubtitle": [
-      "\"This is the finest wooden sword in the village. It’s yours.\""
+      "\"This is the finest wooden sword in the village. It's yours.\""
     ],
     "AliasDescription": [
       "A gift received for selflessly helping the local villagers.",
@@ -30,7 +30,7 @@
     "subtitle": "",
     "description": [
       "A great shape sturdy wooden stick ",
-      "perfect for kids,It’s also decent as a weapon"
+      "perfect for kids,It's also decent as a weapon"
     ],
     "ability": [
       "Deals extra damage when the weapon nears breaking"
@@ -43,8 +43,8 @@
     "subtitle": "",
     "description": [
       "A reliable companion for adventurers or pioneers exploring",
-      "forests. However, as it’s not designed for combat,",
-      "don’t rely on it too much in battle"
+      "forests. However, as it's not designed for combat,",
+      "don't rely on it too much in battle"
     ],
     "ability": [
       "Deals increased damage to trees"
@@ -88,6 +88,7 @@
       "can cause it to explode, engulfing the user"
     ],
     "ability": [
+      "Can fire fireballs that ignite enemies",
       "Hold right mouse button to cast \\c[27]Crimson Lotus Meteor\\c[0]"
     ]
   },
@@ -98,10 +99,12 @@
     "subtitle": "",
     "description": [
       "A wand made from magic crystals, unleashes wide-range",
-      "frost. Very hard to control.Feels like it’s freezing my hand"
+      "frost. Very hard to control.Feels like it's freezing my hand"
     ],
     "ability": [
-      "Hold right mouse button to cast \\c[27]Frozen Spell\\c[0]"
+      "Can unleash frost that freezes enemies",
+      "Frost deals increased damage to enemies already frozen",
+      "Hold right mouse button to cast \\is[66]"
     ]
   },
   "8": {
@@ -142,7 +145,7 @@
       "though its true material remains unknown"
     ],
     "ability": [
-      "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+      "When HP falls below \\c[29]400\\c[0], the weapon's full potential is limited!"
     ]
   },
   "11": {
@@ -156,7 +159,7 @@
     ],
     "ability": [
       "33% chance to inflict Stun state on attack",
-      "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+      "When HP falls below \\c[29]400\\c[0], the weapon's full potential is limited!"
     ]
   },
   "12": {
@@ -165,8 +168,8 @@
     ],
     "subtitle": "",
     "description": [
-      "A metal club. It’s said to be used for sports, ",
-      "but it’s also great for whacking people."
+      "A metal club. It's said to be used for sports, ",
+      "but it's also great for whacking people."
     ],
     "ability": [
       "Durability Boost!",
@@ -195,7 +198,7 @@
     ],
     "subtitle": "",
     "description": [
-      "A massive crab claw that clamps on tight and won’t let go",
+      "A massive crab claw that clamps on tight and won't let go",
       "Once it latches onto something, good luck getting it off"
     ],
     "ability": [
@@ -312,26 +315,11 @@
     "subtitle": [],
     "description": [
       "A heavy hammer once used by blacksmiths to forge metal",
-      "Now held in someone’s hand and used for all sorts of odd purposes"
+      "Now held in someone's hand and used for all sorts of odd purposes"
     ],
     "ability": [
       "Striking a weapon placed on the anvil repairs it",
       "Unequipping this hammer also dispels the summoned anvil"
-    ]
-  },
-  "25": {
-    "name": [
-      "Tidewyrm’s Song"
-    ],
-    "subtitle": "",
-    "description": [
-      "A staff crafted from damp magic crystals, always dripping wet",
-      "It only reveals its true power when using water as a medium",
-      "quite inconvenient!"
-    ],
-    "ability": [
-      "Casting near water enhances magic",
-      "Hold right mouse button to cast Ripple Thrust"
     ]
   },
   "24": {
@@ -340,14 +328,29 @@
     ],
     "subtitle": "",
     "description": [
-      "A greataxe wielded by an orc attuned to nature’s power.",
+      "A greataxe wielded by an orc attuned to nature's power.",
       "Each swing tears the earth and sends gales howling with the blade"
     ],
     "ability": [
       "Has a chance to unleash a burst of wind when attacking",
-      "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+      "When HP falls below \\c[29]400\\c[0], the weapon's full potential is limited!"
     ]
   },
+  "25": {
+    "name": [
+      "Tidewyrm's Song"
+    ],
+    "subtitle": "",
+    "description": [
+      "A staff crafted from damp magic crystals, always dripping wet",
+      "It only reveals its true power when using water as a medium quite inconvenient!"
+    ],
+    "ability": [
+      "Can fire water balls. if water is nearby, fires larger ones",
+      "Water balls create puddles when they burst on land",
+      "Hold right mouse button to cast \\is[96]"
+    ]
+  },  
   "26": {
     "name": [
       "Starlit Night"
@@ -359,7 +362,7 @@
       "pulling intruders into the depths of darkness"
     ],
     "ability": [
-      "Hold right mouse button to cast Black Hole"
+      "Hold right mouse button to cast \\is[95]"
     ]
   },
   "27": {
@@ -437,7 +440,7 @@
     ],
     "ability": [
       "50% chance to inflict Stun state on attack",
-      "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+      "When HP falls below \\c[29]400\\c[0], the weapon's full potential is limited!"
     ]
   },
   "34": {
@@ -478,7 +481,7 @@
     "description": [
       "A man-made magic sword with a blade forged from mana crystals",
       "Each slash unleashes a tangible sword wave. For skilled swordsmen,",
-      "it’s a weapon that greatly enhances their power"
+      "it's a weapon that greatly enhances their power"
     ],
     "ability": [
       "Attacks generate sword waves that deal damage"
@@ -537,7 +540,7 @@
   },
   "42": {
     "name": [
-      "Den’s Hand Scythe"
+      "Den's Hand Scythe"
     ],
     "subtitle": [
       "\"Remember this, Whirlwind Slash is used like this! \""
@@ -617,8 +620,8 @@
     "subtitle": "",
     "description": [
       "A top-grade carrot secretly cultivated by the Maid Bunny",
-      "After being frozen, it’s rock-hard and impossible to bite into",
-      "Rumor has it this was the maid bunny’s winter stash"
+      "After being frozen, it's rock-hard and impossible to bite into",
+      "Rumor has it this was the maid bunny's winter stash"
     ],
     "ability": [
       "40% chance to inflict Freeze state on attack",
@@ -632,7 +635,7 @@
     "subtitle": "",
     "description": [
       "A top-grade carrot secretly cultivated by the Maid Bunny",
-      "Stored for too long, it’s now moldy and rotten...",
+      "Stored for too long, it's now moldy and rotten...",
       "no longer edible—the maid bunny keeps it to drive away enemies"
     ],
     "ability": [
@@ -664,7 +667,7 @@
       "A peeled banana that must be held carefully"
     ],
     "ability": [
-      "At high speeds, it’s easy to fling the banana away... Eek!?"
+      "At high speeds, it's easy to fling the banana away... Eek!?"
     ]
   },
   "61": {
@@ -702,7 +705,7 @@
     "description": [
       "A sword consumed by a tree over centuries, where metal and",
       "life fused into mysterious harmony. Its blade pulses like",
-      "it’s breathing, radiating a strange warmth to the wielder"
+      "it's breathing, radiating a strange warmth to the wielder"
     ],
     "ability": [
       "Restores \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] HP to the wielder upon defeating an enemy"
@@ -851,7 +854,7 @@
     "description": [
       "A golden bow capable of summoning thunder,",
       "named for its buzzing sound reminiscent of lightning",
-      "However, be careful—it’s highly conductive"
+      "However, be careful—it's highly conductive"
     ],
     "ability": [
       "Hold right-click to charge and release a \\c[27]Thunder Arrow\\c[0]"
@@ -878,7 +881,7 @@
     "subtitle": "",
     "description": [
       "A blood-stained longbow.",
-      "Each draw leaves the string wet with its wielder’s own blood,",
+      "Each draw leaves the string wet with its wielder's own blood,",
       "until the arrow returns with a sweeter offering"
     ],
     "ability": [
