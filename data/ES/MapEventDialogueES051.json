@@ -38,6 +38,22 @@
         "7": [ 
             "¿Podría ser este el Elixir Rubrum que mencionó mi padre...?", 
 			"¿Pero por qué reaccionaría dentro de esta puerta...?" 
-        ]		 
-    } 
+        ],
+        "8": [
+            "…Phew. Justo a tiempo—",
+            "Logré llenarlo dentro de la botella antes que se derritiera."
+        ],
+        "9": [
+            "No es la primera vez que ocurre…",
+            "y aun asi hace acelerar mi corazon cada vez que ocuure."
+        ],
+        "10": [
+            "Y aun no entiendo",
+            "porqué esta pasando esto en primer lugar…"
+        ],
+        "11": [
+            "No importa la razon... siempre y cuando",
+            "Sea el medicamento que estoy buscando, con eso me basta."
+        ]
+    }
 }
