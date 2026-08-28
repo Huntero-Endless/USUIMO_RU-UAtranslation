@@ -101,7 +101,9 @@
             "Rất khó kiểm soát. Cảm giác như đang đông cứng cả tay"
         ],
         "ability": [
-            "Giữ chuột phải để thi triển \\c[27]Băng Chú\\c[0]"
+            "Có thể phóng ra băng giá để đóng băng mục tiêu",
+            "Băng giá gây thêm sát thương lên những mục tiêu đã bị đóng băng",
+            "Giữ chuột phải để thi triển \\is[66]"
         ]
     },
     "8": {
@@ -344,8 +346,10 @@
             "làm chất dẫn — thật rắc rối!"
         ],
         "ability": [
-            "Thi triển gần nguồn nước sẽ cường hóa ma pháp.",
-            "Giữ chuột phải để thi triển \\c[27]Truy Kích Gợn Thủy\\c[0]."
+            "Có thể bắn ra các cầu nước",
+            "Nếu có nước ở gần sẽ bắn ra những cầu nước lớn hơn",
+            "Cầu nước sẽ tạo thành vũng nước khi nổ tung trên mặt đất.",
+            "Giữ chuột phải để thi triển \\is[96]"
         ]
     },
     "26": {
@@ -359,7 +363,7 @@
             "kéo kẻ xâm nhập vào bóng tối"
         ],
         "ability": [
-            "Giữ chuột phải để thi triển \\c[27]Hố Đen Trọng Lực\\c[0]"
+            "Giữ chuột phải để thi triển \\is[95]"
         ]
     },
     "27": {
@@ -443,7 +447,7 @@
     },
     "34": {
         "name": [
-            "Tiếng Gầm Của Đấng Thống Trị"
+            "Thủy Long Ngâm"
         ],
         "subtitle": "",
         "description": [
