@@ -951,8 +951,8 @@
 		],
 		"description": [
 			"Một xúc tu bạch tuộc to lớn và dày bất thường.",
-			"Chân thân của nó đang say ngủ sâu dưới đáy nước, ",
-			"là Chúa Tể Thủy Lưu không ai có thể lay chuyển.",
+			"Bản thể của nó đang say ngủ sâu dưới đáy nước, ",
+			"là Chúa Tể Hải Vực không ai có thể lay chuyển.",
 			"Trước đây nó không hề khổng lồ đến thế, dường như ", 
 			"đã bị biến dị bởi một sức mạnh bí ẩn nào đó.",
 			"Giờ đây nó chỉ lặng lẽ trôi theo dòng nước,",
@@ -961,13 +961,13 @@
 	},    
 	"40": {
 		"objectName": [
-			"Đấng Thống Trị Xúc Tu"
+			"Kẻ Thống Trị Các Xúc Tu"
 		],
 		"subtitle": [
 			"Cư ngụ dưới Hải Vực"
 		],
 		"bossName": [
-			"Đấng Thống Trị Xúc Tu"
+			"kẻ Thống Trị Các Xúc Tu"
 		],
 		"sentouryoku": [
 			"8600"

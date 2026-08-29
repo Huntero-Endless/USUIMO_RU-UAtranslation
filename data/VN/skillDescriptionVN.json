@@ -294,6 +294,18 @@
             "Sát thương cơ bản của vũ khí cận chiến tăng thêm \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
         ]
     },
+    "66": {
+        "name": [
+            "Băng Kết Thuật"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Lớp băng tạo ra sẽ định kỳ đóng băng những kẻ địch đang đứng trên đó",
+            "Kẻ địch đứng trên lớp băng sẽ dễ bị đóng băng hơn"
+        ]
+    },
     "82": {
         "name": [
             "Ma Thuật Hủy Diệt"
@@ -332,6 +344,37 @@
         "ability": [
             "Tồn tại trong một khoảng thời gian và tự động tấn công những kẻ địch ở gần",
             "Khi trời mưa, tất cả hiệu ứng của cây trượng sẽ được cường hóa đáng kể"
+        ]
+    },
+    "95": {
+        "name": [
+            "Hố Đen Trọng Lực"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Tạo ra một hố đen hút kẻ địch vào và gây sát thương liên tục",
+            "Khi hiệu ứng kết thúc, hố đen sẽ phát nổ đánh bật những kẻ địch ở gần"
+        ]
+    },
+    "96": {
+        "name": [
+            "Xung Kích Gợn Sóng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Điều khiển nước tại vị trí mục tiêu để tấn công",
+            "Gây sát thương tăng mạnh nếu vị trí mục tiêu có nước",
+            "Kỹ năng còn có thể đánh bật các vật phẩm ẩn bên dưới mặt nước lên"
         ]
     }
 }

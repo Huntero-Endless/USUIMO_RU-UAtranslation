@@ -877,6 +877,25 @@
 			"Bị cái nóng mùa hè quấn lấy, ",
 			"tôi đã tán gẫu với em đủ kiểu chủ đề mùa hè,",
 			"nhưng trời vẫn nóng quá!"
+		],
+		"46": [
+			"\"Hôm nay trời nóng quá đi, ",
+			"Hay là chúng ta mang chiếc hồ bơi cao su lần trước ra dùng nhé?\""
+		],
+		"47": [
+			"\\nl< >\"Oohhh—! Em muốn chơi! Em muốn chơi!\""
+		],
+		"48": [
+			"\"Em đi thay đồ đi, trong lúc đó anh sẽ bơm hồ bơi cho.\""
+		],
+		"49": [
+			"\\nl< >\\{\"—Thay xong rồi~!\""
+		],
+		"50": [
+			"....Nhanh thế!? Eh, eeeeeh!? ",
+			"\\str[120] vừa cởi áo ra luôn à?",
+			"Sao mình lại không nhận ra em ấy đã mặc sẵn ",
+			"đồ bơi bên trong từ lúc nào nhỉ!?"
 		]
 	},
 	"10": {
@@ -2810,6 +2829,209 @@
 			"Dù việc đẩy chiếc hồ nặng khiến tôi mệt đến mức mồ hôi nhễ nhại,",
 			"nhưng nhìn \\str[120] ngồi trong hồ bơi vui vẻ tận hưởng với nụ cười hạnh phúc trên môi,",
 			"tôi cảm thấy hôm nay đã có một cái kết khá trọn vẹn—"
+		],
+		"68": [
+			"Nhờ có kinh nghiệm từ lần trước,",
+			"tôi nhanh chóng bơm căng chiếc hồ bơi cao su rồi đổ đầy nước sạch vào."
+		],
+		"69": [
+			"Giữa những tia nước bắn tung tóe, ",
+			"\\str[120] thoải mái nằm trên mặt nước, đung đưa đôi chân trắng nõn,",
+			"trên gương mặt là nụ cười rạng rỡ."
+		],
+		"70": [
+			"\\nl< >\"\\str[121], nhanh lên, xuống đây đi! Nước mát dễ chịu lắm đó!\""
+		],
+		"71": [
+			"Uống nước hồ bơi",
+			"Tạt nước vào",
+			"Chuẩn bị dưa hấu"
+		],
+		"72": [
+			"Như bị ma xui quỷ khiến, tôi cúi xuống và uống trực tiếp một ngụm nước trong hồ—"
+		],
+		"73": [
+			"\\nl< >\\{\"K-khoan đã! \\str[121] đang làm cái gì thế!?\""
+		],
+		"74": [
+			"\"Ah—Anh không nhịn được... Có lẽ trời nóng quá nên anh khát nước chăng...?\""
+		],
+		"75": [
+			"\\nl< >\"Dù có là thế...",
+			"Nhưng em vừa ngâm mình trong hồ nước này mà...",
+			"Như vậy chẳng vệ sinh chút nào cả...\""
+		],
+		"76": [
+			"Uống thêm một ngụm",
+			"không uống nữa"
+		],
+		"76.1": [
+			"\"Cũng phải, làm vậy đúng là có hơi kỳ thật... Ahaha.\""
+		],
+		"76.2": [
+			"Mang theo chút tiếc nuối thoáng qua và để bản thân không nghĩ ngợi lung tung,",
+			"tôi chủ động làm như lần trước, đẩy chiếc hồ bơi ",
+			"đi vòng quanh để \\str[120] ngồi bên trong."
+		],
+		"76.3": [
+			"\"Ah, phải rồi...!",
+			"Nếu em thấy khát thì trong tủ lạnh vẫn còn dưa hấu đấy!\""
+		],
+		"77": [
+			"Một cảm giác thôi thúc kỳ lạ khiến tôi cúi xuống, uống thêm một ngụm nước hồ bơi tiếp—"
+		],
+		"78": [
+			"\\nl< >\"Ehh—!? Sao anh lại uống nữa thế!?\""
+		],
+		"79": [
+			"Ừm... Tại sao nhỉ...?",
+			"Nhưng mà nước lạnh buốt, lại còn có vị ngon đến bất ngờ..."
+		],
+		"80": [
+			"\"Vì đây là nước mà \\str[120] đã ngâm mình trong, ",
+			"Nhờ thấm đẫm nên có vị ngọt đặc biệt...",
+			"Giá mà vị này đậm hơn một chút thì hay biết mấy.\""
+		],
+		"81": [
+			"\\nl< >\"\\str[121] nóng quá nên lú luôn rồi hả? ",
+			"Sao nước có thể có vị ngọt được chứ...?",
+			"V-với lại... em vừa ngâm mình trong đó mà...\""
+		],
+		"82": [
+			"\\str[120] lo lắng nhìn tôi. ",
+			"Có lẽ cái nóng gay gắt đã khiến não tôi chập mạch thật rồi,",
+			"nhưng nhìn làn da trắng mịn của em ánh lên vẻ ẩm ướt trên mặt nước,",
+			"cổ họng tôi chẳng hiểu sao lại càng khô hơn."
+		],
+		"83": [
+			"\"Hmm... Cứ cảm giác như còn thiếu chút hương vị gì đó...\""
+		],
+		"84": [
+			"\\nl< >\"S-sao anh lại nhìn em như vậy...",
+			"\\str[121]... anh lại đang âm mưu chuyện gì xấu xa nữa đúng không...?\""
+		],
+		"85": [
+			"\"Không có gì đâu, anh chỉ muốn nhờ em cởi đồ bơi ra thôi mà~!\""
+		],
+		"86": [
+			"\\nl< >\"Thế mà còn bảo không có âm mưu gì hả~~!!\""
+		],
+		"87": [
+			"Mặc dù \\str[120] kịch liệt phản đối, nhưng trước những lời nài nỉ ",
+			"đầy nhiệt tình và dai dẳng của tôi, em ấy đỏ mặt vẫn ngoan ngoãn ",
+			"tháo dây đồ bơi ra. Chỉ có thể bất lực và ngượng ngùng nhìn tôi ",
+			"say sưa liếm những giọt nước đọng trên làn da của em ấy."
+		],
+		"88": [
+			"\\nl< >\"Thật không ngờ anh lại liếm một cách say sưa đến thế... ",
+			"\\str[121] càng ngày càng biến thái rồi đấy...\""
+		],
+		"89": [
+			"Đúng lúc lời phê bình gay gắt ấy lọt vào tai, một giọt chất lỏng ",
+			"ngọt lịm từ cây kem mà \\str[120] đang cầm dưới ánh nắng gay gắt",
+			"tan chảy rồi nhỏ thẳng lên má tôi. Cảm giác lạnh buốt đột ngột",
+			"lập tức khiến trong đầu tôi nảy ra một ý tưởng tuyệt vời."
+		],
+		"90": [
+			"\"Cho anh mượn cả que kem đó nữa nào—\""
+		],
+		"91": [
+			"\\nl< >\"...Eh? \\str[121] cũng muốn ăn à?",
+			"Nhưng em không muốn anh dùng cái miệng vừa uống thứ nước đó để—",
+			"\\w[90]\\^"
+		],
+		"92": [
+			"\\nl< >\"Uwaaaaaa~!?",
+			"Anh không thể ăn theo cái kiểu đó được đâu màaaaa~!!\""
+		],
+		"93": [
+			"Tôi tiện tay lấy cây kem đang ăn dở từ tay \\str[120],",
+			"cởi bỏ mảnh vải cuối cùng bên dưới của em ấy,",
+			"trượt cây kem dọc theo trên da đùi mịn màng,",
+			"và từ từ đưa nó lại gần âm hộ ấm áp mềm mại của em ấy."
+		],
+		"94": [
+			"Cảm giác lạnh buốt bất ngờ khiến \\str[120] theo bản năng co người lại.",
+			"Âm hộ nhạy cảm của em ấy co giật dữ dội vì kích thích,",
+			"và chẳng bao lâu sau, một chút dịch lỏng lấp lánh rỉ ra ở mép ngoài,",
+			"khiến người ta không thể phân biệt được đó là nước kem tan chảy hay thứ gì khác."
+		],
+		"95": [
+			"\"Thấy chưa~ Nước trái cây tan vào hồ, hòa vào cùng những thứ, ",
+			"trên người của \\str[120]...",
+			"Đây đúng là một hỗn hợp đặc biệt tuyệt đỉnh đấy!\""
+		],
+		"96": [
+			"Vừa làm quả mặt tỉnh bơ rồi nói những lời vô lý,",
+			"tôi vừa cúi xuống uống thử phần nước hồ đã hòa lẫn với kem,",
+			"tiện thể nghịch ngợm trêu em ấy thêm một chút."
+		],
+		"97": [
+			"\\nl< >\"Ugh... Ai lại nghĩ ra kiểu pha chế kỳ quặc như thế chứ...!?",
+			"\\str[121] đúng là đồ ngốc... Đồ biến thái!!\""
+		],
+		"98": [
+			"\"Pfft—!?\""
+		],
+		"99": [
+			"Không thể chịu nổi trò nghịch ngợm kỳ quặc này thêm nữa,",
+			"\\str[120] duỗi đôi chân đang co lại rồi đá thẳng vào ",
+			"trán tôi bằng bàn chân trần, khiến tôi mất thăng bằng ",
+			"và lăn ngược ra sau hai vòng trong sự xấu hổ."
+		],
+		"100": [
+			"\\nl< >\"Giờ anh có chịu tỉnh táo lại chưa hả!?\""
+		],
+		"101": [
+			"\"Ahaha—Có vẻ vừa nãy anh đã làm hơi quá thật.\""
+		],
+		"102": [
+			"Thì dù sao cũng đang là mùa hè mà...",
+			"Với lại quả thật nó có vị khá ngon..."
+		],
+		"103": [
+			"Sau đó, dưới sự giám sát nghiêm khắc của \\str[120],",
+			"tôi tiếc nuối xả hết nước trong hồ rồi ngoan ngoãn cọ rửa sạch sẽ.",
+			" "
+		],
+		"104": [
+			"\"Anh mang dưa hấu ra rồi này~!\""
+		],
+		"105": [
+			"\\nl< >\"Ooh~! Là dưa hấu lạnh mát!!\""
+		],
+		"106": [
+			"\"\\str[121] cắt nhanh lên đi! Quả này chắc chắn ngọt lắm đó!!\""
+		],
+		"107": [
+			"\"Rồi, rồi. Em ra khỏi hồ trước đi, không lại làm bẩn đấy.\""
+		],
+		"108": [
+			"\\nl< >\\{\"Cảm ơn vì bữa ăn~~!\""
+		],
+		"109": [
+			"...Em ấy ăn nhanh thật đấy!?",
+			"Mình còn chưa kịp ăn miếng nào nữa..."
+		],
+		"110": [
+			"\\nl< >\\{\"Ehehe~ Ăn kiểu này mới ngon nhất nè~\""
+		],
+		"111": [
+			"Ban đầu tôi định mắng \\str[120] vì vừa ăn vừa ngồi trong hồ,",
+			"nhưng thấy em ấy vui vẻ đến vậy, tôi quyết định bỏ qua."
+		],
+		"112": [
+			"\"Đỡ này—! Đây là trả đũa cho lần trước!\""
+		],
+		"113": [
+			"Ngồi xổm bên cạnh hồ, ",
+			"tôi nhẹ nhàng vốc một ít nước rồi tạt về phía em ấy,",
+			"rồi \\str[120] lập tức đá chân làm nước bắn ngược trở lại phía tôi."
+		],
+		"114": [
+			"Dù chúng tôi chỉ đơn giản vui đùa trong một chiếc hồ bơi cao su nhỏ xíu,",
+			"tiếng cười trong trẻo và vui vẻ của \\str[120] ",
+			"vẫn đủ sức xua tan cái oi bức ngột ngạt của mùa hè."
 		]
 	},
 	"16": {

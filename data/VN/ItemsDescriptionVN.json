@@ -807,7 +807,7 @@
             "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Khi sử dụng, ban phép lành của Hỏa Điểu"
+            "Khi sử dụng, ban phép lành của Phượng Hoàng"
         ]
     },
     "67": {
@@ -1302,11 +1302,11 @@
     },
     "128": {
         "name": [
-            "Xúc Tu Của Đấng Thống Trị"
+            "Xúc Tu Của Kẻ Thống Trị"
         ],
         "subtitle": "",
         "description": [
-            "Một xúc tu dày bị chặt rời khỏi Đấng Thống Trị",
+            "Một xúc tu dày bị chặt rời khỏi Kẻ Thống Trị",
             "Dù đã lìa khỏi cơ thể, nhưng nó vẫn quằn quại như thể còn sống",
             "Xét về nguyên liệu nấu ăn, chắc chắn đây là một món cao lương mỹ vị hiếm có và hảo hạng",
             "Tuy nhiên, người ta nói rằng ngoài việc dùng để nấu ăn, nó còn có thể phát huy",
@@ -3124,7 +3124,7 @@
         "beIndependent": true,
         "subtitle": [
             "\"Tôi hiểu rồi... cậu nói trò chơi quá khó sao?",
-            "Nếu cậu không phiền, tôi có thể cho cậu biết một phương pháp đặc biệt...\""
+            " Nếu cậu không phiền, tôi có thể cho cậu biết một phương pháp đặc biệt...\""
         ],
         "description": [
             "Một mã bí ẩn được Hiệp sĩ cung cấp.",
