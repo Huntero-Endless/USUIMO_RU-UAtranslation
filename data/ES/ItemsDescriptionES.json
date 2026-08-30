@@ -9,27 +9,27 @@
             "Pero... ¿dónde está la tienda de NLCH?"
         ],
         "ability": [
-		    "Se puede introducir en la máquina gacha sin dañarla para activar el tirón",
-			"Siempre da un 11-pull con al menos una bola dorada"
-		]
+            "Se puede introducir en la máquina gacha sin dañarla para activar el tirón",
+            "Siempre da un 11-pull con al menos una bola dorada"
+        ]
     },
     "2": {
         "name": [
             "Manual del aventurero"
         ],
         "subtitle": [
-		    "\"Escrito por RORO, comenzado el 1/10/2024\""
-		],
+            "\"Escrito por RORO, comenzado el 1/10/2024\""
+        ],
         "description": [
             "Comenzó como un diario casual de un aventurero llamado RORO ",
             "Con el tiempo, más personas a las que les parecía divertido se unieron y agregaron notas",
-			"y por eso esta curiosa guía, que abarca todo, desde",
-			"De 'Cómo entrar a la mazmorra' a 'Qué comer para cenar' nació"
+            "y por eso esta curiosa guía, que abarca todo, desde",
+            "De 'Cómo entrar a la mazmorra' a 'Qué comer para cenar' nació"
         ],
         "ability": [
-		    "Te permite explorar la guía del juego"
-		]
-    },	
+            "Te permite explorar la guía del juego"
+        ]
+    },
     "3": {
         "name": [
             "Basura"
@@ -48,7 +48,7 @@
         "subtitle": "",
         "description": [
             "Sólo una moneda que vale 10 yenes",
-			"Pero... ¡no se puede comprar nada en absoluto!"
+            "Pero... ¡no se puede comprar nada en absoluto!"
         ],
         "ability": ""
     },
@@ -71,7 +71,7 @@
         "description": [
             "Sólo una moneda que vale 100 yenes",
             "Con un poco de suerte, podría ser suficiente para comprar ",
-			"La leche de fresa favorita de \\str[120]"
+            "La leche de fresa favorita de \\str[120]"
         ],
         "ability": ""
     },
@@ -83,7 +83,7 @@
         "description": [
             "Sólo una moneda que vale 500 yenes",
             "Si entra en el gacha... tal vez, solo tal vez...",
-			"¡Golpeará un objeto legendario...!"
+            "¡Golpeará un objeto legendario...!"
         ],
         "ability": ""
     },
@@ -95,7 +95,7 @@
         "description": [
             "Solo un billete de 1000 yenes",
             "Nadie sabe por qué empezaron incluso los monstruos ",
-			"recolectando dinero humano..."
+            "recolectando dinero humano..."
         ],
         "ability": ""
     },
@@ -107,7 +107,7 @@
         "description": [
             "Solo un billete de 5000 yenes",
             "Cualquiera que lo vea no puede evitar sentirse conmovido",
-			"¿Es este el poder del dinero…?"
+            "¿Es este el poder del dinero…?"
         ],
         "ability": ""
     },
@@ -121,7 +121,7 @@
             "Hasta una máquina de gacha sonreiría ante tal valor—"
         ],
         "ability": ""
-    },	
+    },
     "11": {
         "name": [
             "50000 yenes"
@@ -134,7 +134,7 @@
             "sólo para experimentar eso que se llama 'compras' "
         ],
         "ability": ""
-    },	
+    },
     "12": {
         "name": [
             "100000 yenes"
@@ -143,7 +143,7 @@
         "description": [
             "Una gruesa pila de billetes de 10.000 yenes",
             "Su aroma a riqueza puede incluso hacer ",
-			"Los demonios codiciosos sonríen seductoramente—"
+            "Los demonios codiciosos sonríen seductoramente—"
         ],
         "ability": ""
     },
@@ -154,7 +154,7 @@
         "subtitle": "",
         "description": [
             "Un mapa usado por conejitas criadas, todavía cubierto de migas de zanahoria",
-			"Cavaban madrigueras de conejo y se movían rápidamente por ahí, casi como un equipo de reparto",
+            "Cavaban madrigueras de conejo y se movían rápidamente por ahí, casi como un equipo de reparto",
             "Desde que ese líder diabólico y de mente aguda apareció hace diez años",
             "Los conejos se apoderaron del Abismo y comenzaron a comerciar con los monstruos"
         ],
@@ -183,7 +183,6 @@
         "subtitle": "",
         "description": [
             ""
-
         ],
         "ability": [
             ""
@@ -196,12 +195,11 @@
         "subtitle": "",
         "description": [
             ""
-
         ],
         "ability": [
             ""
         ]
-    },	
+    },
     "17": {
         "name": [
             "Ahoge de la hermana"
@@ -221,7 +219,6 @@
         "subtitle": "",
         "description": [
             ""
-
         ],
         "ability": [
             ""
@@ -234,7 +231,6 @@
         "subtitle": "",
         "description": [
             ""
-
         ],
         "ability": [
             ""
@@ -247,7 +243,7 @@
         "subtitle": [
             "\"Haec est totius fortitudinis fortitudo fortis,  ",
             "quia vincet omnem rem subtilem, omnemque solidam penetrabit.\""
-		],
+        ],
         "description": [
             "Incluso un solo fragmento contiene un poder inmenso..."
         ],
@@ -258,8 +254,8 @@
             "Deliciosa leche"
         ],
         "subtitle": [
-            "\"Patrocinado por: NLCH\""		
-		],
+            "\"Patrocinado por: NLCH\""
+        ],
         "description": [
             "Una bebida de una máquina expendedora extraña",
             "No importa el sabor, ¿por qué hay una máquina expendedora?"
@@ -273,8 +269,8 @@
             "Leche de zanahoriak"
         ],
         "subtitle": [
-            "\"Patrocinado por: NLCH\""		
-		],
+            "\"Patrocinado por: NLCH\""
+        ],
         "description": [
             "Una bebida de una máquina expendedora extraña",
             "No importa el sabor, ¿por qué hay una máquina expendedora?"
@@ -288,8 +284,8 @@
             "Leche de fresa"
         ],
         "subtitle": [
-            "\"Patrocinado por: NLCH\""		
-		],
+            "\"Patrocinado por: NLCH\""
+        ],
         "description": [
             "Una bebida de una máquina expendedora extraña",
             "No importa el sabor, ¿por qué hay una máquina expendedora?"
@@ -303,8 +299,8 @@
             "Leche de melón"
         ],
         "subtitle": [
-            "\"Patrocinado por: NLCH\""		
-		],
+            "\"Patrocinado por: NLCH\""
+        ],
         "description": [
             "Una bebida de una máquina expendedora extraña",
             "No importa el sabor, ¿por qué hay una máquina expendedora?"
@@ -318,8 +314,8 @@
             "Leche de plátano"
         ],
         "subtitle": [
-            "\"Patrocinado por: NLCH\""		
-		],
+            "\"Patrocinado por: NLCH\""
+        ],
         "description": [
             "Una bebida de una máquina expendedora extraña",
             "No importa el sabor, ¿por qué hay una máquina expendedora?"
@@ -333,8 +329,8 @@
             "Konpeito rosa"
         ],
         "subtitle": [
-            "\"Fufufu... Mejor no saber los ingredientes~♥\""		
-		],
+            "\"Fufufu... Mejor no saber los ingredientes~♥\""
+        ],
         "description": [
             "Konpeitō delicadamente elaborado a mano por el Archidemonio",
             "Desprende un aroma a melocotón que te marea con solo olerlo..."
@@ -348,8 +344,8 @@
             "Konpeito azul"
         ],
         "subtitle": [
-            "\"Fufufu... Mejor no saber los ingredientes~♥\""	
-		],
+            "\"Fufufu... Mejor no saber los ingredientes~♥\""
+        ],
         "description": [
             "Konpeitō delicadamente elaborado a mano por el Archidemonio",
             "Desprende un aroma parecido al del arándano que aporta calma con solo olerlo.."
@@ -363,8 +359,8 @@
             "Konpeito verde"
         ],
         "subtitle": [
-            "\"Fufufu... Mejor no saber los ingredientes~♥\""		
-		],
+            "\"Fufufu... Mejor no saber los ingredientes~♥\""
+        ],
         "description": [
             "Konpeitō delicadamente elaborado a mano por el Archidemonio",
             "Desprende un aroma a melón que te eleva con solo olerlo..."
@@ -393,8 +389,8 @@
             "Cola(L) de NLCH"
         ],
         "subtitle": [
-            "\"Patrocinado por: NLCH\""		
-		],
+            "\"Patrocinado por: NLCH\""
+        ],
         "description": [
             "Una bebida de una máquina expendedora extraña",
             "No importa el sabor, ¿por qué hay una máquina expendedora?"
@@ -408,15 +404,15 @@
             "Kenaz"
         ],
         "subtitle": [
-            "\"Poder de explosión\""		
-		],
+            "\"Poder de explosión\""
+        ],
         "description": [
             "Una piedra grabada con runas mágicas, diseñada para que incluso los novatos puedan usarla ",
             "Ningún conocimiento de magia puede activar fácilmente su efecto"
         ],
         "ability": [
             "Lanza y convierte el objetivo que toca en una bomba",
-			"Detona en 5 segundos y los objetivos más grandes provocan una explosión más amplia"
+            "Detona en 5 segundos y los objetivos más grandes provocan una explosión más amplia"
         ]
     },
     "43": {
@@ -424,8 +420,8 @@
             "Ansuz"
         ],
         "subtitle": [
-            "\"Poder de la Revelación\""		
-		],
+            "\"Poder de la Revelación\""
+        ],
         "description": [
             "Una piedra grabada con runas mágicas, diseñada para que incluso los novatos puedan usarla ",
             "Ningún conocimiento de magia puede activar fácilmente su efecto"
@@ -569,7 +565,7 @@
         "ability": [
             "Cuando se usa, otorga una mejora o desventaja aleatoria"
         ]
-    },	
+    },
     "57": {
         "name": [
             "Justicia"
@@ -627,7 +623,7 @@
             "Incluso los novatos pueden activar fácilmente sus efectos"
         ],
         "ability": [
-			"Invoca una Puerta Estelar cerca del jugador para regresar al inicio"
+            "Invoca una Puerta Estelar cerca del jugador para regresar al inicio"
         ]
     },
     "65": {
@@ -723,11 +719,11 @@
         "description": [
             "Un alimento extraño de origen desconocido, del que se dice que sabe sorprendentemente bueno",
             "¡Su aroma atrae no sólo a los animales sino incluso a los monstruos!",
-			"Manéjelo con cuidado: el aroma se desvanece rápidamente si no se almacena bien"
+            "Manéjelo con cuidado: el aroma se desvanece rápidamente si no se almacena bien"
         ],
         "ability": [
-		    "Al lanzarlo, crea una nube de olor que atrae a los monstruos"
-		]
+            "Al lanzarlo, crea una nube de olor que atrae a los monstruos"
+        ]
     },
     "77": {
         "name": [
@@ -1047,12 +1043,12 @@
             "La fresa de ASABA"
         ],
         "subtitle": [
-		    "\"Mmm… fresas… mis fresas…\""
-		],
+            "\"Mmm… fresas… mis fresas…\""
+        ],
         "description": [
             "La fresa más preciada y de alta calidad de ASABA que no puede soportar",
             "para comer. Pero incluso después de guardarlo desesperadamente hasta el final",
-			"Aún así, termina siendo nada más que un trofeo—"
+            "Aún así, termina siendo nada más que un trofeo—"
         ],
         "ability": ""
     },
@@ -1228,9 +1224,9 @@
         ],
         "description": [
             "Un medio especial que almacena material de una época pasada, reproducible",
-			"Solo con equipo específico. Algunos proponen que era un alquímico",
-			"producto de una civilización antigua, aunque no existen pruebas",
-			"Su escasez también hace que los coleccionistas estén muy ansiosos por conseguirlo"
+            "Solo con equipo específico. Algunos proponen que era un alquímico",
+            "producto de una civilización antigua, aunque no existen pruebas",
+            "Su escasez también hace que los coleccionistas estén muy ansiosos por conseguirlo"
         ],
         "ability": [
             ""
@@ -1245,9 +1241,9 @@
         ],
         "description": [
             "Un medio especial que almacena material de una época pasada, reproducible",
-			"Solo con equipo específico. Algunos proponen que era un alquímico",
-			"producto de una civilización antigua, aunque no existen pruebas",
-			"También parece maldito: las imágenes siempre son inquietantemente escalofriantes"
+            "Solo con equipo específico. Algunos proponen que era un alquímico",
+            "producto de una civilización antigua, aunque no existen pruebas",
+            "También parece maldito: las imágenes siempre son inquietantemente escalofriantes"
         ],
         "ability": [
             ""
@@ -1255,68 +1251,68 @@
     },
     "189": {
         "name": [
-            "ideo para adultos"
+            "Video para adultos"
         ],
         "subtitle": [
             ""
         ],
         "description": [
             "Un medio especial que almacena material de una época pasada, reproducible",
-			"Solo con equipo específico. Algunos proponen que era un alquímico",
-			"producto de una civilización antigua, aunque no existen pruebas",
-			"Parece tener contenido restringido, lleno de escenas excitantes"
+            "Solo con equipo específico. Algunos proponen que era un alquímico",
+            "producto de una civilización antigua, aunque no existen pruebas",
+            "Parece tener contenido restringido, lleno de escenas excitantes"
         ],
         "ability": [
             ""
         ]
-    },	
-  "190": {
+    },
+    "190": {
         "name": [
             "Doujinshi Yuri"
-		],
-		"subtitle": [
-		    "\"Onee-chan... Siento que... Ya no puedo vivir sin ti...\""
-		],
+        ],
+        "subtitle": [
+            "\"Onee-chan... Siento que... Ya no puedo vivir sin ti...\""
+        ],
         "description": [
             "Un doujinshi con un arte hermoso.",
-			"Pero retrata un amor prohibido entre dos hermosas chicas...",
-			"La historia es tan apasionante que incluso las páginas desprenden un ligero aroma rosado"
-		],
+            "Pero retrata un amor prohibido entre dos hermosas chicas...",
+            "La historia es tan apasionante que incluso las páginas desprenden un ligero aroma rosado"
+        ],
         "ability": [
             "¡Aumenta el deseo después de leer!"
-		]	
+        ]
     },
-  "191": {
+    "191": {
         "name": [
             "Doujinshi Moe"
-		],
-		"subtitle": [
-		    "\"Moe moe kyun~♡\""
-		],
+        ],
+        "subtitle": [
+            "\"Moe moe kyun~♡\""
+        ],
         "description": [
             "Un doujinshi lleno de burbujas rosas y efectos en forma de corazón.",
-			"Los personajes se sonrojan y se ponen nerviosos por las cosas más pequeñas...",
-			"Dicen que podrías terminar suspirando \"so moe~\" después de leerlo"
-		],
+            "Los personajes se sonrojan y se ponen nerviosos por las cosas más pequeñas...",
+            "Dicen que podrías terminar suspirando \"so moe~\" después de leerlo"
+        ],
         "ability": [
             "¡Aumenta el deseo después de leer!"
-		]	
+        ]
     },
-  "192": {
+    "192": {
         "name": [
             "Doujinshi Nekomimi"
-		],
-		"subtitle": [
-		    "\"Maestro... nya~ ¿Puedo conseguir algunas palmaditas en la cabeza??\""
-		],
+        ],
+        "subtitle": [
+            "\"Maestro... nya~ ¿Puedo conseguir algunas palmaditas en la cabeza??\""
+        ],
         "description": [
             "Un doujinshi que huele ligeramente a hierba gatera.",
-			"Muestra chicas gato ronroneando, rodando y moviendo la cola",
-			"Quizás te haga considerar conseguir una esposa parlante..."
-		],
+            "Muestra chicas gato ronroneando, rodando y moviendo la cola",
+            "Quizás te haga considerar conseguir una esposa parlante..."
+        ],
         "ability": [
             "¡Aumenta el deseo después de leer!"
-		]	
+        ]
     },
     "197": {
         "name": [
@@ -1328,25 +1324,25 @@
         ],
         "description": [
             "El Fragmento enrojecido del Filósofo fluye como sangre",
-			"Aún se desconoce su uso adecuado, pero por ahora, ",
-			"Simplemente intenta beberlo como una bebida..."
+            "Aún se desconoce su uso adecuado, pero por ahora, ",
+            "Simplemente intenta beberlo como una bebida..."
         ],
         "ability": [
             ""
         ]
-    },		
+    },
     "199": {
         "name": [
             "Pase libre de \\str[120]"
         ],
         "subtitle": [
             "\"Hay muchos garabatos y dibujos por todo el paso...\""
-		],
+        ],
         "description": [
             "Un Pase Libre hecho a mano elaborado por \\str[120]. \\str[121] puede buscar",
             "El afecto de \\str[120] —no importa cuán egoísta sea la petición, es concedido",
             "Aun así, \\str[120] siempre ha querido hacer algo bueno por ",
-			"\\str[121], con o sin el pase—"
+            "\\str[121], con o sin el pase—"
         ],
         "ability": ""
     },
@@ -1817,8 +1813,8 @@
             "Al abrirlo se libera un ligero aroma a té negro..."
         ],
         "ability": [
-		    "Polaroids recopiladas: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
-		]
+            "Polaroids recopiladas: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
+        ]
     },
     "236": {
         "name": [
@@ -1832,8 +1828,8 @@
             "Al abrirlo se libera un ligero aroma a té negro..."
         ],
         "ability": [
-		    "¡Colección completa! ¡Suerte aumentada permanentemente!"
-		]
+            "¡Colección completa! ¡Suerte aumentada permanentemente!"
+        ]
     },
     "311": {
         "name": [
@@ -1870,5 +1866,1370 @@
             "¿o tienes otras intenciones?"
         ],
         "ability": ""
+    },
+    "21": {
+        "name": [
+            "Código misterioso"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "\"Mantén presionado el marco del avatar para activar el campo de entrada—\""
+        ],
+        "ability": "",
+        "howToUse": [
+            "<<Guía de Códigos Secretos>>",
+            "",
+            "Mantén presionado el marco del avatar del personaje (área de barra de vida) para abrir el cuadro de entrada.",
+            "Escribe el código y presiona Enter para activarlo.",
+            "Tras usar un código, recibirás el título 'ZAKO'.",
+            "Puedes alternar los efectos de este título en el menú de Ajustes.",
+            "Esto no tendrá ningún impacto negativo en tus estadísticas, historia o finales.",
+            "",
+            "<<Lista de Códigos Secretos>>",
+            ""
+        ],
+        "notUnlocked": [
+            "¡Aún no has desbloqueado ningún código secreto! Tal vez ese extraño caballero pueda darte algunas pistas."
+        ],
+        "yes1mh0rny": [
+            "< yes1mh0rny >",
+            "Desbloquea los registros de Rememoración para ${Object.keys(RecallStage.stageSetupMap).length} eventos H (se pueden activar en la habitación de \\str[120])."
+        ],
+        "hard2k1ll": [
+            "< hard2k1ll >",
+            "Obtén el equipo secreto 'Alas de cristal de la Reina Hada'.",
+            "Otorga inmunidad al daño por caída y una reducción masiva de daño."
+        ],
+        "get40rfree": [
+            "< get40rfree >",
+            "Obtén todos los consumibles, ingredientes y materiales. Solo de un solo uso."
+        ],
+        "6a1n60ld": [
+            "< 6a1n60ld >",
+            "Obtén 100,000 Yenes y el equipo 'Mazo de la suerte'. Vencer monstruos otorgará oro extra."
+        ],
+        "healmeplz": [
+            "< healmeplz >",
+            "Obtén el equipo secreto 'Botiquín de primeros auxilios de Mio'. Otorga autorregeneración permanente y potente mientras esté equipado."
+        ],
+        "unshatter": [
+            "< unshatter >",
+            "Obtén el equipo secreto 'Dedo dorado'. Los ataques ya no consumirán durabilidad de las armas mientras esté equipado."
+        ],
+        "60dpat": [
+            "< 60dpat >",
+            "Obtén el equipo secreto 'Catalyst Amatoria'. Otorga un aumento masivo de afecto al acariciar la cabeza de \\str[120] en casa."
+        ],
+        "muestacz": [
+            "< muestacz >",
+            "Obtén el equipo secreto 'Territorio Absoluto'. Otorga una enorme cantidad de espacio adicional en el inventario al equiparse."
+        ],
+        "1f0g0ty0u": [
+            "< 1f0g0ty0u >",
+            "Cambia el nombre de \\str[120]."
+        ]
+    },
+    "22": {
+        "name": [
+            "Conjunto de verano"
+        ],
+        "subtitle": [
+            "\"El mar, tú y yo\""
+        ],
+        "beIndependent": true,
+        "description": [
+            "Un set de mercancía de colaboración de verano del juego Shadow Souls",
+            "Se dice que su diseño está inspirado en uno de los eventos veraniegos clásicos más queridos del juego",
+            "Pero... ¿por qué un juego de acción tiene un elemento romántico tan desarrollado de todos modos?"
+        ],
+        "ability": [
+            "Puede activar un evento especial al regresar a casa durante un clima caluroso"
+        ]
+    },
+    "41": {
+        "name": [
+            "Fehu"
+        ],
+        "subtitle": [
+            "\"El poder de Midas\""
+        ],
+        "description": [
+            "Una piedra grabada con runas mágicas, diseñada para que incluso los novatos",
+            "sin conocimiento de magia puedan activar fácilmente su efecto"
+        ],
+        "ability": [
+            "Al lanzarla, convierte temporalmente en oro cualquier objetivo que toque",
+            "Destrozar un objetivo en este estado dorado generará una gran cantidad de dinero"
+        ]
+    },
+    "51": {
+        "name": [
+            "El Hierofante"
+        ],
+        "subtitle": [
+            "\"El momento del despertar está cerca\""
+        ],
+        "description": [
+            "Una carta mágica imbuida con hechizos",
+            "Diseñada para que incluso los novatos puedan activar sus efectos fácilmente"
+        ],
+        "ability": [
+            "Al usarse, otorga los estados Ojo de la Mente y Modo Sabio"
+        ]
+    },
+    "62": {
+        "name": [
+            "La Torre"
+        ],
+        "subtitle": [
+            "\"Invitación al Festín Abisal\""
+        ],
+        "description": [
+            "Una carta mágica imbuida con hechizos",
+            "Diseñada para que incluso los novatos puedan activar sus efectos fácilmente"
+        ],
+        "ability": [
+            "Al usarse, invoca el Pilar Sellado"
+        ]
+    },
+    "74": {
+        "name": [
+            "Trampa para osos"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una trampa de metal con púas y un resorte potente. ¡Su mordisco es aterrador!",
+            "Sin importar para qué bestia fue diseñada originalmente,",
+            "su objetivo ahora claramente ha cambiado a las pobres almas del Abismo"
+        ],
+        "ability": [
+            "Coloca una trampa para osos bajo tus pies",
+            "Se activa cada vez que una criatura no voladora pasa sobre ella"
+        ]
+    },
+    "80": {
+        "name": [
+            "Pergamino de sellado"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Una herramienta secreta transmitida únicamente entre ninjas",
+            "Activar las Marcas Malditas abre una brecha espacial, sellando objetos en su interior",
+            "Esos objetos pueden volver a invocarse cada vez que surja la necesidad"
+        ],
+        "ability": [
+            "Sella o invoca todo el equipo actualmente equipado",
+            "\\str[110]"
+        ]
+    },
+    "123": {
+        "name": [
+            "Naranja"
+        ],
+        "subtitle": "",
+        "description": [
+            "Fruta recién cosechada, llena de sabor refrescante",
+            "Comerla directamente restaura un poco de salud"
+        ],
+        "ability": ""
+    },
+    "124": {
+        "name": [
+            "Pera verde"
+        ],
+        "subtitle": "",
+        "description": [
+            "Fruta recién cosechada, llena de sabor refrescante",
+            "Comerla directamente restaura un poco de salud"
+        ],
+        "ability": ""
+    },
+    "125": {
+        "name": [
+            "Melocotón"
+        ],
+        "subtitle": "",
+        "description": [
+            "Fruta recién cosechada, llena de sabor refrescante",
+            "Comerla directamente restaura un poco de salud"
+        ],
+        "ability": ""
+    },
+    "128": {
+        "name": [
+            "Tentáculo del Gobernante"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un grueso tentáculo cercenado del Gobernante",
+            "Incluso sin su cuerpo, todavía se retuerce como si estuviera vivo",
+            "Como ingrediente culinario, es considerado un manjar raro y de primera clase",
+            "Sin embargo, se dice que además de cocinar, puede tener",
+            "usos milagrosamente inesperados en situaciones bastante extrañas..."
+        ],
+        "ability": ""
+    },
+    "139": {
+        "name": [
+            "X△X"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un Sacabambaspis que perdió la vitalidad tras verse envuelto en una explosión",
+            "Probablemente jamás imaginó que su deseo de 'conocer la tierra firme'",
+            "se cumpliría de esta manera..."
+        ],
+        "ability": ""
+    },
+    "150": {
+        "name": [
+            "Chile segador"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un chile ultra picante de las profundidades, que irradia ondas visibles de calor",
+            "¡Cómelo crudo y sentirás como si tu lengua se estuviera quemando!"
+        ],
+        "ability": [
+            "¡Un picante lo suficientemente intenso como para prenderle fuego a cualquiera!"
+        ]
+    },
+    "184": {
+        "name": [
+            "Champú 13 en 1 para hombres"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Como los trece ingredientes aún tienen pequeños desacuerdos,",
+            "¡agítese bien antes de usar!\""
+        ],
+        "description": [
+            "Una magnífica obra maestra de la magia alquímica",
+            "Un legendario producto que combina champú, acondicionador, gel de baño,",
+            "pasta dental, enjuague bucal, desodorante, combustible diésel, bebida isotónica, leche,",
+            "papel aluminio, zapatillas de tenis, hilo dental y píldoras anticonceptivas en una sola botella"
+        ],
+        "ability": ""
+    },
+    "185": {
+        "name": [
+            "Jesús Personal"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Crímenes sucios a precios de ganga...\""
+        ],
+        "description": [
+            "Una malévola curiosidad creada por un Archidemonio tras observar",
+            "la civilización humana. Cada pecado del portador queda fielmente",
+            "registrado y convertido en puntos. Estos puntos pueden ofrecerse",
+            "al demonio a cambio de favores profanos—"
+        ],
+        "ability": [
+            "Registra pecados como puntos. Permite el Comercio Demoníaco"
+        ]
+    },
+    "193": {
+        "name": [
+            "Consolador de tentáculo"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Material: Tentáculo del Gobernante (Macho)\""
+        ],
+        "description": [
+            "Un juguete erótico refinado tras entregar materiales de monstruos a la gatita comerciante",
+            "Se dice que se contrae y mueve automáticamente según el nivel de deseo del usuario...",
+            "Pero ¿por qué fabriqué algo como esto?—¡ESE DEBÍA HABER SIDO YO...!!"
+        ],
+        "productSubtitle": [
+            ""
+        ],
+        "productDescription": [
+            "Un misterioso juguete erótico que desprende un aura extrañamente ominosa",
+            "Sinceramente, me da curiosidad cómo se supone que se debe usar...",
+            "N-No, más importante, hay algo que he querido señalar todo este tiempo—",
+            "¡¿No me digas que los estantes del fondo están completamente repletos de cosas como esta?!"
+        ],
+        "ability": ""
+    },
+    "196": {
+        "name": [
+            "Galería de Recuerdos [Polaroid NLCH]"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Entra en la Galería de Recuerdos para ver todas las fotos Polaroid coleccionadas de esta serie"
+        ],
+        "ability": ""
+    },
+    "198": {
+        "name": [
+            "Camiseta de \\str[120]"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"¡Caballero...! ¡Incluso tiene un autógrafo...!\""
+        ],
+        "description": [
+            "Una camiseta especial obtenida del Caballero,",
+            "ahora usada como pijama por \\str[120].",
+            "Su corte holgado le da un aire de indefensa tentación.",
+            "Para evitar lavarla tan seguido, solo la usa cuando está de muy buen humor."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "240": {
+        "name": [
+            "Arroz con curry"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "241": {
+        "name": [
+            "Tarta de manzana"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "242": {
+        "name": [
+            "Manzana asada"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "243": {
+        "name": [
+            "Marisco salteado"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "244": {
+        "name": [
+            "Pescado a la parrilla"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "245": {
+        "name": [
+            "Champiñones salteados"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "246": {
+        "name": [
+            "Brochetas de carne asada"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "247": {
+        "name": [
+            "Onigiri"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "248": {
+        "name": [
+            "Curry con chuleta de cerdo"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "249": {
+        "name": [
+            "Panceta de cerdo estofada"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "250": {
+        "name": [
+            "Sopa de carne en rodajas"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "251": {
+        "name": [
+            "Carne asada"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "252": {
+        "name": [
+            "Onigiri de chuleta de cerdo"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "253": {
+        "name": [
+            "Gelatina de slime"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "254": {
+        "name": [
+            "Gelatina oscura"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "255": {
+        "name": [
+            "Gelatina ardiente"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "256": {
+        "name": [
+            "¿Gelatina arcoíris?"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "257": {
+        "name": [
+            "Plátano asado"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "258": {
+        "name": [
+            "Borsch"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "259": {
+        "name": [
+            "Brochetas de pulpo a la parrilla"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "260": {
+        "name": [
+            "Ensalada de verduras"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "261": {
+        "name": [
+            "Puré de papas"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "262": {
+        "name": [
+            "Sopa de rábano y champiñones"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "263": {
+        "name": [
+            "Pasta"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "264": {
+        "name": [
+            "Pasta con tomate"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "265": {
+        "name": [
+            "Pasta con mariscos"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "266": {
+        "name": [
+            "Arroz con curry y huevo"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "267": {
+        "name": [
+            "Omurice"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "268": {
+        "name": [
+            "Omurice de tomate"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "269": {
+        "name": [
+            "Risotto de mariscos"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "270": {
+        "name": [
+            "Bebida de piña"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "271": {
+        "name": [
+            "Salteado de Okinawa"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "272": {
+        "name": [
+            "Cubeta de pollo frito"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "273": {
+        "name": [
+            "Muslo de pollo frito"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "274": {
+        "name": [
+            "Onigiri de tempura"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "275": {
+        "name": [
+            "Langosta al horno"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "276": {
+        "name": [
+            "Cangrejo guisado"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "277": {
+        "name": [
+            "Cabeza de atún"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "278": {
+        "name": [
+            "Takoyaki"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "279": {
+        "name": [
+            "Filete de hamburguesa"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "280": {
+        "name": [
+            "Puré de papas picante"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "281": {
+        "name": [
+            "Sopa de chile"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "282": {
+        "name": [
+            "Gomitas de monstruo marino"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "283": {
+        "name": [
+            "Granizado de monstruo marino"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "284": {
+        "name": [
+            "Gomitas rojas de monstruo marino"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "285": {
+        "name": [
+            "Panqueque"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "286": {
+        "name": [
+            "Panqueque de fresa"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "287": {
+        "name": [
+            "Sopa de tomate"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "288": {
+        "name": [
+            "Fresas lavadas"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "289": {
+        "name": [
+            "Onigiri de pollo ahumado"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "290": {
+        "name": [
+            "Arroz con curry y pollo"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "291": {
+        "name": [
+            "Brochetas de zanahoria asada"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "292": {
+        "name": [
+            "Sushi de Sacabambaspis"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "293": {
+        "name": [
+            "Sushi de camarón y Sacabambaspis"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "294": {
+        "name": [
+            "Sushi de carne y Sacabambaspis"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "295": {
+        "name": [
+            "Pato asado de lava"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "296": {
+        "name": [
+            "Onigiri de tiburón"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "298": {
+        "name": [
+            "Ramen del infierno"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "300": {
+        "name": [
+            "Fideos instantáneos calientes"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "315": {
+        "name": [
+            "Boleta de multa de Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "Una boleta de multa recibida tras ser golpeado en el acto por tomar productos",
+            "sin permiso. Claro, yo fui quien actuó primero, pero tras la paliza,",
+            "también me confiscaron parte de mi dinero por la fuerza.",
+            "Esta forma de resolver las cosas se siente bastante brutal…"
+        ],
+        "ability": ""
+    },
+    "320": {
+        "name": [
+            "Piedra infernal"
+        ],
+        "subtitle": [
+            "\"El primer aventurero en extraerla y sacarla se llamaba Kyurame.",
+            "Se negó a que la nombraran en su honor porque sonaba demasiado chuuni—\""
+        ],
+        "description": [
+            "Un mineral especial encontrado únicamente en las capas más profundas del Abismo.",
+            "Contiene maná abrasador, pero es excepcionalmente duro,",
+            "y solo puede extraerse y procesarse mediante métodos específicos."
+        ],
+        "ability": ""
+    },
+    "326": {
+        "name": [
+            "Sandía fría"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Sandía fresca tomada directamente del refrigerador y cortada en trozos ideales",
+            "Fresca, dulce, reconfortante y jugosa—¡el bocado perfecto para combatir el calor veraniego!"
+        ],
+        "ability": ""
+    },
+    "410": {
+        "name": [
+            "La sugerencia del Caballero"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Ya veo... ¿El juego te resulta demasiado difícil?",
+            "Si a Su Excelencia no le molesta, puedo proporcionarle un método especial...\""
+        ],
+        "description": [
+            "Un código misterioso proporcionado en secreto por el Caballero.",
+            "Puede mejorar al instante la experiencia de juego—¿pero a qué costo?"
+        ],
+        "ability": ""
+    },
+    "411": {
+        "name": [
+            "Historias recopiladas"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Supongo que buscaré caminos secretos...\""
+        ],
+        "description": [
+            "Le prometí a un extraño caballero recopilar historias interesantes de mi aventura.",
+            "Pero pensándolo bien, ¿qué califica como 'interesante'...?",
+            "En fin, tal vez me llegue la inspiración si deambulo un poco más por ahí—"
+        ],
+        "ability": [
+            "Historias informadas: \\c[6]${$gameNumberArray.value(37).length}"
+        ]
+    },
+    "412": {
+        "name": [
+            "Por \\str[120]"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Seguir explorando en las capas más profundas del Abismo—\""
+        ],
+        "description": [
+            "Para curar la constitución de \\str[120],",
+            "debo buscar en el Abismo la Piedra Filosofal,",
+            "un ingrediente para la medicina legendaria."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "430": {
+        "name": [
+            "Juego vergonzoso en el espejo del baño"
+        ],
+        "subtitle": [
+            "Mientras se bañaban juntos, incapaz de resistir las provocaciones de \\str[120]",
+            "y dominado por el impulso de mimarla,",
+            "\\str[121] la llevó frente al espejo—"
+        ],
+        "description": "",
+        "ability": ""
+    },
+    "431": {
+        "name": [
+            "Servicio de lavado especial de \\str[120] II"
+        ],
+        "subtitle": [
+            "Para profundizar su vínculo, \\str[121] le pidió a \\str[120] que le lavara la espalda,",
+            "pero tentando a su suerte, pronto le pidió que también le lavara el miembro de enfrente.",
+            "Comprendiéndolo por completo, \\str[120] ofreció un servicio de lavado especial en el acto..."
+        ],
+        "description": "",
+        "ability": ""
+    },
+    "432": {
+        "name": [
+            "Servicio de lavado especial de \\str[120] I"
+        ],
+        "subtitle": [
+            "Para profundizar su vínculo, \\str[121] le pidió a \\str[120] que le lavara la espalda,",
+            "pero tentando a su suerte, pronto le pidió que le lavara también los brazos de enfrente.",
+            "Comprendiéndolo por completo, \\str[120] ofreció un servicio de lavado especial en el acto..."
+        ],
+        "description": "",
+        "ability": ""
+    },
+    "433": {
+        "name": [
+            "Corrigiendo a \\str[120] que se volvió pícara en secreto"
+        ],
+        "subtitle": [
+            "Al volver a casa temprano, \\str[121] atrapó por accidente a \\str[120] viendo en secreto",
+            "vídeos para adultos a solas y aprendiendo a masturbarse con un consolador de tentáculo.",
+            "Frente a una \\str[120] que se volvía cada vez más lujuriosa a sus espaldas,",
+            "\\str[121] decidió erigir su miembro y someterla a una estricta corrección—"
+        ],
+        "description": "",
+        "ability": ""
+    },
+    "434": {
+        "name": [
+            "Viendo una película de terror con \\str[120]"
+        ],
+        "subtitle": [
+            "\\str[121] invita a \\str[120], que nunca antes se había desvelado, a ver una",
+            "misteriosa cinta de vídeo que compró, ¡solo para descubrir que era de terror!",
+            "Aterrorizada por las escenas escalofriantes, \\str[120] se aferra con fuerza a \\str[121],",
+            "intentando calmar su ansiedad mediante el contacto físico cercano, pero antes",
+            "de que se den cuenta, la atmósfera se vuelve gradualmente más caliente e íntima..."
+        ],
+        "description": "",
+        "ability": ""
+    },
+    "435": {
+        "name": [
+            "Espiando a \\str[120] en el baño"
+        ],
+        "description": [
+            ""
+        ],
+        "subtitle": [
+            "¡Apostando todas mis habilidades ninja!",
+            "¡La vista ante mí ahora mismo ES MI CAMINO NINJA, RAAAAAAGH—!"
+        ],
+        "ability": ""
+    },
+    "436": {
+        "name": [
+            "¡Volviéndose pervertido por \\str[120]!"
+        ],
+        "subtitle": [
+            "'Mi querida \\str[120], no querrías que \\str[121] siguiera sufriendo así, ¿verdad?'",
+            "A pesar de haber sido descubierto espiando a \\str[120],",
+            "\\str[121] de algún modo se llenó de orgullo",
+            "y sedujo a la tímida \\str[120] paso a paso con su miembro—"
+        ],
+        "ability": ""
+    },
+    "437": {
+        "name": [
+            "El servicio con las bragas de \\str[120]"
+        ],
+        "subtitle": [
+            "'Hacer algo como esto con mis bragas mientras piensas en mí...",
+            "De verdad no tienes remedio, \\str[121]♥'",
+            "Aunque exasperada por un \\str[121] que siempre trama cosas indecentes,",
+            "la dulce y adorable \\str[120] aún lo atiende con devoción",
+            "utilizando sus bragas tibias recién quitadas—"
+        ],
+        "ability": ""
+    },
+    "480": {
+        "name": [
+            "El poder de la oración"
+        ],
+        "subtitle": [
+            "\"Mientras ofrezcas tus oraciones,",
+            "¡cada problema en este mundo simplemente... se desvanecerá!\""
+        ],
+        "description": [
+            "Fotografías que capturan la vida cotidiana de las chicas de la Fiesta del Té…",
+            "¿pero quién tomó estas fotos?"
+        ],
+        "ability": ""
+    },
+    "500": {
+        "name": [
+            "Guía de misiones ocultas"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Basta con leer toda la guía y superar el juego será pan comido——",
+            " Pero eso es... LO QUE PIENSAN LOS ZAKOS.",
+            " ¡En esta partida, me lo pasaré todo en muerte permanente!\""
+        ],
+        "description": [
+            "En cierta línea temporal, un jugador dejó atrás esta audaz proclamación...",
+            "y se lanzó de cabeza hacia la Torre sin arrepentimiento alguno."
+        ],
+        "ability": [
+            "Texto de orientación de misiones ocultas"
+        ]
     }
 }

@@ -1,109 +1,109 @@
 {
-  "autoUpdateReminder": {
+    "autoUpdateReminder": {
         "0": [
             "El proceso de actualización comenzará automáticamente al despertarte al día siguiente.",
-			"¡Asegúrate de que tu conexión a internet sea estable durante todo el proceso!",
-			"\\w[120]"
-		],
-		"1": [
+            "¡Asegúrate de que tu conexión a internet sea estable durante todo el proceso!",
+            "\\w[120]"
+        ],
+        "1": [
             "¡No se puede ver el registro de actualizaciones!",
-			"¡Puede que la conexión de red haya fallado!",
-			"\\w[120]"
-        ]		
-    }, 
-  "Abyss": {
+            "¡Puede que la conexión de red haya fallado!",
+            "\\w[120]"
+        ]
+    },
+    "Abyss": {
         "0": [
             " La Torre Eterna Olvidada "
-		]
-    },			
-  "ElixirCraft": {
+        ]
+    },
+    "ElixirCraft": {
         "0": [
             " Elaboración de elixir "
-		],
-		"1": [
+        ],
+        "1": [
             " ¡Elixir Rubrum creado correctamente! "
-        ]		
-    },	
-  "gainRedHeart": {
+        ]
+    },
+    "gainRedHeart": {
         "0": [
             " Corazón Floreciente "
-		],
-		"1": [
+        ],
+        "1": [
             " ¡El corazón de \\str[120] acaba de dar un vuelco! "
-        ]		
-    },	
-  "gainWhiteHeart": {
+        ]
+    },
+    "gainWhiteHeart": {
         "0": [
             " Amor Desbordante "
-		],
-		"1": [
+        ],
+        "1": [
             " ¡Estaba llena! "
-        ]		
-    },	
-  "gainGoldenHeart": {
+        ]
+    },
+    "gainGoldenHeart": {
         "0": [
             " Lujuria dorada "
-		],
-		"1": [
+        ],
+        "1": [
             " Perdido en un mar de oro "
-        ]		
-    },		
-  "NinjasFate": {
+        ]
+    },
+    "NinjasFate": {
         "0": [
             " Destino del ninja "
-		],
-		"1": [
+        ],
+        "1": [
             " Borrarse a uno mismo y blandir la espada por los camaradas... "
-        ]		
-    },		
-  "unlockJackalope": {
+        ]
+    },
+    "unlockJackalope": {
         "0": [
             " Jackalope "
-		],
-		"1": [
+        ],
+        "1": [
             " ¡ha aparecido en el abismo! "
-        ]		
-    },	
-  "maidBunnyBoss": {
+        ]
+    },
+    "maidBunnyBoss": {
         "0": [
             "¡Realmente no hay nada especial más adelante!",
-			"¡Así que no hay necesidad de ir a comprobarlo, EE. UU.!"
-		],
-		"1": [
+            "¡Así que no hay necesidad de ir a comprobarlo, EE. UU.!"
+        ],
+        "1": [
             "¡N-no hay nada aquí, de verdad! ¡N-no te acerques más!",
-			"J-juro que no hay absolutamente nada escondido aquí, EE. UU.!"
+            "J-juro que no hay absolutamente nada escondido aquí, EE. UU.!"
         ],
-		"2": [
+        "2": [
             "...Usa?",
-			"¿Qué es ese ruido extraño?"
+            "¿Qué es ese ruido extraño?"
         ],
-		"3": [
+        "3": [
             "...Usa!?",
-			"Cómo encontraste este lugar—!"
+            "Cómo encontraste este lugar—!"
         ],
-		"4": [
+        "4": [
             "...Usa!?",
-			"¡¡Un humano...!!"
+            "¡¡Un humano...!!"
         ],
-		"5": [
+        "5": [
             "Usaaaa, cabrón—                        \\w[45]",
-			"\\{Estás aquí para robarme las zanahorias!       \\w[60]\\^"
+            "\\{Estás aquí para robarme las zanahorias!       \\w[60]\\^"
         ],
-		"6": [
+        "6": [
             "Usa!? ¡Mis zanahorias!         \\w[45]",
-			"\\{Un ladrón de zanahorias!         \\w[60]\\^"
-        ]		
+            "\\{Un ladrón de zanahorias!         \\w[60]\\^"
+        ]
     },
-  "noBombFishing": {
+    "noBombFishing": {
         "0": [
             "¡Pescar con bombas está estrictamente prohibido!",
-			"¡Hazlo bajo tu propio riesgo!"
-		]		
-    },	  
-  "sela": {
-		"1": [
+            "¡Hazlo bajo tu propio riesgo!"
+        ]
+    },
+    "sela": {
+        "1": [
             "(Parece que no despertará pronto…",
-			"Supongo que volveré más tarde…)"
+            "Supongo que volveré más tarde…)"
         ],
         "2": [
             "…Hmm?",
@@ -252,358 +252,499 @@
         "38": [
             "(Creo que acabo de ver…",
             "algo que definitivamente no debería haber visto…)"
-        ]	
-    },	
-  "PhilosophersFragment": {
+        ]
+    },
+    "PhilosophersFragment": {
         "title": [
             "Fragmento del Filósofo"
-		],
+        ],
         "description50": [
             "Un fragmento especial obtenido de la Bestia Roja",
-			"Si se pueden recolectar varios fragmentos",
-			"podría ayudar a mejorar la condición de ${}"
-		],
+            "Si se pueden recolectar varios fragmentos",
+            "podría ayudar a mejorar la condición de ${}"
+        ],
         "description56": [
             "Un fragmento especial obtenido de la Conejita",
-			"Si se pueden recolectar varios fragmentos",
-			"podría ayudar a mejorar la condición de ${}"
-		]		
-    },		
-  "imoutoAhoge": {
+            "Si se pueden recolectar varios fragmentos",
+            "podría ayudar a mejorar la condición de ${}"
+        ],
+        "description12": [
+            "Un fragmento especial obtenido del Gobernante",
+            "Si se recolectan varios fragmentos,",
+            "podría ayudar a mejorar la condición de ${}"
+        ]
+    },
+    "imoutoAhoge": {
         "0": [
             "Accidentalmente extrajo el ahoge de \\str[120]."
-		],
-		"1": [
+        ],
+        "1": [
             "No pareció notar nada inusual, ",
-			"y volvió a crecer rápidamente.",
-			"...¿Podría ser algún tipo de recurso renovable?"
+            "y volvió a crecer rápidamente.",
+            "...¿Podría ser algún tipo de recurso renovable?"
         ],
         "2": [
             "\\nl< >\"...¿Qué pasa, \\str[121]?",
-			"Pareces muy serio.\""
+            "Pareces muy serio.\""
         ],
         "3": [
             "Ya que parece complicado, ",
-			"mejor no le doy demasiadas vueltas."
+            "mejor no le doy demasiadas vueltas."
         ],
         "4": [
             "Mejor no lo vuelvo a tocar..."
-        ],	
+        ],
         "5": [
             "\\nl< >\"...Me pica un poco la cabeza.   \\w[30]",
-			"¿Hiciste algo, \\str[121]?\""
+            "¿Hiciste algo, \\str[121]?\""
         ],
         "6": [
             "\"¡No he hecho nada...! ¡En serio!\""
-        ]		
+        ]
     },
-  "cookingSystem": {
+    "cookingSystem": {
         "0": [
             "\\ii[\\v[\\v[85]]]está listo. ¿Qué hago?"
-		],
-		"1": [
+        ],
+        "1": [
             "Cambiarlo",
-			"Eliminarlo"
+            "Eliminarlo"
         ],
         "2": [
             "¡¡Sigo eligiendo ingredientes!!"
-        ]	
-    },	
-  "inventoryExpansion": {
+        ]
+    },
+    "inventoryExpansion": {
         "0": [
             "Parece que usar \\ii[312]",
-			"puede expandir la capacidad de la mochila..."
-		],	  
+            "puede expandir la capacidad de la mochila..."
+        ],
         "1": [
             "Expandir ranuras para armas",
-			"Expandir ranuras para equipo",
-			"No importa"
-		],
+            "Expandir ranuras para equipo",
+            "No importa"
+        ],
         "2": [
             "La cantidad de \\ii[312]",
-			"parece insuficiente..."
-		]	
+            "parece insuficiente..."
+        ]
     },
-  "loadingEasterEgg": {
+    "loadingEasterEgg": {
         "0": [
             "\\nl< >\"El filete de Hamburgo es la comida más deliciosa.\"  \\w[180] \\^"
-		],	  
+        ],
         "1": [
             "\\nl< >\"\\str[121] seguramente traerá de vuelta ",
-			"una montaña de carne para su \\str[120]...\"   \\w[360] \\^"
-		],
+            "una montaña de carne para su \\str[120]...\"   \\w[360] \\^"
+        ],
         "2": [
             "Mi hermana parece estar diciendo algo..."
-		],
+        ],
         "3": [
             "\\nl< >\"Pero los pimientos verdes son el enemigo.   \\w[120]",
-			"\\str[121], tienes que comértelos todos…       \\w[120]",
-			"¡Ve a derrotar al enemigo verde~!\"               \\w[120]\\^"
-		],	  
+            "\\str[121], tienes que comértelos todos…       \\w[120]",
+            "¡Ve a derrotar al enemigo verde~!\"               \\w[120]\\^"
+        ],
         "4": [
             "\\nl< >\"Ah, estás despierto…     \\w[60]",
-			"\\str[121], ¿dormiste bien?\""
-		],
+            "\\str[121], ¿dormiste bien?\""
+        ],
         "5": [
             "\"No realmente… Por cierto, ",
-			"He estado escuchando unos sonidos extraños ",
-			"desde hace un tiempo…\""
-		],	
+            "He estado escuchando unos sonidos extraños ",
+            "desde hace un tiempo…\""
+        ],
         "6": [
             "\\nl< >\"Eh, jeje, ¡esa fue mi    \\w[60]",
-			"ayuda especial para la hora de dormir, \\str[121]!\""
-		],	
+            "ayuda especial para la hora de dormir, \\str[121]!\""
+        ],
         "7": [
             "\\nl< >\"Mi hermana es tan linda…               \\w[120]",
-			"Ella es mi chica favorita del mundo...  \\w[210]",
-			"Mi hermana es————                              \\w[150]\\^"
-		],	
+            "Ella es mi chica favorita del mundo...  \\w[210]",
+            "Mi hermana es————                              \\w[150]\\^"
+        ],
         "8": [
             "Mi hermana parece estar diciendo algo..."
-		],	
+        ],
         "9": [
             "\\nl< >\"Ah, \\str[121]! ¡Buenas noches—!\""
-		],
+        ],
         "10": [
             "\\nl< >\"Eh... ¿Oíste todo lo que acabo de decir?\""
-		],
+        ],
         "11": [
             "\\nl< >\"\\str[121], tu cara de dormida ",
-			"era muy graciosa ahora~\""
-		],
+            "era muy graciosa ahora~\""
+        ],
         "12": [
             "\\nl< >\"Es raro verte dormitando~\""
-		]		
+        ]
     },
-  "rubberDuck": {
+    "rubberDuck": {
         "0": [
             "Un patito de goma solitario ",
-			"flota en el agua..."
-		],	  
+            "flota en el agua..."
+        ],
         "1": [
             "Recógelo",
-			"Déjalo"
-		],
+            "Déjalo"
+        ],
         "2": [
             "¿Alguien tiró esto?",
-			"Parece un poco triste, ¿eh…?"
-		],	
+            "Parece un poco triste, ¿eh…?"
+        ],
         "3": [
             "Ahora que lo pienso…",
-			"A mí también me arrastraron río arriba…"
-		],	
+            "A mí también me arrastraron río arriba…"
+        ],
         "4": [
             "Si me llevo esto a casa…",
-			"¿Mi hermana estaría contenta?"
-		],
+            "¿Mi hermana estaría contenta?"
+        ],
         "5": [
             "Pero parece un poco sucio,",
-			"así que quizás debería dejarlo..."
-		]
+            "así que quizás debería dejarlo..."
+        ]
     },
-  "drowning": {
+    "drowning": {
         "0": [
             "Ahhh... estuvo cerca... ",
-			"¡Me resbalé de la orilla del río y casi me ahogo!"
-		]
+            "¡Me resbalé de la orilla del río y casi me ahogo!"
+        ]
     },
-  "mecha": {
+    "mecha": {
         "0": [
             "Un extraño mecha, cubierto de polvo hace tiempo, está aquí...",
-			"No responde ni al tacto."
-		],
+            "No responde ni al tacto."
+        ],
         "1": [
             "Eh...?",
-			"¿Hay algo aquí?"
-		],
+            "¿Hay algo aquí?"
+        ],
         "2": [
             "¿Una pieza caída?",
-			"Parece que aún se puede activar..."
-		]
+            "Parece que aún se puede activar..."
+        ]
     },
-  "erohon": {
+    "erohon": {
         "0": [
             "(Todavía hay gente o monstruos cerca...",
-			"mejor no saques este libro.)"
-		]
+            "mejor no saques este libro.)"
+        ]
     },
-   "ninja": {
+    "ninja": {
         "0": [
             "No puedo creer que haya una habitación secreta artificial en un lugar como este.",
-			"W¿Quién la habrá construido...?"
-		],
+            "W¿Quién la habrá construido...?"
+        ],
         "1": [
             "Whoa…!?",
-			"Incluso hay una chica desmayada aquí..."
-		],
+            "Incluso hay una chica desmayada aquí..."
+        ],
         "2": [
             "Ahora que lo pienso, he estado oyendo ruidos extraños...",
-			"¿Era su estómago el que hacía esos ruidos...?"
-		],	
+            "¿Era su estómago el que hacía esos ruidos...?"
+        ],
         "3": [
             "Ugh…",
-			"Qué hambre..."
-		],	
+            "Qué hambre..."
+        ],
         "4": [
             "…………",
-			"¿Tiene tanta hambre que apenas está consciente…?"
-		],	
+            "¿Tiene tanta hambre que apenas está consciente…?"
+        ],
         "5": [
             "Hay una fogata aquí, perfecto.",
-			"¡Le prepararé algo de comer!"		
-		],
+            "¡Le prepararé algo de comer!"
+        ],
         "6": [
             "¿Debería usar \\ii[\\v[90]]     ",
-			"y preparar algo sencillo?"
-		],	
+            "y preparar algo sencillo?"
+        ],
         "7": [
             "¡Hagámoslo!",
-			"…Olvídalo."
-		],	
+            "…Olvídalo."
+        ],
         "8": [
             "Mmm… Quizás debería cambiar por",
-			"mejores ingredientes…"
-		],	
+            "mejores ingredientes…"
+        ],
         "9": [
             "¡Oye! ¡Te preparé comida caliente!",
-			"¿Crees que puedes comer?"
-		],	
+            "¿Crees que puedes comer?"
+        ],
         "10": [
             "Sniff sniff… sniff sniff…",
-			"T¿Ese olor… es comida?"
-		],		
+            "T¿Ese olor… es comida?"
+        ],
         "11": [
             "¡¡El olor a comida!!"
-		],		
+        ],
         "12": [
             "\\{¡Bien, voy a comer!"
-		],		
+        ],
         "13": [
             "Tú... tú pequeña...",
-			"Yo hice eso, ¿sabes?"
-		],		
+            "Yo hice eso, ¿sabes?"
+        ],
         "14": [
             "(Se lo terminó en unos pocos bocados...",
-			"De verdad que debía estar muerta de hambre...)"
-		],		
+            "De verdad que debía estar muerta de hambre...)"
+        ],
         "15": [
             "Munch munch... ¡Me salvaste por completo!",
-			"No he comido en días... munch munch..."
-		],			
+            "No he comido en días... munch munch..."
+        ],
         "16": [
             "Pensé que me iba a convertir en un fantasma hambriento",
-			"rondando esta mazmorra... ¡Grrrr!"
-		],		
+            "rondando esta mazmorra... ¡Grrrr!"
+        ],
         "17": [
             "Oye... come un poco más despacio... Por cierto,",
-			"¿por qué estás aquí sola en un lugar como este?"
-		],		
+            "¿por qué estás aquí sola en un lugar como este?"
+        ],
         "18": [
             "¡Ah! ¡Así que...!",
-			"¡Estaba trabajando en serio en mi misión, ¿de acuerdo!"
-		],		
+            "¡Estaba trabajando en serio en mi misión, ¿de acuerdo!"
+        ],
         "19": [
             "Quería buscar el tesoro escondido en esta zona,",
-			"¡así que excavé una habitación secreta en un lugar apartado!"
-		],		
+            "¡así que excavé una habitación secreta en un lugar apartado!"
+        ],
         "20": [
             "Pero entonces... ¡munch munch!.",
-			"Después de entrar, ¡la entrada quedó bloqueada por una lápida!"
-		],		
+            "Después de entrar, ¡la entrada quedó bloqueada por una lápida!"
+        ],
         "21": [
             "Uf,No me lo esperaba para nada,",
-			"así que mis raciones se acabaron rapidísimo... y entonces..."
-		],	
+            "así que mis raciones se acabaron rapidísimo... y entonces..."
+        ],
         "22": [
             "Un ninja que se encuentra con un desastre como este...",
-			"No puedo enfrentarme a la organización ahora..."
-		],	
+            "No puedo enfrentarme a la organización ahora..."
+        ],
         "23": [
             "¿Eh... eh? ¿Pero por qué",
-			"cavaste una habitación secreta en primer lugar..."
-		],	
+            "cavaste una habitación secreta en primer lugar..."
+        ],
         "24": [
             "Porque ese tesoro no siempre aparece,",
-			"así que tenía que estar preparado para una larga estancia... ¡Buen provecho!"
-		],	
+            "así que tenía que estar preparado para una larga estancia... ¡Buen provecho!"
+        ],
         "25": [
             "Además, no puedo contárselo a nadie más,",
-			"¡es una misión supersecreta del jefe!"
-		],	
+            "¡es una misión supersecreta del jefe!"
+        ],
         "26": [
             "Si alguien más se entera...",
-			"¿qué crees que pasará..."
-		],	
+            "¿qué crees que pasará..."
+        ],
         "27": [
             "Por supuesto, tendría que encargarme de ellos discretamente...",
-			"si no, sería un ninja fracasado... ¡Buen provecho!"
-		],	
+            "si no, sería un ninja fracasado... ¡Buen provecho!"
+        ],
         "28": [
             "...¡Espera! ¿¡Qué!?",
-			"¡Acabo de filtrar información!"
-		],	
+            "¡Acabo de filtrar información!"
+        ],
         "29": [
             "Eh... Prometo no decir nada...",
-			"así que, eh..."
-		],		
+            "así que, eh..."
+        ],
         "30": [
             "...¿¡Eh!?"
-		],		
+        ],
         "31": [
             "No puedo creer que haya vuelto a arruinarlo tanto…",
-			"Ugh… incluso si me hubieras salvado…"
-		],		
+            "Ugh… incluso si me hubieras salvado…"
+        ],
         "32": [
             "¡E-espera un segundo!",
-			"¿¡Me vas a matar solo por eso!?"
-		],		
+            "¿¡Me vas a matar solo por eso!?"
+        ],
         "33": [
             "De eso se trata ser un ninja…",
-			"Tienes que luchar para sobrevivir…"
-		],		
+            "Tienes que luchar para sobrevivir…"
+        ],
         "34": [
             "O sea, yo tampoco quiero hacerte daño,",
-			"pero aun así te debo una comida…"
-		],	
+            "pero aun así te debo una comida…"
+        ],
         "35": [
             "S-si es así—",
-			"\\^"
-		],	
+            "\\^"
+        ],
         "36": [
             "Entonces solo hay una respuesta—",
-			"¡Tú también tienes que convertirte en ninja!"
-		],	
+            "¡Tú también tienes que convertirte en ninja!"
+        ],
         "37": [
             "Si te unes a nuestro grupo,",
-			"¡no hay razón para que peleemos entre nosotros!"
-		],	
+            "¡no hay razón para que peleemos entre nosotros!"
+        ],
         "38": [
             "¡E-espera un segundo!",
-			"¡Realmente no tengo elección, ¿verdad?"
-		],	
+            "¡Realmente no tengo elección, ¿verdad?"
+        ],
         "39": [
             "Está bien,",
-			"Seré gentil..."
-		],
+            "Seré gentil..."
+        ],
         "40": [
             "...¿¡Wah!",
-			"¡Aléjate de mí!"
-		],
+            "¡Aléjate de mí!"
+        ],
         "41": [
             "¡Realmente tienes un don para esto de ninja…!",
-			"¡Lo aprendiste todo con solo un poco de práctica!"
-		],
+            "¡Lo aprendiste todo con solo un poco de práctica!"
+        ],
         "42": [
             "¡Ahora,",
-			"¡tú también eres uno de nosotros!"
-		],
+            "¡tú también eres uno de nosotros!"
+        ],
         "43": [
             "Pero tendré que esperar a que termine mi misión",
-			"¡antes de poder presentarte al jefe!"
-		],
+            "¡antes de poder presentarte al jefe!"
+        ],
         "44": [
             "En este punto,",
-			"ya nada importa realmente…"
-		]		
-    }	
+            "ya nada importa realmente…"
+        ]
+    },
+    "unlockStrangeTentacle": {
+        "0": [
+            " ¡Tentáculo Extraño "
+        ],
+        "1": [
+            " ha aparecido en el Abismo! "
+        ]
+    },
+    "nekoTruck": {
+        "0": [
+            "¿Quieres comprar \\v[84]?",
+            "¡Cuesta \\c[6]\\v[85]\\c[0] yenes!"
+        ],
+        "1": [
+            "¡Comprarlo!",
+            "Dejarlo…",
+            "Tomarlo a escondidas…"
+        ],
+        "10": "¡No hay un carril lo suficientemente ancho!",
+        "11": "¡Hay obstáculos en el carril!",
+        "12": "¡El Carro ha sido invocado con éxito!",
+        "13": "¡El Carro no se puede invocar en esta zona!"
+    },
+    "sealingScroll": [
+        "Aún no hay objetos sellados",
+        "Bajo Sello:"
+    ],
+    "gameAnnouncement": {
+        "0": [
+            "Echar un vistazo",
+            "Dejarlo"
+        ]
+    },
+    "skillOnCooldown": {
+        "0": [
+            "¡Habilidad en enfriamiento!"
+        ]
+    },
+    "cheatCodeTutorial": {
+        "0": [
+            "⬆ Mantén presionado el marco del avatar para abrir la ventana de códigos secretos.",
+            "¡Introduce el código correcto para desbloquear las funciones correspondientes!"
+        ]
+    },
+    "forceGoHome": [
+        "Se está haciendo tarde... El abismo de noche es peligroso,",
+        "¡debería volver a casa lo antes posible...!"
+    ],
+    "AnsuzSystem": {
+        "writeNotLoggedIn": "¡El jugador no ha iniciado sesión! ¡Error al subir Ansuz!",
+        "uploadFailed": "¡No se pudo conectar al servidor! ¡Error al subir Ansuz!",
+        "writeLimitReached": "¡Has alcanzado el límite de creación de Ansuz de hoy!",
+        "writeRejected": "¡Datos anormales! ¡Error al subir Ansuz!",
+        "rateNotLoggedIn": "¡El jugador no ha iniciado sesión! ¡Error al calificar!",
+        "rateFailed": "¡No se pudo conectar al servidor! ¡Error al calificar!",
+        "rateLimitReached": "¡Has alcanzado el límite de calificaciones de hoy!",
+        "rateRejected": "¡No puedes calificar tu propio Ansuz!"
+    },
+    "cannotUseItem": "¡No puedes usar el objeto ahora!",
+    "gallerySystem": {
+        "startRecall": [
+            "El registro de recuerdos de este evento ha sido desbloqueado.",
+            "¿Te gustaría revivir este recuerdo?"
+        ],
+        "recallButton": [
+            "Rememorar Evento",
+            "Dejarlo"
+        ],
+        "placeholder": "Recuerdos Disponibles",
+        "takeBathWithImouto": "Bañarse junto a \\str[120]",
+        "Polaroid": "Serie Polaroid de la Fiesta del Té"
+    },
+    "bulkSelectButton": "Haz clic para alternar la selección múltiple",
+    "magicCamera": {
+        "record": "Grabar Vídeo",
+        "stop": "Detener Grabación",
+        "screenshot": "Tomar Captura",
+        "view": "Ver Archivos",
+        "starting": "Grabando...",
+        "saving": "Guardando...",
+        "screenshotting": "Capturando pantalla...",
+        "failed": "¡Operación fallida!",
+        "duration": "Tiempo grabado {time}"
+    },
+    "takePhotoOfImouto": {
+        "0": [
+            "\\nl< >\"¡Ngh! ¡\\str[121]!    \\w[60]",
+            "¡¿Otra vez tomando fotos a escondidas?!\""
+        ]
+    },
+    "usingItem": {
+        "0": [
+            "Sacaste \\ii[\\v[90]]  ",
+            "¿qué debería hacer…?"
+        ],
+        "1": [
+            "Usarlo",
+            "Dejarlo",
+            "Descartar"
+        ]
+    },
+    "warehouseIsFull": "¡No puedes almacenar más objetos!",
+    "inventoryOverweight": {
+        "weapon": [
+            "¡No puedes llevar más armas!"
+        ],
+        "gear": [
+            "¡No puedes llevar más equipo!"
+        ]
+    },
+    "unlockMystletainn": {
+        "0": [
+            " ¡Mistilteinn "
+        ],
+        "1": [
+            " ha aparecido en el Abismo! "
+        ]
+    },
+    "unlockAppleFairy": {
+        "0": [
+            " ¡Hada Manzana "
+        ],
+        "1": [
+            " ha aparecido en el Abismo! "
+        ]
+    },
+    "UnitINexus": {
+        "bossRespawnCountdown": "¡%1 reaparecerá en %2 días!",
+        "bossChallengeAvailable": "¡%1 ha reaparecido!",
+        "noBossDetected": "¡No se detectó ningún jefe con \\ii[20]!"
+    },
+    "AbyssPillars": {
+        "0": [
+            " ▓▓▓▓ ha percibido tu existencia "
+        ]
+    }
 }
