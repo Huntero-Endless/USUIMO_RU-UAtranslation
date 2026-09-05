@@ -1,4 +1,16 @@
 {
+  "MapExploration": {
+    "TemporaryTemplate": [
+      "浴室",
+      "リビング",
+      "\\str[120]の部屋",
+      "トイレ"
+    ],
+    "saveButton": [
+      "ロード",
+      "セーブ"
+    ]
+  },
   "autoUpdateReminder": {
     "0": [
       "アップデートは翌朝起床時に自動で開始されます。",

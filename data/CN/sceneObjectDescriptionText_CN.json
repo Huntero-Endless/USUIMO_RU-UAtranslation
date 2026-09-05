@@ -90,5 +90,21 @@
   "18": [
     "✦\\str[120]刚脱下的胖次。",
     "还残留着体温，中间那一小块布料看起来湿哒哒的。"
-  ]
+  ],
+  "Fridge": {
+    "objectName": "LV1 冰箱",
+    "objectDescription": [
+      "可以塞下大量冰鲜食材的大冰箱",
+      "侧栏已经被\\str[120]占领，只用来放她爱喝的饮料"
+    ],
+    "allDrinksCollected": [
+      "各种口味都备齐了！足够让\\str[120]开心上好一阵子！"
+    ],
+    "drinkCapacity": "饮料容量",
+    "storedCount": "已存放数量",
+    "affectionPledgeReward": "每日可自动获得好感度",
+    "moodPledgeReward": "每日可自动获得心情值",
+    "affectionDrinkGain": "饮用后可获得好感度",
+    "moodDrinkGain": "饮用后可获得心情值"
+  }
 }

@@ -114,5 +114,21 @@
     "✦The panties \\str[120] just took off.",
     "It still hold her body heat, and that small patch ",
     "of fabric in the middle looks soaking wet."
-  ]
+  ],
+  "Fridge": {
+    "objectName": "LV1 Fridge",
+    "objectDescription": [
+      "A large fridge with plenty of room for fresh ingredients",
+      "The door shelves belong to \\str[120], reserved exclusively for her favorite drinks"
+    ],
+    "allDrinksCollected": [
+      "Every flavor is stocked! Enough to keep \\str[120] happy for quite a while!"
+    ],
+    "drinkCapacity": "Drink Capacity",
+    "storedCount": "Stored Amount",
+    "affectionPledgeReward": "Daily Automatic Affection Gain",
+    "moodPledgeReward": "Daily Automatic Mood Gain",
+    "affectionDrinkGain": "Affection Gain When Drunk",
+    "moodDrinkGain": "Mood Gain When Drunk"
+  }
 }

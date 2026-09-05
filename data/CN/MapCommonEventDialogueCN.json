@@ -1,4 +1,16 @@
 {
+  "MapExploration": {
+    "TemporaryTemplate": [
+      "浴室",
+      "客厅",
+      "妹妹的房间",
+      "厕所"
+    ],
+    "saveButton": [
+      "读档",
+      "存档"
+    ]
+  },
   "autoUpdateReminder": {
     "0": [
       "更新流程将在第二天起床时自动触发，",

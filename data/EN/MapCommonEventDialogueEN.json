@@ -1,4 +1,16 @@
 {
+  "MapExploration": {
+    "TemporaryTemplate": [
+      "Bathroom",
+      "Living Room",
+      "\\str[120]'s Room",
+      "Toilet"
+    ],
+    "saveButton": [
+      "Load",
+      "Save"     
+    ]
+  },
   "autoUpdateReminder": {
     "0": [
       "The update process will automatically start when you wake up the next day.",

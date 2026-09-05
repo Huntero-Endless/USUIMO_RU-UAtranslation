@@ -100,5 +100,21 @@
     "✦\\str[120]が脱いだばかりのパンツ。",
     "生温かい熱が残っていて、",
     "クロッチ部分がびっしょり湿っている。"
-  ]
+  ],
+  "Fridge": {
+    "objectName": "LV1 冷蔵庫",
+    "objectDescription": [
+      "たくさんの生鮮食材を詰め込める大きな冷蔵庫",
+      "ドアポケットはすでに\\str[120]に占領され、彼女の好きな飲み物専用になっている"
+    ],
+    "allDrinksCollected": [
+      "いろんな味が勢揃い！これで\\str[120]もしばらく機嫌良くいてくれそう！"
+    ],
+    "drinkCapacity": "飲み物容量",
+    "storedCount": "収納数",
+    "affectionPledgeReward": "毎日の自動獲得好感度",
+    "moodPledgeReward": "毎日の自動獲得機嫌",
+    "affectionDrinkGain": "飲用時の獲得好感度",
+    "moodDrinkGain": "飲用時の獲得機嫌"
+  }
 }
